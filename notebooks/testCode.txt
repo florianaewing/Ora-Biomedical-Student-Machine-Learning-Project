@@ -1,0 +1,162 @@
+import os
+import pandas as pd
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import warnings
+warnings.filterwarnings('ignore')
+
+from sklearn.model_selection import StratifiedKFold, cross_validate, cross_val_predict
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import Pipeline
+from sklearn.feature_selection import VarianceThreshold, SelectKBest, mutual_info_classif
+from sklearn.metrics import (
+    classification_report, roc_auc_score, balanced_accuracy_score,
+    confusion_matrix, RocCurveDisplay
+)
+from xgboost import XGBClassifier
+
+# ── Configuration ───────────────────────────────────────────────────
+RESULTS_DIR = "results"
+LIFESPAN_THRESHOLD = 10   # percent; compounds above this are "extenders"
+MIN_DRUGS = 10            # GO terms must appear in at least this many drugs
+N_FEATURES = 300          # top features to keep after SelectKBest
+GO_CATEGORIES = ['biological_process', 'molecular_function']
+
+os.makedirs(RESULTS_DIR, exist_ok=True)
+
+# --------------------------------------------------
+# STEP 1: LOAD DRUGAGE DATA (LABELS)
+# --------------------------------------------------
+
+drugage = pd.read_csv("data/drugage.csv")
+
+drugage['compound_name'] = drugage['compound_name'].str.lower().str.strip()
+
+drugage['avg_lifespan_change_percent'] = pd.to_numeric(
+    drugage['avg_lifespan_change_percent'],
+    errors='coerce'
+)
+
+compound_labels = (
+    drugage
+    .groupby('compound_name')['avg_lifespan_change_percent']
+    .max()
+    .reset_index()
+)
+
+compound_labels['label'] = compound_labels['avg_lifespan_change_percent'].apply(
+    lambda x: 1 if x is not None and x > LIFESPAN_THRESHOLD else 0
+)
+
+print(f"DrugAge loaded: {drugage.shape}")
+print(f"Label threshold: >{LIFESPAN_THRESHOLD}%")
+print(f"Class distribution (all DrugAge): "
+      f"{(compound_labels['label'] == 1).sum()} pos / "
+      f"{(compound_labels['label'] == 0).sum()} neg")
+
+# --------------------------------------------------
+# STEP 2: LOAD DGIDB INTERACTIONS
+# --------------------------------------------------
+
+interactions = pd.read_csv("data/interactions.tsv", sep="\t")
+
+interactions['drug_name'] = interactions['drug_name'].str.lower().str.strip()
+interactions['gene_name'] = interactions['gene_name'].str.upper().str.strip()
+
+drug_gene = interactions[['drug_name', 'gene_name']].drop_duplicates()
+
+# Keep only drugs present in DrugAge
+drug_gene = drug_gene[drug_gene['drug_name'].isin(drugage['compound_name'])]
+
+print(f"DGIdb interactions (after DrugAge filter): {drug_gene.shape}")
+
+# --------------------------------------------------
+# STEP 3: LOAD GENE → GO ANNOTATIONS
+# --------------------------------------------------
+
+go = pd.read_csv("data/gene_go_annotations.tsv", sep="\t")
+
+go['gene_name'] = go['gene_name'].str.upper().str.strip()
+go['go_term'] = go['go_term'].str.strip()
+
+# Filter to biologically informative GO categories
+go = go[go['go_category'].isin(GO_CATEGORIES)]
+
+print(f"GO annotations (after category filter): {go.shape}")
+
+# --------------------------------------------------
+# STEP 4: DRUG → GENE → GO MERGE
+# --------------------------------------------------
+
+drug_gene_go = drug_gene.merge(go, on="gene_name", how="inner")
+
+print(f"Drug-Gene-GO table: {drug_gene_go.shape}")
+
+# --------------------------------------------------
+# STEP 5: BUILD GO FEATURE MATRIX WITH DIMENSIONALITY REDUCTION
+# --------------------------------------------------
+
+# 5a: Binary crosstab (presence/absence, not raw counts)
+X = pd.crosstab(
+    drug_gene_go['drug_name'],
+    drug_gene_go['go_term']
+)
+X = (X > 0).astype(int)
+
+print(f"Raw feature matrix: {X.shape}")
+
+# 5b: Align with labels
+X = X.loc[X.index.isin(compound_labels['compound_name'])]
+y = compound_labels.set_index('compound_name').loc[X.index]['label']
+
+print(f"After label alignment: X={X.shape}, y={y.shape}")
+print(f"Class distribution (pipeline): "
+      f"{(y == 1).sum()} pos / {(y == 0).sum()} neg "
+      f"(ratio {(y == 1).sum() / max((y == 0).sum(), 1):.2f}:1)")
+
+# 5c: Remove rare GO terms
+col_sums = X.sum(axis=0)
+X = X.loc[:, col_sums >= MIN_DRUGS]
+print(f"After min_drugs={MIN_DRUGS} filter: {X.shape}")
+
+# 5d: Remove near-zero-variance features
+vt = VarianceThreshold(threshold=0.01)
+X_filtered = vt.fit_transform(X)
+kept_columns = X.columns[vt.get_support()]
+X = pd.DataFrame(X_filtered, index=X.index, columns=kept_columns)
+print(f"After variance filter: {X.shape}")
+
+# 5e: SelectKBest using mutual information
+if X.shape[1] > N_FEATURES:
+    skb = SelectKBest(mutual_info_classif, k=N_FEATURES)
+    X_selected = skb.fit_transform(X, y)
+    kept_columns = X.columns[skb.get_support()]
+    X = pd.DataFrame(X_selected, index=X.index, columns=kept_columns)
+    print(f"After SelectKBest (k={N_FEATURES}): {X.shape}")
+
+# 5f: Sanitize column names for XGBoost compatibility
+X.columns = X.columns.str.replace(r'[\[\]<>]', '', regex=True)
+
+print(f"\nFinal dataset: X={X.shape}, y={y.shape}")
+print(f"Sparsity: {(X == 0).sum().sum() / (X.shape[0] * X.shape[1]) * 100:.1f}%")
+
+print("\nSample rows (X):")
+print(X.head(10))
+print("\nCorresponding labels (y):")
+print(y.head(10))
+
+# --------------------------------------------------
+# SAVE DATASET TO CSV
+# --------------------------------------------------
+
+dataset = X.copy()
+dataset['label'] = y
+
+output_path = "data/dataset.csv"
+dataset.to_csv(output_path)
+print(f"\nDataset saved to {output_path} ({dataset.shape[0]} rows, {dataset.shape[1]} columns)")
