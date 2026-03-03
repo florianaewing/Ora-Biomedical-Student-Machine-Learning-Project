@@ -1,5 +1,6 @@
 name,found,error,cid,smiles,mol_weight
 Floxuridine,True,,5790.0,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)CO)O,246.19
+Ascorbic acid,True,,54670067.0,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O,176.12
 EUK-8,True,,171249.0,C1=CC=C(C(=C1)C=NCCN=CC2=CC=CC=C2[O-])[O-].[Cl-].[Mn+3],356.68
 Trimethadione,True,,5576.0,CC1(C(=O)N(C(=O)O1)C)C,143.14
 4-dafachronic acid,False,HTTP 404,,,
@@ -7,9 +8,19 @@ Glucose,True,,5793.0,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O,180.16
 Gliotoxin,True,,6223.0,CN1C(=O)[C@]23CC4=CC=C[C@@H]([C@H]4N2C(=O)[C@]1(SS3)CO)O,326.4
 Sorbitol,True,,5780.0,C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O,182.17
 Glycerol,True,,753.0,C(C(CO)O)O,92.09
+Sucrose,True,,5988.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O,342.3
+"Alpha,beta-Trehalose",True,,10871590.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O,342.3
+25-Azacoprostane,True,,162243.0,C[C@H](CCCN(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCCC4)C)C,373.7
+Triolein,True,,5497163.0,CCCCCCCC/C=C\CCCCCCCC(=O)OCC(OC(=O)CCCCCCC/C=C\CCCCCCCC)COC(=O)CCCCCCC/C=C\CCCCCCCC,885.4
+Trielaidin,True,,5364673.0,CCCCCCCC/C=C/CCCCCCCC(=O)OCC(OC(=O)CCCCCCC/C=C/CCCCCCCC)COC(=O)CCCCCCC/C=C/CCCCCCCC,885.4
+Eicosapentaenoic acid,True,,5282847.0,CC/C=C/C/C=C/C/C=C/C/C=C/C/C=C/CCCC(=O)O,302.5
+Palmitic acid,True,,985.0,CCCCCCCCCCCCCCCC(=O)O,256.42
 Plumbagin,True,,10205.0,CC1=CC(=O)C2=C(C1=O)C=CC=C2O,188.18
 Ellagic acid,True,,5281855.0,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O,302.19
 Tannic acid,True,,16129778.0,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H]([C@@H](O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O,1701.2
+Fluoranthene,True,,9154.0,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,202.25
+Naringenin,True,,439246.0,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.25
+Deferoxamine ,True,,2973.0,CC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCN)O)O)O,560.7
 Ferric ammonium citrate,True,,118984355.0,C(C(=O)O)C(CC(=O)O)(C(=O)O)O.N.[Fe+3],265.0
 Quercetin,True,,5280343.0,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.23
 Quinic acid,True,,6508.0,C1[C@H](C([C@@H](CC1(C(=O)O)O)O)O)O,192.17
@@ -18,6 +29,8 @@ Wortmannin,True,,312145.0,CC(=O)O[C@@H]1C[C@]2([C@@H](CCC2=O)C3=C1[C@]4([C@H](OC
 Resveratrol,True,,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24
 Caffeine,True,,2519.0,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,194.19
 Metformin,True,,4091.0,CN(C)C(=N)N=C(N)N,129.16
+D-Erythro-MAPP,True,,124735.0,CCCCCCCCCCCCCC(=O)N[C@H](C)[C@H](C1=CC=CC=C1)O,361.6
+C75,True,,4248455.0,CCCCCCCCC1C(C(=C)C(=O)O1)C(=O)O,254.32
 Valine,True,,6287.0,CC(C)[C@@H](C(=O)O)N,117.15
 Threonine,True,,6288.0,C[C@H]([C@@H](C(=O)O)N)O,119.12
 Taurine,True,,1123.0,C(CS(=O)(=O)O)N,125.15
@@ -29,92 +42,30 @@ Glutamine,True,,5961.0,C(CC(=O)N)[C@@H](C(=O)O)N,146.14
 Glutamate,True,,33032.0,C(CC(=O)O)[C@@H](C(=O)O)N,147.13
 DL-isocitrate,False,HTTP 404,,,
 D-glutamate,True,,23327.0,C(CC(=O)O)[C@H](C(=O)O)N,147.13
+Creatine,True,,586.0,CN(CC(=O)O)C(=N)N,131.13
+Citrate,True,,31348.0,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O,189.1
 Caprylate,True,,119389.0,CCCCCCCC(=O)[O-],143.2
 Asparagine,True,,6267.0,C([C@@H](C(=O)O)N)C(=O)N,132.12
 Agmatine,True,,199.0,C(CCN=C(N)N)CN,130.19
+"2,4-pyridinedicarboxylic acid",True,,10365.0,C1=CN=C(C=C1C(=O)O)C(=O)O,167.12
 Pyruvate,True,,107735.0,CC(=O)C(=O)[O-],87.05
+Zinc Sulfate,True,,24424.0,[O-]S(=O)(=O)[O-].[Zn+2],161.4
 Nitrophenyl piperazine containing compound 1,False,HTTP 404,,,
 Fructose,True,,2723872.0,C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O,180.16
+7-methyl-Dehydrosilybin,False,,,,
 Diethyl Maleate,True,,5271566.0,CCOC(=O)/C=C\C(=O)OCC,172.18
+Menadione,True,,4055.0,CC1=CC(=O)C2=CC=CC=C2C1=O,172.18
 Colanic acid,True,,9548797.0,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4[C@@]3(CCCC4)C)C,360.6
 Epigallocatechin-3-gallate,True,,65064.0,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,458.4
-N6-benzyladenine,True,,62389.0,C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3,225.25
-Luteolin,True,,5280445.0,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24
-Beta-santalol,True,,6857681.0,C/C(=C/CC[C@@]1([C@H]2CC[C@H](C2)C1=C)C)/CO,220.35
-Argyreia boseana extract,False,HTTP 404,,,
-Anisomycin,True,,253602.0,CC(=O)O[C@@H]1[C@H](CN[C@@H]1CC2=CC=C(C=C2)OC)O,265.3
-Thymine,True,,1135.0,CC1=CNC(=O)NC1=O,126.11
-Uric acid,True,,1175.0,C12=C(NC(=O)N1)NC(=O)NC2=O,168.11
-Mifepristone,True,,55245.0,CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)O,429.6
-Arecoline,True,,2230.0,CN1CCC=C(C1)C(=O)OC,155.19
-Inositol,True,,892.0,C1(C(C(C(C(C1O)O)O)O)O)O,180.16
-Berberine,True,,2353.0,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,336.4
-D-xylitol,True,,6912.0,C([C@H](C([C@H](CO)O)O)O)O,152.15
-SR27897,True,,122077.0,C1=CC=C2C(=C1)C=C(N2CC(=O)O)C(=O)NC3=NC(=CS3)C4=CC=CC=C4Cl,411.9
-NSC666076,True,,54676228.0,CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3,331.3
-Nordihydroguaiaretic acid,True,,4534.0,CC(CC1=CC(=C(C=C1)O)O)C(C)CC2=CC(=C(C=C2)O)O,302.4
-Ononetin,True,,259632.0,COC1=CC=C(C=C1)CC(=O)C2=C(C=C(C=C2)O)O,258.27
-3-Morpholinosydnonimine hydrochloride,True,,197942.0,C1COCCN1[N+]2=NOC(=C2)N.[Cl-],206.63
-Alln,True,,6915732.0,C([C@@H]1[C@H]([C@H]([C@H](C(O1)O)N)O)O)O,179.17
-Curcumin,True,,969516.0,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.4
-Alln II,False,HTTP 404,,,
-Lorglumide Sodium,True,,23681233.0,CCCCCN(CCCCC)C(=O)C(CCC(=O)[O-])NC(=O)C1=CC(=C(C=C1)Cl)Cl.[Na+],481.4
-Tetramethylpyrazine,True,,14296.0,CC1=C(N=C(C(=N1)C)C)C,136.19
-Phenoxybenzamine Hydrochloride,True,,5284441.0,CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2.Cl,340.3
-Itraconazole,True,,55283.0,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl,705.6
-Eserine,True,,5983.0,C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C,275.35
-Amikacin hydrate,True,,16218899.0,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@H](CCN)O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)O)N.O,603.6
-Vincristine sulfate,True,,249332.0,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O,923.0
-NSC170984 (Pimozide),False,HTTP 404,,,
-Podofilox,True,,10607.0,COC1=CC(=CC(=C1OC)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@H](C4=CC5=C(C=C24)OCO5)O,414.4
-Rotenone,True,,6758.0,CC(=C)[C@H]1CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC,394.4
-Promazine Hydrochloride,True,,5887.0,CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31.Cl,320.9
-I-BET,False,HTTP 404,,,
-Thiostrepton,True,,16129666.0,CCC(C)C1C(=O)NC(C(=O)NC(=C)C(=O)NC(C(=O)NC23CCC(=NC2C4=CSC(=N4)C(C(OC(=O)C5=NC6=C(C=CC(C6O)N1)C(=C5)C(C)O)C)NC(=O)C7=CSC(=N7)C(NC(=O)C8CSC(=N8)/C(=C\C)/NC(=O)C(NC(=O)C9=CSC3=N9)C(C)O)C(C)(C(C)O)O)C1=NC(=CS1)C(=O)NC(=C)C(=O)NC(=C)C(=O)N)C)C,1664.9
-Viramune,True,,4463.0,CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4,266.3
-Nafadotride,True,,3408722.0,CCCCN1CCCC1CNC(=O)C2=C(C3=CC=CC=C3C(=C2)C#N)OC,365.5
-Kanamycin A sulfate,True,,441374.0,C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N.OS(=O)(=O)O,582.6
-JS-K,True,,9572720.0,CCOC(=O)N1CCN(CC1)/[N+](=N/OC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-])/[O-],384.3
-Levosulpiride,True,,688272.0,CCN1CCC[C@H]1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC,341.4
-Dofetilide,True,,71329.0,CN(CCC1=CC=C(C=C1)NS(=O)(=O)C)CCOC2=CC=C(C=C2)NS(=O)(=O)C,441.6
-Amlexanox,True,,2161.0,CC(C)C1=CC2=C(C=C1)OC3=NC(=C(C=C3C2=O)C(=O)O)N,298.29
-Genistein,True,,5280961.0,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,270.24
-"5,7,4Trimethoxyfavone",False,HTTP 404,,,
-PNU-74654,True,,60119583.0,CC1=CC=C(O1)C=NNC(=O)C2=CC=CC=C2OC3=CC=CC=C3,320.3
-Fluspirilene,True,,3396.0,C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCC(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F,475.6
-Clofilium Tosylate,True,,175533.0,CCCCCCC[N+](CC)(CC)CCCCC1=CC=C(C=C1)Cl.CC1=CC=C(C=C1)S(=O)(=O)[O-],510.2
-Cannabidiol,True,,644019.0,CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O,314.5
-3-methoxycatechol,True,,13622.0,COC1=CC=CC(=C1O)O,140.14
-"7,8-Dihydroxyflavone",True,,1880.0,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C=C3)O)O,254.24
-"6,7-Dihydroxyflavone",True,,5353357.0,C1=CC=C(C=C1)C2=CC(=O)C3=CC(=C(C=C3O2)O)O,254.24
-Chrysin,True,,5281607.0,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24
-Ferulic Acid,True,,445858.0,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18
-N-acetyl-L-cysteine,True,,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2
-Diamide,True,,5353800.0,CN(C)C(=O)/N=N/C(=O)N(C)C,172.19
-Ascorbic acid,True,,54670067.0,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O,176.12
-Sucrose,True,,5988.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O,342.30
-"Alpha,beta-Trehalose",True,,10871590.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O,342.30
-25-Azacoprostane,True,,162243.0,C[C@H](CCCN(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CCCC4)C)C,373.7
-Triolein,True,,5497163.0,CCCCCCCC/C=C\CCCCCCCC(=O)OCC(OC(=O)CCCCCCC/C=C\CCCCCCCC)COC(=O)CCCCCCC/C=C\CCCCCCCC,885.4
-Trielaidin,True,,5364673.0,CCCCCCCC/C=C/CCCCCCCC(=O)OCC(OC(=O)CCCCCCC/C=C/CCCCCCCC)COC(=O)CCCCCCC/C=C/CCCCCCCC,885.4
-Eicosapentaenoic acid,True,,5282847.0,CC/C=C/C/C=C/C/C=C/C/C=C/C/C=C/CCCC(=O)O,302.5
-Palmitic acid,True,,985.0,CCCCCCCCCCCCCCCC(=O)O,256.42
-Fluoranthene,True,,9154.0,C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,202.25
-Naringenin,True,,439246.0,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.25
-Deferoxamine ,True,,2973.0,CC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCN)O)O)O,560.7
-D-Erythro-MAPP,True,,124735.0,CCCCCCCCCCCCCC(=O)N[C@H](C)[C@H](C1=CC=CC=C1)O,361.6
-C75,True,,4248455.0,CCCCCCCCC1C(C(=C)C(=O)O1)C(=O)O,254.32
-Creatine,True,,586.0,CN(CC(=O)O)C(=N)N,131.13
-Citrate,True,,31348.0,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O,189.10
-"2,4-pyridinedicarboxylic acid",True,,10365.0,C1=CN=C(C=C1C(=O)O)C(=O)O,167.12
-Zinc Sulfate,True,,24424.0,[O-]S(=O)(=O)[O-].[Zn+2],161.4
-7-methyl-Dehydrosilybin,False,,,,
-Menadione,True,,4055.0,CC1=CC(=O)C2=CC=CC=C2C1=O,172.18
 dihydrozeatin,True,,439631.0,C[C@@H](CCNC1=NC=NC2=C1NC=N2)CO,221.26
 cis-zeatin,True,,688597.0,C/C(=C/CNC1=NC=NC2=C1NC=N2)/CO,219.24
 trans-zeatin,True,,449093.0,C/C(=C\CNC1=NC=NC2=C1NC=N2)/CO,219.24
+N6-benzyladenine,True,,62389.0,C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3,225.25
 N6-isopentenyladenine,True,,92180.0,CC(=CCNC1=NC=NC2=C1NC=N2)C,203.24
+Luteolin,True,,5280445.0,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24
 "3,7-dimethylxanthine",True,,5429.0,CN1C=NC2=C1C(=O)NC(=O)N2C,180.16
+Beta-santalol,True,,6857681.0,C/C(=C/CC[C@@]1([C@H]2CC[C@H](C2)C1=C)C)/CO,220.35
+Argyreia boseana extract,False,HTTP 404,,,
 KLH46,False,,,,
 AA39-3,False,,,,
 KT117,False,,,,
@@ -161,17 +112,30 @@ KML29,True,,71656212.0,C1CN(CCC1C(C2=CC3=C(C=C2)OCO3)(C4=CC5=C(C=C4)OCO5)O)C(=O)
 MJN202,False,,,,
 ABC91,False,,,,
 ABC36,False,,,,
+Anisomycin,True,,253602.0,CC(=O)O[C@@H]1[C@H](CN[C@@H]1CC2=CC=C(C=C2)OC)O,265.3
 Uracil,True,,1174.0,C1=CNC(=O)NC1=O,112.09
 Thymidine,True,,5789.0,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)O,242.23
+Thymine,True,,1135.0,CC1=CNC(=O)NC1=O,126.11
 Theobromine,True,,5429.0,CN1C=NC2=C1C(=O)NC(=O)N2C,180.16
 Imatinib mesylate,True,,123596.0,CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5.CS(=O)(=O)O,589.7
+Uric acid,True,,1175.0,C12=C(NC(=O)N1)NC(=O)NC2=O,168.11
+Mifepristone,True,,55245.0,CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)O,429.6
+Arecoline,True,,2230.0,CN1CCC=C(C1)C(=O)OC,155.19
+Inositol,True,,892.0,C1(C(C(C(C(C1O)O)O)O)O)O,180.16
+Berberine,True,,2353.0,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,336.4
 Cardamonin,True,,641785.0,COC1=CC(=CC(=C1C(=O)/C=C/C2=CC=CC=C2)O)O,270.28
 Ethoxzolamide,True,,3295.0,CCOC1=CC2=C(C=C1)N=C(S2)S(=O)(=O)N,258.3
+D-xylitol,True,,6912.0,C([C@H](C([C@H](CO)O)O)O)O,152.15
+SR27897,True,,122077.0,C1=CC=C2C(=C1)C=C(N2CC(=O)O)C(=O)NC3=NC(=CS3)C4=CC=CC=C4Cl,411.9
 MG624,True,,6433339.0,CC[N+](CC)(CC)CCOC1=CC=C(C=C1)/C=C/C2=CC=CC=C2.[I-],451.4
+NSC666076,True,,54676228.0,CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3,331.3
+Nordihydroguaiaretic acid,True,,4534.0,CC(CC1=CC(=C(C=C1)O)O)C(C)CC2=CC(=C(C=C2)O)O,302.4
 Vortioxetine,True,,9966051.0,CC1=CC(=C(C=C1)SC2=CC=CC=C2N3CCNCC3)C,298.4
 Methylbenzethonium Cl,False,,,,
 Ritodrine hydrochloride,True,,3040551.0,C[C@H]([C@H](C1=CC=C(C=C1)O)O)NCCC2=CC=C(C=C2)O.Cl,323.8
+Ononetin,True,,259632.0,COC1=CC=C(C=C1)CC(=O)C2=C(C=C(C=C2)O)O,258.27
 Fluvoxamine,True,,5324346.0,COCCCC/C(=N\OCCN)/C1=CC=C(C=C1)C(F)(F)F,318.33
+3-Morpholinosydnonimine hydrochloride,True,,197942.0,C1COCCN1[N+]2=NOC(=C2)N.[Cl-],206.63
 Rizatriptan Benzoate,True,,77997.0,CN(C)CCC1=CNC2=C1C=C(C=C2)CN3C=NC=N3.C1=CC=C(C=C1)C(=O)O,391.5
 Oxcarbazepine,True,,34312.0,C1C2=CC=CC=C2N(C3=CC=CC=C3C1=O)C(=O)N,252.27
 Triflupromazine hydrochloride,True,,66069.0,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)C(F)(F)F.Cl,388.9
@@ -180,52 +144,88 @@ Hydroxyprogesterone caproate,True,,169870.0,CCCCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(CC
 Diphyenyleneiodonium chloride,False,,,,
 3230-2939,False,,,,
 Chlorhexidine,True,,9552079.0,C1=CC(=CC=C1N/C(=N/C(=NCCCCCCN=C(/N=C(/NC2=CC=C(C=C2)Cl)\N)N)N)/N)Cl,505.4
+Alln,True,,6915732.0,C([C@@H]1[C@H]([C@H]([C@H](C(O1)O)N)O)O)O,179.17
 Supercinnamaldehyde,True,,12480412.0,CC(=O)/C=C\1/C2=CC=CC=C2N(C1=O)C,201.22
 Palmatine,True,,19009.0,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.4
 Gramicidin,False,,,,
+Curcumin,True,,969516.0,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.4
 Benzalkonium chloride,True,,3014024.0,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],354.0
 Pinaverium bromide,True,,40703.0,CC1(C2CCC(C1C2)CCOCC[N+]3(CCOCC3)CC4=CC(=C(C=C4Br)OC)OC)C.[Br-],591.4
 Dequalinium chloride,True,,10649.0,CC1=[N+](C2=CC=CC=C2C(=C1)N)CCCCCCCCCC[N+]3=C(C=C(C4=CC=CC=C43)N)C.[Cl-].[Cl-],527.6
 Butaclamol hydrochloride,True,,37460.0,CC(C)(C)[C@]1(CCN2C[C@@H]3C4=CC=CC=C4CCC5=C3C(=CC=C5)[C@H]2C1)O.Cl,398.0
 SKF83959 hydrobromide,True,,11957685.0,CC1=CC(=CC=C1)C2CN(CCC3=C(C(=C(C=C23)O)O)Cl)C.Br,398.7
+Alln II,False,HTTP 404,,,
 Sodium Nitroprusside,True,,6604165.0,[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.N#[O+].[Na+].[Na+].[Fe+2],261.92
 Carbidopa,True,,34359.0,C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN,226.23
 Tiapride Hydrochloride,True,,5702214.0,CCN(CC)CCNC(=O)C1=C(C=CC(=C1)S(=O)(=O)C)OC.Cl,364.9
 NSC 45923 (8-Methyoxypsoralen),False,,,,
+Lorglumide Sodium,True,,23681233.0,CCCCCN(CCCCC)C(=O)C(CCC(=O)[O-])NC(=O)C1=CC(=C(C=C1)Cl)Cl.[Na+],481.4
 Choline Chloride,True,,6209.0,C[N+](C)(C)CCO.[Cl-],139.62
 Cefazolin sodium,True,,23675322.0,CC1=NN=C(S1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)[O-].[Na+],476.5
+Tetramethylpyrazine,True,,14296.0,CC1=C(N=C(C(=N1)C)C)C,136.19
 Scopolamine N-butylbromide,True,,6852391.0,CCCC[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)C4=CC=CC=C4)C.[Br-],440.4
 Salsalate,True,,5161.0,C1=CC=C(C(=C1)C(=O)OC2=CC=CC=C2C(=O)O)O,258.23
 Perphenazine,True,,4748.0,C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCO,404.0
+Phenoxybenzamine Hydrochloride,True,,5284441.0,CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2.Cl,340.3
 NSC 11926 (Aristolochic acid I),False,,,,
+Itraconazole,True,,55283.0,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl,705.6
+Eserine,True,,5983.0,C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C,275.35
 Cinoxacin,True,,2762.0,CCN1C2=CC3=C(C=C2C(=O)C(=N1)C(=O)O)OCO3,262.22
+Amikacin hydrate,True,,16218899.0,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@H](CCN)O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)O)N.O,603.6
+Vincristine sulfate,True,,249332.0,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O,923.0
+NSC170984 (Pimozide),False,HTTP 404,,,
+Podofilox,True,,10607.0,COC1=CC(=CC(=C1OC)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@H](C4=CC5=C(C=C24)OCO5)O,414.4
+Rotenone,True,,6758.0,CC(=C)[C@H]1CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC,394.4
 Nisoldipine,True,,4499.0,CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC,388.4
 Astemizole,True,,2247.0,COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F,458.6
+Promazine Hydrochloride,True,,5887.0,CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31.Cl,320.9
+I-BET,False,HTTP 404,,,
 Furosemide,True,,3440.0,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl,330.74
+Thiostrepton,True,,16129666.0,CCC(C)C1C(=O)NC(C(=O)NC(=C)C(=O)NC(C(=O)NC23CCC(=NC2C4=CSC(=N4)C(C(OC(=O)C5=NC6=C(C=CC(C6O)N1)C(=C5)C(C)O)C)NC(=O)C7=CSC(=N7)C(NC(=O)C8CSC(=N8)/C(=C\C)/NC(=O)C(NC(=O)C9=CSC3=N9)C(C)O)C(C)(C(C)O)O)C1=NC(=CS1)C(=O)NC(=C)C(=O)NC(=C)C(=O)N)C)C,1664.9
 IMS2186,True,,24987039.0,CC1=CC2=C(C=C1)OC/C(=C\C3=CC(=C(C=C3)OC)O)/C2=O,296.3
 Ethotoin,True,,3292.0,CCN1C(=O)C(NC1=O)C2=CC=CC=C2,204.22
+Viramune,True,,4463.0,CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4,266.3
 Propantheline Bromide,True,,9279.0,CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC3=CC=CC=C13)C(C)C.[Br-],448.4
+Nafadotride,True,,3408722.0,CCCCN1CCCC1CNC(=O)C2=C(C3=CC=CC=C3C(=C2)C#N)OC,365.5
 Limonin,True,,179651.0,C[C@@]12CC[C@H]3[C@]([C@@]14[C@H](O4)C(=O)O[C@H]2C5=COC=C5)(C(=O)C[C@@H]6[C@@]37COC(=O)C[C@@H]7OC6(C)C)C,470.5
+Kanamycin A sulfate,True,,441374.0,C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N.OS(=O)(=O)O,582.6
+JS-K,True,,9572720.0,CCOC(=O)N1CCN(CC1)/[N+](=N/OC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-])/[O-],384.3
 Cryptotanshinone,True,,160254.0,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.4
 Auraptene,True,,1550607.0,CC(=CCC/C(=C/COC1=CC2=C(C=C1)C=CC(=O)O2)/C)C,298.4
 Sulfacetamide,True,,5320.0,CC(=O)NS(=O)(=O)C1=CC=C(C=C1)N,214.24
 R(+)-SCH-23390 hydrochloride,True,,11957535.0,CN1CCC2=CC(=C(C=C2[C@H](C1)C3=CC=CC=C3)O)Cl.Cl,324.2
 O6-benzylguanine,True,,4578.0,C1=CC=C(C=C1)COC2=NC(=NC3=C2NC=N3)N,241.25
 Milnacipran Hydrochloride,True,,163701.0,CCN(CC)C(=O)[C@@]1(C[C@@H]1CN)C2=CC=CC=C2.Cl,282.81
+Levosulpiride,True,,688272.0,CCN1CCC[C@H]1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC,341.4
+Dofetilide,True,,71329.0,CN(CCC1=CC=C(C=C1)NS(=O)(=O)C)CCOC2=CC=C(C=C2)NS(=O)(=O)C,441.6
+Amlexanox,True,,2161.0,CC(C)C1=CC2=C(C=C1)OC3=NC(=C(C=C3C2=O)C(=O)O)N,298.29
 Ziprasidone hydrochloride monohydrate,True,,60853.0,C1CN(CCN1CCC2=C(C=C3C(=C2)CC(=O)N3)Cl)C4=NSC5=CC=CC=C54.O.Cl,467.4
+Genistein,True,,5280961.0,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,270.24
 Ceoxide beads,False,,,,
+"5,7,4Trimethoxyfavone",False,HTTP 404,,,
+PNU-74654,True,,60119583.0,CC1=CC=C(O1)C=NNC(=O)C2=CC=CC=C2OC3=CC=CC=C3,320.3
 Epimedium extract,False,,,,
+Fluspirilene,True,,3396.0,C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCC(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F,475.6
 Rotenone II,False,,,,
-Pterostilbene,True,,5281727.0,COC1=CC(=CC(=C1)/C=C/C2=CC=C(C=C2)O)OC,256.30
+Pterostilbene,True,,5281727.0,COC1=CC(=CC(=C1)/C=C/C2=CC=C(C=C2)O)OC,256.3
 Phenelzine sulfate,True,,61100.0,C1=CC=C(C=C1)CCNN.OS(=O)(=O)O,234.28
 Licochalcone A,True,,5318998.0,CC(C)(C=C)C1=C(C=C(C(=C1)/C=C/C(=O)C2=CC=C(C=C2)O)OC)O,338.4
 Ethopropazine Hydrochloride,True,,122824.0,CCN(CC)C(C)CN1C2=CC=CC=C2SC3=CC=CC=C31.Cl,348.9
 Deguelin,True,,107935.0,CC1(C=CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC)C,394.4
+Clofilium Tosylate,True,,175533.0,CCCCCCC[N+](CC)(CC)CCCCC1=CC=C(C=C1)Cl.CC1=CC=C(C=C1)S(=O)(=O)[O-],510.2
 Antimycin A,True,,14957.0,CCCCCC[C@@H]1[C@H]([C@@H](OC(=O)[C@H]([C@H](OC1=O)C)NC(=O)C2=C(C(=CC=C2)NC=O)O)C)OC(=O)CC(C)C,548.6
+Cannabidiol,True,,644019.0,CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O,314.5
+3-methoxycatechol,True,,13622.0,COC1=CC=CC(=C1O)O,140.14
 16(17)-epoxy-21-acetoxy-5-pregnenolone,False,,,,
 Propafenone hydrochloride,True,,36708.0,CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O.Cl,377.9
 ISRIB,True,,1011240.0,C1CC(CCC1NC(=O)COC2=CC=C(C=C2)Cl)NC(=O)COC3=CC=C(C=C3)Cl,451.3
+"7,8-Dihydroxyflavone",True,,1880.0,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C=C3)O)O,254.24
 Scutellarein,True,,5281697.0,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24
+"6,7-Dihydroxyflavone",True,,5353357.0,C1=CC=C(C=C1)C2=CC(=O)C3=CC(=C(C=C3O2)O)O,254.24
+Chrysin,True,,5281607.0,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24
+Ferulic Acid,True,,445858.0,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18
 Zearalenone,True,,5281576.0,C[C@H]1CCCC(=O)CCC/C=C/C2=C(C(=CC(=C2)O)O)C(=O)O1,318.4
+N-acetyl-L-cysteine,True,,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2
+Diamide,True,,5353800.0,CN(C)C(=O)/N=N/C(=O)N(C)C,172.19
 N-acetyl serine,False,,,,
 Glutathione,True,,124886.0,C(CC(=O)N[C@@H](CS)C(=O)NCC(=O)O)[C@@H](C(=O)O)N,307.33

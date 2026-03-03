@@ -67,7 +67,7 @@ Valproic acid,Caenorhabditis elegans,N2,6 mM,,,35.0,S,42.0,,Unknown,,,No,1824866
 Reserpine,Caenorhabditis elegans,N2,30 ÂµM,,,31.0,S,,,Unknown,,,No,18409080,5770.0,CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC,608.7,1
 Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,S,,,Unknown,,,No,18692520,5280343.0,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.23,1
 Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,10.0,S,,,Unknown,,,No,18692520,5280343.0,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.23,1
-Propyl gallate,Caenorhabditis elegans,N2,1 mM,,,12.0,S,0.0,,Unknown,,,No,18755260,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.20,1
+Propyl gallate,Caenorhabditis elegans,N2,1 mM,,,12.0,S,0.0,,Unknown,,,No,18755260,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.2,1
 Taxifolin,Caenorhabditis elegans,N2,820 ÂµM,,,51.0,S,,,Unknown,,,No,18755260,439533.0,C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,304.25,1
 Trolox,Caenorhabditis elegans,N2,3 mM,,,31.0,S,,,Unknown,,,No,18755260,40634.0,CC1=C(C2=C(CCC(O2)(C)C(=O)O)C(=C1O)C)C,250.29,1
 Alpha-lipoic acid,Caenorhabditis elegans,N2,1 mM,,,21.0,S,0.0,,Unknown,,,No,18755260,864.0,C1CSSC1CCCCC(=O)O,206.3,1
@@ -97,16 +97,16 @@ Glucose,Caenorhabditis elegans,N2,2%,,,11.0,NS,,,Unknown,,,No,19883616,5793.0,C(
 Metformin,Caenorhabditis elegans,N2,50 mM,,,40.0,S,0.0,,Unknown,,,No,20090912,4091.0,CN(C)C(=N)N=C(N)N,129.16,1
 FCCP,Caenorhabditis elegans,N2,50 ÂµM,,,17.3,S,21.6,,Unknown,,,No,20346071,3330.0,C1=CC(=CC=C1NN=C(C#N)C#N)OC(F)(F)F,254.17,1
 Tannic acid,Caenorhabditis elegans,N2,100 ÂµM,,,18.0,S,,,Unknown,,,No,20413530,16129778.0,C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H]([C@@H](O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O,1701.2,1
-Maltose,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,20477758,439186.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O,342.30,1
-Trehalose,Caenorhabditis elegans,N2,5 mM,,,32.0,S,,,Unknown,,,No,20477758,7427.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O,342.30,1
+Maltose,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,20477758,439186.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O,342.3,1
+Trehalose,Caenorhabditis elegans,N2,5 mM,,,32.0,S,,,Unknown,,,No,20477758,7427.0,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O,342.3,1
 Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,100 ÂµM,,,20.0,NS,13.0,,Unknown,,,No,20513639,65064.0,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,458.4,1
 Epicatechin,Caenorhabditis elegans,N2,100 ÂµM,,,15.0,NS,11.0,,Unknown,,,No,20513639,72276.0,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,290.27,1
 Procyanidins,Caenorhabditis elegans,N2,65 Âµg/ml,,,12.1,S,,,Unknown,,,No,20717869,107876.0,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC4(C(C(C5=C(C=C(C=C5O4)O)O)O)O)C6=CC(=C(C=C6)O)O,594.5,1
 Dimethyl sulfoxide,Caenorhabditis elegans,N2,0.005,,,29.0,S,18.6,,Unknown,,,No,20828537,679.0,CS(=O)C,78.14,1
-Dapsone,Caenorhabditis elegans,N2,1 mM,,,23.05,S,,,Unknown,,,No,20974969,2955.0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,248.30,1
-Dapsone,Caenorhabditis elegans,N2,0.5 mM,,,22.11,S,,,Unknown,,,No,20974969,2955.0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,248.30,1
-Dapsone,Caenorhabditis elegans,N2,2 mM,,,42.92,S,,,Unknown,,,No,20974969,2955.0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,248.30,1
-Dapsone,Caenorhabditis elegans,N2,2 mM,,,38.22,S,,,Unknown,,,No,20974969,2955.0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,248.30,1
+Dapsone,Caenorhabditis elegans,N2,1 mM,,,23.05,S,,,Unknown,,,No,20974969,2955.0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,248.3,1
+Dapsone,Caenorhabditis elegans,N2,0.5 mM,,,22.11,S,,,Unknown,,,No,20974969,2955.0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,248.3,1
+Dapsone,Caenorhabditis elegans,N2,2 mM,,,42.92,S,,,Unknown,,,No,20974969,2955.0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,248.3,1
+Dapsone,Caenorhabditis elegans,N2,2 mM,,,38.22,S,,,Unknown,,,No,20974969,2955.0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,248.3,1
 Sodium pyruvate,Caenorhabditis elegans,N2,2.5 mM,,,13.9,S,,,Unknown,,,No,21040400,23662274.0,CC(=O)C(=O)[O-].[Na+],110.04,1
 Paraquat,Caenorhabditis elegans,N2,0.1 mM,,,58.0,S,48.0,,Unknown,,,No,21151885,15939.0,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C,186.25,1
 Dichloroacetate,Caenorhabditis elegans,N2,50 Âµg/ml,,,7.9,S,13.5,,Unknown,,,No,21153705,25975.0,C(C(=O)[O-])(Cl)Cl,127.93,1
@@ -187,8 +187,8 @@ Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,5.79,S,18.35,,Unknown,,,No,22155
 Myricetin,Caenorhabditis elegans,N2,100 ÂµM,,,17.99,S,21.65,,Unknown,,,No,22155175,5281672.0,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.23,1
 Reserpine,Caenorhabditis elegans,N2,60 uM,,,30.0,S,,,Unknown,,,No,22212533,5770.0,CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC,608.7,1
 Icariin,Caenorhabditis elegans,N2,45 ÂµM,,,20.7,S,,,Unknown,,,No,22216122,5318997.0,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=C(C2=O)C(=CC(=C3CC=C(C)C)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)C5=CC=C(C=C5)OC)O)O)O,676.7,1
-L-theanine,Caenorhabditis elegans,N2,0.1 ÂµM,,,3.6,S,4.4,,Unknown,,,No,22422488,439378.0,CCNC(=O)CC[C@@H](C(=O)O)N,174.20,1
-Ferric ammonium citrate,Caenorhabditis elegans,N2,9 mM,,,0.53,NS,,,Unknown,,,No,22445852,118984355.0,C(C(=O)O)C(CC(=O)O)(C(=O)O)O.N.[Fe+3],265.00,1
+L-theanine,Caenorhabditis elegans,N2,0.1 ÂµM,,,3.6,S,4.4,,Unknown,,,No,22422488,439378.0,CCNC(=O)CC[C@@H](C(=O)O)N,174.2,1
+Ferric ammonium citrate,Caenorhabditis elegans,N2,9 mM,,,0.53,NS,,,Unknown,,,No,22445852,118984355.0,C(C(=O)O)C(CC(=O)O)(C(=O)O)O.N.[Fe+3],265.0,1
 Proline,Caenorhabditis elegans,N2,5 ÂµM,,,5.8,S,,,Unknown,,,No,22482728,145742.0,C1C[C@H](NC1)C(=O)O,115.13,1
 Tocotrienol,Caenorhabditis elegans,N2,86 Âµg,,,21.0,S,18.0,,Unknown,,,No,22484623,9929901.0,CC(=CCC/C(=C/CC/C(=C/CCC1(CCC2=C(O1)C=CC(=C2)O)C)/C)/C)C,382.6,1
 Tocotrienol,Caenorhabditis elegans,N2,259 Âµg,,,12.0,S,11.0,,Unknown,,,No,22484623,9929901.0,CC(=CCC/C(=C/CC/C(=C/CCC1(CCC2=C(O1)C=CC(=C2)O)C)/C)/C)C,382.6,1
@@ -222,16 +222,16 @@ MAHMA-NONOate,Caenorhabditis elegans,N2,1 mM,,,14.1,S,,,Unknown,,,No,23415229,13
 Fumarate,Caenorhabditis elegans,N2,10 mM,,,16.0,S,,,Unknown,,,No,23472183,5460307.0,C(=C/C(=O)[O-])\C(=O)[O-],114.06,1
 Malate,Caenorhabditis elegans,N2,10 mM,,,14.0,S,,,Unknown,,,No,23472183,525.0,C(C(C(=O)O)O)C(=O)O,134.09,1
 Aspirin,Caenorhabditis elegans,N2,100 ÂµM,,,16.0,S,,,Unknown,,,No,23485446,2244.0,CC(=O)OC1=CC=CC=C1C(=O)O,180.16,1
-Ascr#2,Caenorhabditis elegans,N2,400 nM,,,14.0,S,,,Unknown,,,No,23509272,16066475.0,C[C@H]1[C@@H](C[C@H]([C@@H](O1)O[C@H](C)CCC(=O)C)O)O,246.30,1
+Ascr#2,Caenorhabditis elegans,N2,400 nM,,,14.0,S,,,Unknown,,,No,23509272,16066475.0,C[C@H]1[C@@H](C[C@H]([C@@H](O1)O[C@H](C)CCC(=O)C)O)O,246.3,1
 Ascr#3,Caenorhabditis elegans,N2,400 nM,,,21.0,S,,,Unknown,,,No,23509272,16066476.0,C[C@H]1[C@@H](C[C@H]([C@@H](O1)O[C@H](C)CCCC/C=C/C(=O)O)O)O,302.36,1
 Huperzine A,Caenorhabditis elegans,N2,300 ÂµM,,,13.8,S,,,Unknown,,,No,23523941,854026.0,C/C=C/1\[C@@H]2CC3=C([C@]1(CC(=C2)C)N)C=CC(=O)N3,242.32,1
-Arsenite,Caenorhabditis elegans,N2,100 nM,,,10.0,S,,,Unknown,,,No,23534459,544.0,[O-][As]([O-])[O-],122.920,1
+Arsenite,Caenorhabditis elegans,N2,100 nM,,,10.0,S,,,Unknown,,,No,23534459,544.0,[O-][As]([O-])[O-],122.92,1
 Phenformin,Caenorhabditis elegans,N2,4.5 mM,,,29.0,S,,,Unknown,,,No,23540700,8249.0,C1=CC=C(C=C1)CCN=C(N)N=C(N)N,205.26,1
 Pictilisib,Caenorhabditis elegans,N2,1 ÂµM,,,9.6,S,,,Unknown,,,No,23543623,17755052.0,CS(=O)(=O)N1CCN(CC1)CC2=CC3=C(S2)C(=NC(=N3)C4=C5C=NNC5=CC=C4)N6CCOCC6,513.6,1
 Resveratrol,Caenorhabditis elegans,N2,200 ÂµM,,,0.5,NS,,,Unknown,,,No,23600385,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
 Fenofibrate,Caenorhabditis elegans,N2,10 ÂµM,,,19.0,S,,,Unknown,,,No,23603800,3339.0,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,360.8,1
 Bezafibrate,Caenorhabditis elegans,N2,10 ÂµM,,,13.0,S,,,Unknown,,,No,23603800,39042.0,CC(C)(C(=O)O)OC1=CC=C(C=C1)CCNC(=O)C2=CC=C(C=C2)Cl,361.8,1
-Clofibrate,Caenorhabditis elegans,N2,10 ÂµM,,,16.0,S,,,Unknown,,,No,23603800,2796.0,CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl,242.70,1
+Clofibrate,Caenorhabditis elegans,N2,10 ÂµM,,,16.0,S,,,Unknown,,,No,23603800,2796.0,CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl,242.7,1
 Rapamycin,Caenorhabditis elegans,N2,1 nM,,,16.2,S,,,Unknown,,,No,23698443,5284616.0,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC,914.2,1
 Rapamycin,Caenorhabditis elegans,N2,1 nM,,,20.6,S,,,Unknown,,,No,23698443,5284616.0,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC,914.2,1
 Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,11.3,S,,,Unknown,,,No,23698443,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
@@ -277,7 +277,7 @@ Metergoline,Caenorhabditis elegans,,33 ÂµM,,,23.0,S,,,Unknown,,,No,24134630,28
 "LY-165,163",Caenorhabditis elegans,,33 ÂµM,,,33.0,S,,,Unknown,,,No,24134630,121930.0,C1CN(CCN1CCC2=CC=C(C=C2)N)C3=CC=CC(=C3)C(F)(F)F,349.4,1
 Loxapine succinate,Caenorhabditis elegans,,88 ÂµM,,,43.0,S,,,Unknown,,,No,24134630,71399.0,CN1CCN(CC1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl.C(CC(=O)O)C(=O)O,445.9,1
 Loratadine,Caenorhabditis elegans,,33 ÂµM,,,18.0,S,,,Unknown,,,No,24134630,3957.0,CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1,382.9,1
-LFM-A13,Caenorhabditis elegans,,88 ÂµM,,,27.0,S,,,Unknown,,,No,24134630,54676905.0,C/C(=C(\C#N)/C(=O)NC1=C(C=CC(=C1)Br)Br)/O,360.00,1
+LFM-A13,Caenorhabditis elegans,,88 ÂµM,,,27.0,S,,,Unknown,,,No,24134630,54676905.0,C/C(=C(\C#N)/C(=O)NC1=C(C=CC(=C1)Br)Br)/O,360.0,1
 Ketanserin tartrate,Caenorhabditis elegans,,176 ÂµM,,,13.0,S,,,Unknown,,,No,24134630,16219944.0,C1CN(CCC1C(=O)C2=CC=C(C=C2)F)CCN3C(=O)C4=CC=CC=C4NC3=O.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O,545.5,1
 Kenpaullone,Caenorhabditis elegans,,88 ÂµM,,,27.0,S,,,Unknown,,,No,24134630,3820.0,C1C2=C(C3=CC=CC=C3NC1=O)NC4=C2C=C(C=C4)Br,327.17,1
 Hexahydro-sila-diphenidol,Caenorhabditis elegans,,88 ÂµM,,,15.0,S,,,Unknown,,,No,24134630,3602.0,C1CCC(CC1)[Si](CCCN2CCCCC2)(C3=CC=CC=C3)O,331.6,1
@@ -351,7 +351,7 @@ Metformin,Caenorhabditis elegans,N2,100 mM,,,6.3,NS,,,Unknown,,,No,24889636,4091
 Fluvastatin,Caenorhabditis elegans,N2,50 ÂµM,,,13.0,S,,,Unknown,,,No,24923838,1548972.0,CC(C)N1C2=CC=CC=C2C(=C1/C=C/[C@@H](C[C@@H](CC(=O)O)O)O)C3=CC=C(C=C3)F,411.5,1
 Fluvastatin,Caenorhabditis elegans,N2,20âÎ¼M,,,14.0,S,,,Unknown,,,No,24923838,1548972.0,CC(C)N1C2=CC=CC=C2C(=C1/C=C/[C@@H](C[C@@H](CC(=O)O)O)O)C3=CC=C(C=C3)F,411.5,1
 Caffeic acid phenethylester,Caenorhabditis elegans,,,,,9.0,S,17.0,,Unknown,,,No,24964141,5281787.0,C1=CC=C(C=C1)CCOC(=O)/C=C/C2=CC(=C(C=C2)O)O,284.31,1
-D-beta-hydroxybutyrate,Caenorhabditis elegans,N2,20 mM,,,26.0,S,,,Unknown,,,No,25127866,92135.0,C[C@H](CC(=O)O)O,104.10,1
+D-beta-hydroxybutyrate,Caenorhabditis elegans,N2,20 mM,,,26.0,S,,,Unknown,,,No,25127866,92135.0,C[C@H](CC(=O)O)O,104.1,1
 D609,Caenorhabditis elegans,N2,30 ÂµM,,,25.0,S,26.08,,Unknown,,,No,25437839,4234241.0,C1CC2C(C1)C3CC2CC3OC(=S)[S-].[K+],266.5,1
 PDMP,Caenorhabditis elegans,N2,30 ÂµM,,,37.5,S,39.13,,Unknown,,,No,25437839,114736.0,CCCCCCCCCC(=O)NC(CN1CCOCC1)C(C)C2=CC=CC=C2.Cl,425.0,1
 Myriocin,Caenorhabditis elegans,N2,30 ÂµM,,,31.25,S,26.06,,Unknown,,,No,25437839,6438394.0,CCCCCCC(=O)CCCCCC/C=C/C[C@H]([C@@H]([C@@](CO)(C(=O)O)N)O)O,401.5,1
@@ -417,9 +417,9 @@ Methionine,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,25643626,6137.0
 Lysine,Caenorhabditis elegans,N2,1 mM,,,7.0,S,,,Unknown,,,No,25643626,5962.0,C(CCN)C[C@@H](C(=O)O)N,146.19,1
 Lysine,Caenorhabditis elegans,N2,10 mM,,,6.0,S,,,Unknown,,,No,25643626,5962.0,C(CCN)C[C@@H](C(=O)O)N,146.19,1
 Lysine,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,25643626,5962.0,C(CCN)C[C@@H](C(=O)O)N,146.19,1
-L-theanine,Caenorhabditis elegans,N2,5 mM,,,10.0,S,,,Unknown,,,No,25643626,439378.0,CCNC(=O)CC[C@@H](C(=O)O)N,174.20,1
-L-theanine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626,439378.0,CCNC(=O)CC[C@@H](C(=O)O)N,174.20,1
-L-theanine,Caenorhabditis elegans,N2,100 ÂµM,,,14.0,S,,,Unknown,,,No,25643626,439378.0,CCNC(=O)CC[C@@H](C(=O)O)N,174.20,1
+L-theanine,Caenorhabditis elegans,N2,5 mM,,,10.0,S,,,Unknown,,,No,25643626,439378.0,CCNC(=O)CC[C@@H](C(=O)O)N,174.2,1
+L-theanine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626,439378.0,CCNC(=O)CC[C@@H](C(=O)O)N,174.2,1
+L-theanine,Caenorhabditis elegans,N2,100 ÂµM,,,14.0,S,,,Unknown,,,No,25643626,439378.0,CCNC(=O)CC[C@@H](C(=O)O)N,174.2,1
 L-histidine methyl ester,Caenorhabditis elegans,N2,10 mM,,,4.0,NS,,,Unknown,,,No,25643626,92893.0,COC(=O)[C@H](CC1=CN=CN1)N,169.18,1
 Homocysteine,Caenorhabditis elegans,N2,1 mM,,,13.0,S,,,Unknown,,,No,25643626,91552.0,C(CS)[C@@H](C(=O)O)N,135.19,1
 L-histidine methyl ester,Caenorhabditis elegans,N2,1 mM,,,9.0,S,,,Unknown,,,No,25643626,92893.0,COC(=O)[C@H](CC1=CN=CN1)N,169.18,1
@@ -451,10 +451,10 @@ Galactose,Caenorhabditis elegans,N2,1 mM,,,1.0,NS,,,Unknown,,,No,25643626,6036.0
 DL-lactate,Caenorhabditis elegans,N2,5 mM,,,6.0,S,,,Unknown,,,No,25643626,91435.0,CC(C(=O)[O-])O,89.07,1
 D-glutamate,Caenorhabditis elegans,N2,5 mM,,,18.0,S,,,Unknown,,,No,25643626,23327.0,C(CC(=O)O)[C@H](C(=O)O)N,147.13,1
 D-glutamate,Caenorhabditis elegans,N2,1 mM,,,14.0,S,,,Unknown,,,No,25643626,23327.0,C(CC(=O)O)[C@H](C(=O)O)N,147.13,1
-D-aspartate,Caenorhabditis elegans,N2,5 mM,,,18.0,S,,,Unknown,,,No,25643626,83887.0,C([C@H](C(=O)O)N)C(=O)O,133.10,1
-D-aspartate,Caenorhabditis elegans,N2,10 mM,,,8.0,S,,,Unknown,,,No,25643626,83887.0,C([C@H](C(=O)O)N)C(=O)O,133.10,1
+D-aspartate,Caenorhabditis elegans,N2,5 mM,,,18.0,S,,,Unknown,,,No,25643626,83887.0,C([C@H](C(=O)O)N)C(=O)O,133.1,1
+D-aspartate,Caenorhabditis elegans,N2,10 mM,,,8.0,S,,,Unknown,,,No,25643626,83887.0,C([C@H](C(=O)O)N)C(=O)O,133.1,1
 D-alanine,Caenorhabditis elegans,N2,5 mM,,,16.0,S,,,Unknown,,,No,25643626,71080.0,C[C@H](C(=O)O)N,89.09,1
-D-aspartate,Caenorhabditis elegans,N2,1 mM,,,7.0,NS,,,Unknown,,,No,25643626,83887.0,C([C@H](C(=O)O)N)C(=O)O,133.10,1
+D-aspartate,Caenorhabditis elegans,N2,1 mM,,,7.0,NS,,,Unknown,,,No,25643626,83887.0,C([C@H](C(=O)O)N)C(=O)O,133.1,1
 D-alanine,Caenorhabditis elegans,N2,1 mM,,,14.0,S,,,Unknown,,,No,25643626,71080.0,C[C@H](C(=O)O)N,89.09,1
 D-alanine,Caenorhabditis elegans,N2,10 mM,,,16.0,S,,,Unknown,,,No,25643626,71080.0,C[C@H](C(=O)O)N,89.09,1
 Cysteine,Caenorhabditis elegans,N2,10 mM,,,2.0,NS,,,Unknown,,,No,25643626,5862.0,C([C@@H](C(=O)O)N)S,121.16,1
@@ -464,16 +464,16 @@ Cysteine,Caenorhabditis elegans,N2,1 mM,,,9.0,S,,,Unknown,,,No,25643626,5862.0,C
 Betaine,Caenorhabditis elegans,N2,1 mM,,,9.0,S,,,Unknown,,,No,25643626,247.0,C[N+](C)(C)CC(=O)[O-],117.15,1
 Carnosine,Caenorhabditis elegans,N2,10 ÂµM,,,1.0,NS,,,Unknown,,,No,25643626,439224.0,C1=C(NC=N1)C[C@@H](C(=O)O)NC(=O)CCN,226.23,1
 Carnosine,Caenorhabditis elegans,N2,100 ÂµM,,,4.0,S,,,Unknown,,,No,25643626,439224.0,C1=C(NC=N1)C[C@@H](C(=O)O)NC(=O)CCN,226.23,1
-Arginine,Caenorhabditis elegans,N2,5 mM,,,11.0,S,,,Unknown,,,No,25643626,6322.0,C(C[C@@H](C(=O)O)N)CN=C(N)N,174.20,1
-Caprylate,Caenorhabditis elegans,N2,1 mM,,,7.0,S,,,Unknown,,,No,25643626,119389.0,CCCCCCCC(=O)[O-],143.20,1
-Caprylate,Caenorhabditis elegans,N2,100 ÂµM,,,1.0,NS,,,Unknown,,,No,25643626,119389.0,CCCCCCCC(=O)[O-],143.20,1
+Arginine,Caenorhabditis elegans,N2,5 mM,,,11.0,S,,,Unknown,,,No,25643626,6322.0,C(C[C@@H](C(=O)O)N)CN=C(N)N,174.2,1
+Caprylate,Caenorhabditis elegans,N2,1 mM,,,7.0,S,,,Unknown,,,No,25643626,119389.0,CCCCCCCC(=O)[O-],143.2,1
+Caprylate,Caenorhabditis elegans,N2,100 ÂµM,,,1.0,NS,,,Unknown,,,No,25643626,119389.0,CCCCCCCC(=O)[O-],143.2,1
 Beta-alanine,Caenorhabditis elegans,N2,1 mM,,,13.0,S,,,Unknown,,,No,25643626,239.0,C(CN)C(=O)O,89.09,1
 Beta-alanine,Caenorhabditis elegans,N2,5 mM,,,5.0,NS,,,Unknown,,,No,25643626,239.0,C(CN)C(=O)O,89.09,1
 Asparagine,Caenorhabditis elegans,N2,5 mM,,,5.0,S,,,Unknown,,,No,25643626,6267.0,C([C@@H](C(=O)O)N)C(=O)N,132.12,1
 Asparagine,Caenorhabditis elegans,N2,1 mM,,,1.0,NS,,,Unknown,,,No,25643626,6267.0,C([C@@H](C(=O)O)N)C(=O)N,132.12,1
-Arginine,Caenorhabditis elegans,N2,10 mM,,,15.0,S,,,Unknown,,,No,25643626,6322.0,C(C[C@@H](C(=O)O)N)CN=C(N)N,174.20,1
+Arginine,Caenorhabditis elegans,N2,10 mM,,,15.0,S,,,Unknown,,,No,25643626,6322.0,C(C[C@@H](C(=O)O)N)CN=C(N)N,174.2,1
 Alpha-ketoglutarate,Caenorhabditis elegans,N2,1 mM,,,15.0,S,,,Unknown,,,No,25643626,164533.0,C(CC(=O)[O-])C(=O)C(=O)[O-],144.08,1
-Arginine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626,6322.0,C(C[C@@H](C(=O)O)N)CN=C(N)N,174.20,1
+Arginine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626,6322.0,C(C[C@@H](C(=O)O)N)CN=C(N)N,174.2,1
 Alpha-ketoglutarate,Caenorhabditis elegans,N2,5 mM,,,11.0,S,,,Unknown,,,No,25643626,164533.0,C(CC(=O)[O-])C(=O)C(=O)[O-],144.08,1
 Alpha-ketoglutarate,Caenorhabditis elegans,N2,10 mM,,,7.0,NS,,,Unknown,,,No,25643626,164533.0,C(CC(=O)[O-])C(=O)C(=O)[O-],144.08,1
 Alpha-ketoglutarate,Caenorhabditis elegans,N2,100 ÂµM,,,10.0,S,,,Unknown,,,No,25643626,164533.0,C(CC(=O)[O-])C(=O)C(=O)[O-],144.08,1
@@ -506,12 +506,12 @@ Dehydroabietic acid,Caenorhabditis elegans,N2,50 ÂµM,,,4.8,NS,8.3,,Unknown,,,N
 Echinacoside,Caenorhabditis elegans,N2,600 ÂµM,,,9.47,S,,,Unknown,,,No,26027643,5281771.0,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OCCC5=CC(=C(C=C5)O)O)O)O)O)O,786.7,1
 Echinacoside,Caenorhabditis elegans,N2,300 ÂµM,,,15.82,S,,,Unknown,,,No,26027643,5281771.0,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OCCC5=CC(=C(C=C5)O)O)O)O)O)O,786.7,1
 Echinacoside,Caenorhabditis elegans,N2,150 ÂµM,,,7.6,S,,,Unknown,,,No,26027643,5281771.0,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OCCC5=CC(=C(C=C5)O)O)O)O)O)O,786.7,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,5 mM,,,30.5,S,47.1,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,1 mM,,,28.1,S,17.6,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,5 mM,,,14.6,NS,19.0,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,2 mM,,,27.1,S,23.5,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,1 mM,,,6.1,NS,9.5,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,2 mM,,,5.2,NS,9.5,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,5 mM,,,30.5,S,47.1,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,1 mM,,,28.1,S,17.6,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,5 mM,,,14.6,NS,19.0,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,2 mM,,,27.1,S,23.5,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,1 mM,,,6.1,NS,9.5,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,2 mM,,,5.2,NS,9.5,,Unknown,,,No,26039957,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
 Otophylloside B,Caenorhabditis elegans,N2,50 ÂµM,,,30.0,S,,,Unknown,,,No,26112394,10079485.0,C[C@@H]1[C@H]([C@@H](C[C@@H](O1)O[C@@H]2[C@H](O[C@H](C[C@@H]2OC)O[C@@H]3[C@H](O[C@H](C[C@@H]3OC)O[C@H]4CC[C@@]5([C@H]6C[C@H]([C@@]7([C@@](CC[C@@]7([C@@]6(CC=C5C4)O)O)(C(=O)C)O)C)OC(=O)/C=C(\C)/C(C)C)C)C)C)OC)O,923.1,1
 Lappaol C,Caenorhabditis elegans,N2,100 ÂµM,,,11.5,S,,,Unknown,,,No,26141518,46173978.0,COC1=CC(=CC(=C1O)C(CO)C(C2=CC(=C(C=C2)O)OC)O)C[C@H]3COC(=O)[C@@H]3CC4=CC(=C(C=C4)O)OC,554.6,1
 Lappaol F,Caenorhabditis elegans,N2,100 ÂµM,,,12.5,S,,,Unknown,,,No,26141518,73425459.0,COC1=CC(=CC2=C1O[C@@H]([C@H]2CO)C3=CC(=C(C=C3)O)OC)C[C@H]4COC(=O)[C@@H]4CC5=CC6=C(C(=C5)OC)O[C@@H]([C@H]6CO)C7=CC(=C(C=C7)O)OC,714.8,1
@@ -588,26 +588,26 @@ Resveratrol,Caenorhabditis elegans,N2,1 mM,,,30.4,S,,,Unknown,,,No,27190265,4451
 Resveratrol,Caenorhabditis elegans,N2,500 ÂµM,,,23.7,S,,,Unknown,,,No,27190265,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
 Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,22.2,S,,,Unknown,,,No,27190265,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
 Chlorogenic Acid,Caenorhabditis elegans,N2,50 Î¼M,,,20.1,S,14.28,,Hermaphrodite,,,No,27378235,1794427.0,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,354.31,1
-Urolithin A,Caenorhabditis elegans,N2,10 ÂµM,,,24.0,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.20,1
-Urolithin A,Caenorhabditis elegans,N2,30 ÂµM,,,40.7,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.20,1
-Urolithin A,Caenorhabditis elegans,N2,50 ÂµM,,,45.4,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.20,1
-Urolithin D,Caenorhabditis elegans,N2,50 ÂµM,,,19.0,S,,,Unknown,,,No,27400265,5482042.0,C1=CC(=C(C2=C1C3=CC(=C(C=C3C(=O)O2)O)O)O)O,260.20,1
-Urolithin C,Caenorhabditis elegans,N2,50 ÂµM,,,36.0,S,,,Unknown,,,No,27400265,60198001.0,C1=CC2=C(C=C1O)OC(=O)C3=CC(=C(C=C23)O)O,244.20,1
-Urolithin B,Caenorhabditis elegans,N2,50 ÂµM,,,36.6,S,,,Unknown,,,No,27400265,5380406.0,C1=CC=C2C(=C1)C3=C(C=C(C=C3)O)OC2=O,212.20,1
-Urolithin D,Caenorhabditis elegans,N2,50 ÂµM,,,19.0,S,,,Unknown,,,No,27400265,5482042.0,C1=CC(=C(C2=C1C3=CC(=C(C=C3C(=O)O2)O)O)O)O,260.20,1
-Urolithin C,Caenorhabditis elegans,N2,50 ÂµM,,,36.0,S,,,Unknown,,,No,27400265,60198001.0,C1=CC2=C(C=C1O)OC(=O)C3=CC(=C(C=C23)O)O,244.20,1
-Urolithin B,Caenorhabditis elegans,N2,50 ÂµM,,,36.6,S,,,Unknown,,,No,27400265,5380406.0,C1=CC=C2C(=C1)C3=C(C=C(C=C3)O)OC2=O,212.20,1
-Urolithin A,Caenorhabditis elegans,N2,50 ÂµM,,,37.5,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.20,1
-Urolithin A,Caenorhabditis elegans,N2,30 ÂµM,,,40.7,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.20,1
-Urolithin A,Caenorhabditis elegans,N2,10 ÂµM,,,24.0,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.20,1
+Urolithin A,Caenorhabditis elegans,N2,10 ÂµM,,,24.0,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.2,1
+Urolithin A,Caenorhabditis elegans,N2,30 ÂµM,,,40.7,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.2,1
+Urolithin A,Caenorhabditis elegans,N2,50 ÂµM,,,45.4,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.2,1
+Urolithin D,Caenorhabditis elegans,N2,50 ÂµM,,,19.0,S,,,Unknown,,,No,27400265,5482042.0,C1=CC(=C(C2=C1C3=CC(=C(C=C3C(=O)O2)O)O)O)O,260.2,1
+Urolithin C,Caenorhabditis elegans,N2,50 ÂµM,,,36.0,S,,,Unknown,,,No,27400265,60198001.0,C1=CC2=C(C=C1O)OC(=O)C3=CC(=C(C=C23)O)O,244.2,1
+Urolithin B,Caenorhabditis elegans,N2,50 ÂµM,,,36.6,S,,,Unknown,,,No,27400265,5380406.0,C1=CC=C2C(=C1)C3=C(C=C(C=C3)O)OC2=O,212.2,1
+Urolithin D,Caenorhabditis elegans,N2,50 ÂµM,,,19.0,S,,,Unknown,,,No,27400265,5482042.0,C1=CC(=C(C2=C1C3=CC(=C(C=C3C(=O)O2)O)O)O)O,260.2,1
+Urolithin C,Caenorhabditis elegans,N2,50 ÂµM,,,36.0,S,,,Unknown,,,No,27400265,60198001.0,C1=CC2=C(C=C1O)OC(=O)C3=CC(=C(C=C23)O)O,244.2,1
+Urolithin B,Caenorhabditis elegans,N2,50 ÂµM,,,36.6,S,,,Unknown,,,No,27400265,5380406.0,C1=CC=C2C(=C1)C3=C(C=C(C=C3)O)OC2=O,212.2,1
+Urolithin A,Caenorhabditis elegans,N2,50 ÂµM,,,37.5,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.2,1
+Urolithin A,Caenorhabditis elegans,N2,30 ÂµM,,,40.7,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.2,1
+Urolithin A,Caenorhabditis elegans,N2,10 ÂµM,,,24.0,S,,,Unknown,,,No,27400265,5488186.0,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.2,1
 Salicylamine,Caenorhabditis elegans,N2,500 ÂµM,,,56.0,S,,,Unknown,,,No,27514077,70267.0,C1=CC=C(C(=C1)CN)O,123.15,1
 Salicylamine,Caenorhabditis elegans,N2,100 ÂµM,,,32.0,S,,,Unknown,,,No,27514077,70267.0,C1=CC=C(C(=C1)CN)O,123.15,1
 Fructose,Caenorhabditis elegans,N2,100 mM,,,45.66,S,,,Unknown,,,No,27680107,2723872.0,C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O,180.16,1
 Fructose,Caenorhabditis elegans,N2,55 mM,,,21.96,S,,,Unknown,,,No,27680107,2723872.0,C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O,180.16,1
 Paraquat,Caenorhabditis elegans,N2,100 ÂµM,,,23.73,S,30.77,,Unknown,,,No,27683245,15939.0,C[N+]1=CC=C(C=C1)C2=CC=[N+](C=C2)C,186.25,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2,9 mM,,,24.49,S,64.0,,Unknown,,,No,27683245,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2,6 mM,,,12.53,S,12.0,,Unknown,,,No,27683245,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
-N-acetyl-L-cysteine,Caenorhabditis elegans,N2,3 mM,,,9.07,S,20.0,,Unknown,,,No,27683245,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.20,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,9 mM,,,24.49,S,64.0,,Unknown,,,No,27683245,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,6 mM,,,12.53,S,12.0,,Unknown,,,No,27683245,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,3 mM,,,9.07,S,20.0,,Unknown,,,No,27683245,12035.0,CC(=O)N[C@@H](CS)C(=O)O,163.2,1
 Resveratrol,Caenorhabditis elegans,N2,250 ÂµM,,,16.66,S,3.13,,Unknown,,,No,27683245,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
 Resveratrol,Caenorhabditis elegans,N2,50 ÂµM,,,6.24,S,18.75,,Unknown,,,No,27683245,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
 Vitamin D3,Caenorhabditis elegans,N2,250 ÂµM,,,47.95,S,,,Unknown,,,No,27783938,5280795.0,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C,384.6,1
@@ -788,8 +788,8 @@ Monorden,Caenorhabditis elegans,N2,50 ÂµM,,,24.55,S,,,Unknown,,,No,30970250,63
 Metamizole,Caenorhabditis elegans,N2,10 ÂµM,,,18.3,S,23.2,,Unknown,,,No,31089188,3111.0,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)O,311.36,1
 Alsterpaullone,Caenorhabditis elegans,N2,10 ÂµM,,,12.55,S,11.55,,Unknown,,,No,31089188,5005498.0,C1C2=C(C3=CC=CC=C3NC1=O)NC4=C2C=C(C=C4)[N+](=O)[O-],293.28,1
 Metamizole,Caenorhabditis elegans,N2,1 ÂµM,,,18.3,S,19.0,,Unknown,,,No,31089188,3111.0,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)O,311.36,1
-Azacytidine,Caenorhabditis elegans,N2,1 ÂµM,,,25.8,S,19.4,,Unknown,,,No,31089188,9444.0,C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N,244.20,1
-Anisomycin,Caenorhabditis elegans,N2,1 ÂµM,,,21.96,S,23.13,,Unknown,,,No,31089188,253602.0,CC(=O)O[C@@H]1[C@H](CN[C@@H]1CC2=CC=C(C=C2)OC)O,265.30,1
+Azacytidine,Caenorhabditis elegans,N2,1 ÂµM,,,25.8,S,19.4,,Unknown,,,No,31089188,9444.0,C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N,244.2,1
+Anisomycin,Caenorhabditis elegans,N2,1 ÂµM,,,21.96,S,23.13,,Unknown,,,No,31089188,253602.0,CC(=O)O[C@@H]1[C@H](CN[C@@H]1CC2=CC=C(C=C2)OC)O,265.3,1
 Rosmarinic acid,Caenorhabditis elegans,N2,180 Î¼M,,,63.23,S,40.29,,Unknown,,,No,31206890,5281792.0,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.3,1
 Rosmarinic acid,Caenorhabditis elegans,N2,120 Î¼M,,,49.28,S,31.57,,Unknown,,,No,31206890,5281792.0,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.3,1
 Rosmarinic acid,Caenorhabditis elegans,N2,60 Î¼M,,,40.04,S,16.82,,Unknown,,,No,31206890,5281792.0,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.3,1
@@ -820,10 +820,10 @@ Resveratrol,Caenorhabditis elegans,N2,100 Î¼M,,,5.36,S,,,Unknown,,,No,31820364
 Resveratrol,Caenorhabditis elegans,N2,100 Î¼M,,,11.76,S,,,Unknown,,,No,31820364,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
 Resveratrol,Caenorhabditis elegans,MY16,100 Î¼M,,,20.0,S,,,Unknown,,,No,31820364,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
 Resveratrol,Caenorhabditis elegans,JU775,100 Î¼M,,,41.18,S,,,Unknown,,,No,31820364,445154.0,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,1
-Propyl gallate,Caenorhabditis elegans,N2,200 Î¼M,,,4.17,S,,,Unknown,,,No,31820364,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.20,1
-Propyl gallate,Caenorhabditis elegans,JU775,200 Î¼M,,,35.29,S,,,Unknown,,,No,31820364,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.20,1
-Propyl gallate,Caenorhabditis elegans,MY16,200 Î¼M,,,12.14,S,,,Unknown,,,No,31820364,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.20,1
-Propyl gallate,Caenorhabditis elegans,N2,200 Î¼M,,,11.76,S,,,Unknown,,,No,31820364,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.20,1
+Propyl gallate,Caenorhabditis elegans,N2,200 Î¼M,,,4.17,S,,,Unknown,,,No,31820364,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.2,1
+Propyl gallate,Caenorhabditis elegans,JU775,200 Î¼M,,,35.29,S,,,Unknown,,,No,31820364,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.2,1
+Propyl gallate,Caenorhabditis elegans,MY16,200 Î¼M,,,12.14,S,,,Unknown,,,No,31820364,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.2,1
+Propyl gallate,Caenorhabditis elegans,N2,200 Î¼M,,,11.76,S,,,Unknown,,,No,31820364,4947.0,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,212.2,1
 NP1,Caenorhabditis elegans,N2,50 Î¼M,,,23.53,S,,,Unknown,,,No,31820364,5276854.0,CC1=CC(=C(C=C1)NCCCN)[N+](=O)[O-],209.24,1
 NP1,Caenorhabditis elegans,MY16,50 Î¼M,,,12.14,S,,,Unknown,,,No,31820364,5276854.0,CC1=CC(=C(C=C1)NCCCN)[N+](=O)[O-],209.24,1
 NP1,Caenorhabditis elegans,JU775,50 Î¼M,,,34.4,S,,,Unknown,,,No,31820364,5276854.0,CC1=CC(=C(C=C1)NCCCN)[N+](=O)[O-],209.24,1
@@ -890,7 +890,7 @@ Levosulpiride,Caenorhabditis elegans,N2,100âÂµM,,,4.71,NS,,,Unknown,,,No,
 Geldanamycin,Caenorhabditis elegans,N2,100âÂµM,,,0.84,NS,,,Unknown,,,No,33008901,5288382.0,C[C@H]1C[C@@H]([C@@H]([C@H](/C=C(/[C@@H]([C@H](/C=C\C=C(\C(=O)NC2=CC(=O)C(=C(C1)C2=O)OC)/C)OC)OC(=O)N)\C)C)O)OC,560.6,1
 Doxazosin mesylate,Caenorhabditis elegans,N2,100âÂµM,,,2.96,NS,,,Unknown,,,No,33008901,62978.0,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4COC5=CC=CC=C5O4)N)OC.CS(=O)(=O)O,547.6,1
 Bupivacaine Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,7.43,S,,,Unknown,,,No,33008901,64737.0,CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C.Cl,324.9,1
-Tetraethylammonium chloride,Caenorhabditis elegans,N2,10âÂµM,,,0.68,NS,,,Unknown,,,No,33008901,5946.0,CC[N+](CC)(CC)CC.[Cl-],165.70,1
+Tetraethylammonium chloride,Caenorhabditis elegans,N2,10âÂµM,,,0.68,NS,,,Unknown,,,No,33008901,5946.0,CC[N+](CC)(CC)CC.[Cl-],165.7,1
 Nafadotride,Caenorhabditis elegans,N2,10âÂµM,,,2.36,NS,,,Unknown,,,No,33008901,3408722.0,CCCCN1CCCC1CNC(=O)C2=C(C3=CC=CC=C3C(=C2)C#N)OC,365.5,1
 Bupivacaine Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.62,NS,,,Unknown,,,No,33008901,64737.0,CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C.Cl,324.9,1
 3-Morpholinosydnonimine hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.9,NS,,,Unknown,,,No,33008901,197942.0,C1COCCN1[N+]2=NOC(=C2)N.[Cl-],206.63,1
@@ -905,7 +905,7 @@ DTT,Caenorhabditis elegans,N2,100âÂµM,,,2.56,NS,,,Unknown,,,No,33008901,4
 Lorglumide Sodium,Caenorhabditis elegans,N2,10âÂµM,,,1.2,NS,,,Unknown,,,No,33008901,23681233.0,CCCCCN(CCCCC)C(=O)C(CCC(=O)[O-])NC(=O)C1=CC(=C(C=C1)Cl)Cl.[Na+],481.4,1
 Lomefloxacin Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.63,NS,,,Unknown,,,No,33008901,68624.0,CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O.Cl,387.8,1
 Kanamycin A sulfate,Caenorhabditis elegans,N2,10âÂµM,,,5.1,S,,,Unknown,,,No,33008901,441374.0,C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N.OS(=O)(=O)O,582.6,1
-JS-K,Caenorhabditis elegans,N2,10âÂµM,,,0.8,NS,,,Unknown,,,No,33008901,9572720.0,CCOC(=O)N1CCN(CC1)/[N+](=N/OC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-])/[O-],384.30,1
+JS-K,Caenorhabditis elegans,N2,10âÂµM,,,0.8,NS,,,Unknown,,,No,33008901,9572720.0,CCOC(=O)N1CCN(CC1)/[N+](=N/OC2=C(C=C(C=C2)[N+](=O)[O-])[N+](=O)[O-])/[O-],384.3,1
 Eserine hemisulfate salt,Caenorhabditis elegans,N2,10âÂµM,,,3.4,NS,,,Unknown,,,No,33008901,6419928.0,C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C.C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C.OS(=O)(=O)O,648.8,1
 DTT,Caenorhabditis elegans,N2,10âÂµM,,,2.39,NS,,,Unknown,,,No,33008901,446094.0,C([C@H]([C@@H](CS)O)O)S,154.3,1
 Pirenperone,Caenorhabditis elegans,N2,100âÂµM,,,2.24,NS,,,Unknown,,,No,33008901,4847.0,CC1=C(C(=O)N2C=CC=CC2=N1)CCN3CCC(CC3)C(=O)C4=CC=C(C=C4)F,393.5,1
@@ -918,7 +918,7 @@ Tetracaine HCl,Caenorhabditis elegans,N2,10âÂµM,,,4.81,NS,,,Unknown,,,No,
 Promazine Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,2.56,NS,,,Unknown,,,No,33008901,5887.0,CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31.Cl,320.9,1
 AEG 3482,Caenorhabditis elegans,N2,10âÂµM,,,1.88,NS,,,Unknown,,,No,33008901,698112.0,C1=CC=C(C=C1)C2=CN3C(=N2)SC(=N3)S(=O)(=O)N,280.3,1
 Tetramethylpyrazine,Caenorhabditis elegans,N2,100âÂµM,,,5.65,NS,,,Unknown,,,No,33008901,14296.0,CC1=C(N=C(C(=N1)C)C)C,136.19,1
-Tetraethylammonium chloride,Caenorhabditis elegans,N2,100âÂµM,,,6.58,NS,,,Unknown,,,No,33008901,5946.0,CC[N+](CC)(CC)CC.[Cl-],165.70,1
+Tetraethylammonium chloride,Caenorhabditis elegans,N2,100âÂµM,,,6.58,NS,,,Unknown,,,No,33008901,5946.0,CC[N+](CC)(CC)CC.[Cl-],165.7,1
 Memantine Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,9.2,NS,,,Unknown,,,No,33008901,181458.0,CC12CC3CC(C1)(CC(C3)(C2)N)C.Cl,215.76,1
 Lomefloxacin Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,1.44,NS,,,Unknown,,,No,33008901,68624.0,CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O.Cl,387.8,1
 Itraconazole,Caenorhabditis elegans,N2,100âÂµM,,,1.75,NS,,,Unknown,,,No,33008901,55283.0,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl,705.6,1
@@ -929,7 +929,7 @@ Amlexanox,Caenorhabditis elegans,N2,100âÂµM,,,5.39,NS,,,Unknown,,,No,3300
 Amikacin hydrate,Caenorhabditis elegans,N2,100âÂµM,,,10.03,S,,,Unknown,,,No,33008901,16218899.0,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@H](CCN)O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)O)N.O,603.6,1
 Zomepirac sodium,Caenorhabditis elegans,N2,10âÂµM,,,4.59,NS,,,Unknown,,,No,33008901,23663418.0,CC1=C(N(C(=C1)CC(=O)[O-])C)C(=O)C2=CC=C(C=C2)Cl.O.O.[Na+],349.74,1
 ZD7114 hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.57,NS,,,Unknown,,,No,33008901,9890216.0,COCCNC(=O)COC1=CC=C(C=C1)OCCNC[C@@H](COC2=CC=CC=C2)O.Cl,454.9,1
-Viramune,Caenorhabditis elegans,N2,10âÂµM,,,0.62,NS,,,Unknown,,,No,33008901,4463.0,CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4,266.30,1
+Viramune,Caenorhabditis elegans,N2,10âÂµM,,,0.62,NS,,,Unknown,,,No,33008901,4463.0,CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4,266.3,1
 Sulindac Sulfide,Caenorhabditis elegans,N2,10âÂµM,,,1.71,NS,,,Unknown,,,No,33008901,5352624.0,CC\1=C(C2=C(/C1=C\C3=CC=C(C=C3)SC)C=CC(=C2)F)CC(=O)O,340.4,1
 Ononetin,Caenorhabditis elegans,N2,10âÂµM,,,2.69,NS,,,Unknown,,,No,33008901,259632.0,COC1=CC=C(C=C1)CC(=O)C2=C(C=C(C=C2)O)O,258.27,1
 Mycophenolic acid,Caenorhabditis elegans,N2,10âÂµM,,,0.24,NS,,,Unknown,,,No,33008901,446541.0,CC1=C2COC(=O)C2=C(C(=C1OC)C/C=C(\C)/CCC(=O)O)O,320.3,1
@@ -958,7 +958,7 @@ Metolazone,Caenorhabditis elegans,N2,30 ÂµM,,,29.46,S,,,Unknown,,,No,33216250,
 Metolazone,Caenorhabditis elegans,N2,3 ÂµM,,,20.81,S,,,Unknown,,,No,33216250,4170.0,CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl,365.8,1
 Metolazone,Caenorhabditis elegans,N2,10 ÂµM,,,36.46,S,,,Unknown,,,No,33216250,4170.0,CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl,365.8,1
 AZD2281,Caenorhabditis elegans,N2,0.1 ÂµM,,,28.94,S,,,Unknown,,,No,33216250,23725625.0,C1CC1C(=O)N2CCN(CC2)C(=O)C3=C(C=CC(=C3)CC4=NNC(=O)C5=CC=CC=C54)F,434.5,1
-L-Carnitine,Caenorhabditis elegans,N2,10 Î¼M,,,10.0,S,,,Unknown,,,No,33290254,10917.0,C[N+](C)(C)C[C@@H](CC(=O)[O-])O,161.20,1
+L-Carnitine,Caenorhabditis elegans,N2,10 Î¼M,,,10.0,S,,,Unknown,,,No,33290254,10917.0,C[N+](C)(C)C[C@@H](CC(=O)[O-])O,161.2,1
 STX64,Caenorhabditis elegans,N2,1 Î¼g/ml,,,14.0,S,12.31,,Unknown,,,No,33397961,5287541.0,C1CCC2=C(CC1)C(=O)OC3=C2C=CC(=C3)OS(=O)(=O)N,309.34,1
 Caffeic acid,Caenorhabditis elegans,N2,300 Î¼M,,,17.72,S,,,Unknown,,,No,33432954,689043.0,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1
 Caffeic acid,Caenorhabditis elegans,N2,700 Î¼M,,,11.3,S,,,Unknown,,,No,33432954,689043.0,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1

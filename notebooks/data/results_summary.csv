@@ -1,0 +1,4 @@
+feature_set,auc,accuracy,sensitivity,specificity,mcc,auc_std
+chemical,0.8096,0.852,0.2874,0.9675,0.3616,0.0365
+go,0.711,0.6129,0.8575,0.5628,0.3156,0.0271
+combined,0.8365,0.8651,0.3318,0.9742,0.429,0.0371

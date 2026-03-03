@@ -1,0 +1,560 @@
+feature,importance
+protein binding,0.02071189413687475
+membrane,0.017189918327168572
+plasma membrane,0.01688216937694835
+BalabanJ,0.016276588312287836
+BCUT2D_MWHI,0.015405783807625478
+SMR_VSA3,0.01353618368743498
+Phi,0.01258053083142582
+BCUT2D_CHGLO,0.012199653480410218
+Chi0v,0.011112403054149862
+ExactMolWt,0.010455974148508447
+EState_VSA8,0.010437066347030248
+Kappa1,0.01014895289351366
+LabuteASA,0.009488286094178604
+MinAbsPartialCharge,0.009442772870123734
+SPS,0.009327761918053195
+Kappa3,0.009303948080249116
+MolWt,0.00919160124933038
+qed,0.009190601131972871
+VSA_EState8,0.009137020358083081
+Kappa2,0.009117694156960201
+Chi1v,0.009116375268423222
+HeavyAtomMolWt,0.009090266525128987
+Chi2v,0.008769174905415818
+SMR_VSA10,0.008731823088718709
+BCUT2D_MRHI,0.008518335917338153
+SlogP_VSA5,0.008476880107324967
+BCUT2D_LOGPLOW,0.008343656483007457
+MaxPartialCharge,0.0082850523563588
+BCUT2D_LOGPHI,0.008188809230865573
+EState_VSA2,0.008182276453088553
+MinEStateIndex,0.008136422290560207
+HallKierAlpha,0.008094897281853877
+SMR_VSA5,0.008087193394065483
+MinPartialCharge,0.008027224650211058
+MolMR,0.007994598978174854
+Chi2n,0.007986879948625614
+MinAbsEStateIndex,0.007971254249831024
+TPSA,0.007959842871075004
+BCUT2D_MRLOW,0.007750005497425397
+FpDensityMorgan1,0.0077158689228329375
+Chi0n,0.007675093447173332
+MaxAbsEStateIndex,0.0076439729495373365
+BCUT2D_MWLOW,0.0076305807668016765
+BCUT2D_CHGHI,0.007624982765796928
+VSA_EState3,0.007616123261864129
+MaxAbsPartialCharge,0.007608774364809237
+MaxEStateIndex,0.007489555789485295
+MolLogP,0.007358095330330042
+VSA_EState6,0.007345882002391734
+Chi4v,0.007328122976274099
+Chi3v,0.007219733328110494
+AvgIpc,0.007186464793652775
+VSA_EState7,0.007171308792192057
+SMR_VSA6,0.007131099847671691
+PEOE_VSA8,0.007124837590623907
+fr_NH0,0.007114103795991028
+VSA_EState5,0.006979481522716684
+SlogP_VSA2,0.0069596877036697665
+BertzCT,0.006939776783088325
+FractionCSP3,0.006783027602358772
+NumValenceElectrons,0.0067527239926329485
+Chi1n,0.006748195591150071
+SMR_VSA7,0.00670759069763229
+VSA_EState2,0.006705563128274975
+SMR_VSA1,0.006651731351199033
+Chi3n,0.0066455435812231515
+NumHeteroatoms,0.006625489794290322
+PEOE_VSA9,0.006615988158031468
+FpDensityMorgan3,0.006540932260080251
+Chi4n,0.0065058365707790665
+NumRotatableBonds,0.006372666037711542
+FpDensityMorgan2,0.0063676067908209925
+VSA_EState4,0.006349251328126448
+Ipc,0.006244428970503921
+SlogP_VSA10,0.006223531777409133
+Chi1,0.006214570488351948
+PEOE_VSA7,0.0062014262754451705
+EState_VSA5,0.006154588115125574
+PEOE_VSA1,0.006144973964976731
+Chi0,0.006040781987018844
+PEOE_VSA6,0.006010261941459751
+SlogP_VSA6,0.0059874838968750135
+VSA_EState1,0.005975077835393032
+EState_VSA3,0.0059657238405915105
+SlogP_VSA1,0.005804264227888509
+cytoplasm,0.005625725162275586
+SlogP_VSA3,0.0054213865487554806
+EState_VSA7,0.00532732304756343
+EState_VSA4,0.005215120012725849
+PEOE_VSA2,0.005104797856785538
+PEOE_VSA10,0.005001533413520948
+cytosol,0.004909073348383192
+EState_VSA1,0.004811648056815111
+EState_VSA6,0.004755442598270131
+VSA_EState9,0.004743000577213043
+EState_VSA9,0.004648275481370508
+SlogP_VSA11,0.004577986682632881
+EState_VSA10,0.0044380461728162485
+metal ion binding,0.004417385485337216
+SMR_VSA9,0.004255547271097753
+HeavyAtomCount,0.004227049499384098
+PEOE_VSA11,0.004086672866149121
+SlogP_VSA4,0.00397298831337615
+NOCount,0.003966294590883912
+PEOE_VSA14,0.003918799228317097
+fr_halogen,0.0038629692320163818
+NumHAcceptors,0.003737881776516454
+SMR_VSA4,0.0036888441016761663
+SlogP_VSA12,0.0036449322606582394
+fr_phenol_noOrthoHbond,0.0035829548614855294
+PEOE_VSA3,0.0035654282618208686
+fr_phenol,0.003536113080574513
+fr_NH1,0.0035192219637356524
+SlogP_VSA8,0.0034074495230694553
+VSA_EState10,0.0032952737052141024
+NumHDonors,0.003079536714522931
+NumAtomStereoCenters,0.003000699367904273
+fr_bicyclic,0.0029652666718761136
+fr_Ar_OH,0.0027895298554755942
+NHOHCount,0.002731416824980706
+NumUnspecifiedAtomStereoCenters,0.002571832032567292
+PEOE_VSA5,0.0025699426025095457
+PEOE_VSA12,0.002400093671054606
+fr_aniline,0.002147673104011933
+PEOE_VSA4,0.002123460131588574
+RingCount,0.002045409307659392
+fr_ether,0.0019942821975470542
+NumAmideBonds,0.0019826343021610315
+NumHeterocycles,0.0019572797594896206
+fr_amide,0.0018995998683819177
+fr_allylic_oxid,0.0018725680080245019
+NumSaturatedRings,0.0018567389560415924
+NumAliphaticHeterocycles,0.0018178869542144998
+PEOE_VSA13,0.0018109758660525795
+NumAliphaticRings,0.00179275107719546
+fr_C_O,0.001781760664068983
+NumAromaticCarbocycles,0.0017165307126949898
+identical protein binding,0.0016998529832958004
+NumAromaticRings,0.0016919782054811378
+fr_Ar_N,0.0016873225637567446
+fr_benzene,0.0016655009753541576
+fr_Al_OH,0.0016343141270616147
+fr_Ndealkylation1,0.0016340172720902472
+signal transduction,0.0015905945100858215
+G protein-coupled receptor signaling pathway,0.0015767658395038132
+nucleoplasm,0.0015745989587176673
+fr_C_O_noCOO,0.001518593063649952
+synapse,0.001479586401653618
+fr_aryl_methyl,0.0014121545363691133
+fr_Al_OH_noTert,0.0014042118427395123
+fr_para_hydroxylation,0.001401719877331547
+NumAliphaticCarbocycles,0.0013905785752214533
+endoplasmic reticulum,0.0013592225907624478
+fr_NH2,0.0012961107861288515
+fr_ketone,0.0012929687717740984
+fr_COO2,0.0012211175119173604
+fr_ester,0.0012192063012750403
+NumSaturatedHeterocycles,0.0012181162986998303
+extracellular exosome,0.0011800780743564672
+fr_methoxy,0.0011380491590566484
+fr_unbrch_alkane,0.00113157079428815
+nucleus,0.0011241338051916003
+fr_alkyl_halide,0.0011046100952400253
+fr_piperzine,0.0010835843443904845
+fr_COO,0.00106367553460822
+DNA binding,0.0010524619174171598
+NumAromaticHeterocycles,0.0010051564227367394
+dendrite,0.000992892951109382
+fr_Al_COO,0.0009420218931251516
+G protein-coupled receptor activity,0.0009090785408192015
+mitochondrion,0.000904304595149257
+NumSaturatedCarbocycles,0.0009034704196292023
+cell surface,0.0008890170236126753
+fr_pyridine,0.0008613774281694349
+fr_ketone_Topliss,0.0008557018644859128
+fr_lactone,0.0008361913263499962
+fr_piperdine,0.0007838143305346289
+chemical synaptic transmission,0.0007698916001842395
+presynaptic membrane,0.0007415651081934403
+neuron projection,0.0007267348376669187
+protein-containing complex,0.0007142256351566021
+SlogP_VSA7,0.000698999887121866
+oxidoreductase activity,0.0006884458119935012
+fr_Ar_NH,0.0006383445419685847
+fr_Ndealkylation2,0.0006307367774870564
+NumBridgeheadAtoms,0.0006279805069733685
+endosome,0.0005988474411592861
+apical plasma membrane,0.0005756278203873504
+positive regulation of transcription by RNA polymerase II,0.0005709149430744112
+SMR_VSA2,0.0005705495814743192
+fr_ArN,0.0005670350062210985
+zinc ion binding,0.0005567295015489011
+fr_Nhpyrrole,0.0005547460123623385
+Golgi apparatus,0.0005437310562621438
+fr_priamide,0.0005311778203067527
+fr_quatN,0.0005077033450178233
+chromatin,0.00048068746410103857
+cell projection,0.00047480380688243976
+fr_sulfonamd,0.00045793886906745983
+protein homodimerization activity,0.0004515698634589294
+negative regulation of blood pressure,0.0004511822438515502
+fr_Ar_COO,0.00045091364723229315
+extracellular region,0.00044627240090407876
+fr_Imine,0.0004428780493342208
+response to toxic substance,0.0004426984037304374
+negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,0.0004392182614129586
+postsynaptic membrane,0.0004355275763550775
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.00043496444050531173
+endoplasmic reticulum membrane,0.00042996861656412904
+ATP binding,0.00042447912886726615
+"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",0.0004180923307171941
+centrosome,0.0004095329876777835
+negative regulation of transcription by RNA polymerase II,0.0004035894662459586
+RNA binding,0.000379839829595675
+release of sequestered calcium ion into cytosol,0.00037489525822321
+rhythmic process,0.0003634101535309401
+protein kinase binding,0.0003563652676796671
+fr_sulfide,0.00035634515710956634
+steroid hormone receptor signaling pathway,0.00035468198140380087
+axon,0.000352362687885898
+neuronal cell body,0.00035063282636018343
+nuclear receptor activity,0.00034639771973527504
+receptor complex,0.00034477539432749017
+enzyme binding,0.00033182795223879783
+endonuclease activity,0.00030955630162666744
+phospholipase C-activating G protein-coupled receptor signaling pathway,0.0003058828252785848
+response to antibiotic,0.0003007863767462129
+visual learning,0.00029935967217395665
+norepinephrine binding,0.0002954454196514702
+regulation of heart rate by cardiac conduction,0.0002922439575507501
+estrogen response element binding,0.0002866440663495648
+learning,0.00028335361015506614
+cell-cell signaling,0.0002817059197453125
+response to hypoxia,0.0002751866993288626
+proteolysis,0.0002740208418376748
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,0.00027344113237676913
+fear response,0.00026929939783070417
+hydrolase activity,0.000265931313364927
+positive regulation of gene expression,0.0002655065429869614
+monoatomic ion channel complex,0.0002527270765197423
+extracellular space,0.0002512902451342457
+nervous system development,0.0002498766596949512
+cardiac muscle cell action potential involved in contraction,0.000248610026533738
+sequence-specific DNA binding,0.00024750074111520084
+positive regulation of MAPK cascade,0.0002461607056463319
+cytoskeleton,0.00024577250987065937
+synaptic vesicle membrane,0.00024527929934599503
+monoatomic ion transmembrane transport,0.00024313801290102655
+positive regulation of cell population proliferation,0.00024098645921069237
+negative regulation of apoptotic process,0.0002384893642987513
+negative regulation of translation,0.00023780271739483935
+positive regulation of nitric oxide biosynthetic process,0.0002361325526524615
+Z disc,0.00023549140395211302
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,0.00023445474257728136
+signaling receptor binding,0.00023164861716851314
+memory,0.00022933647906285038
+fr_imidazole,0.00022748867974722753
+vasodilation,0.00022596279590492163
+positive regulation of DNA-templated transcription,0.0002257421946777407
+regulation of postsynaptic membrane potential,0.00022264228425569014
+calmodulin binding,0.00021993487643019133
+regulation of vasoconstriction,0.0002190988361679726
+"synaptic transmission, glutamatergic",0.0002161792087079002
+positive regulation of cytosolic calcium ion concentration,0.00021579337468427217
+negative regulation of epithelial cell proliferation,0.00021561309232856132
+negative regulation of cell population proliferation,0.00021365316082852553
+non-motile cilium,0.0002122947632295341
+sodium ion transmembrane transport,0.0002112412508130297
+glutamatergic synapse,0.00021085619934021267
+positive regulation of vasoconstriction,0.00021034618403831089
+transmembrane transport,0.00020898335026245604
+positive regulation of MAP kinase activity,0.00020776278201534103
+regulation of presynaptic membrane potential,0.00020505035738095913
+transferase activity,0.00020497771937908545
+NumSpiroAtoms,0.00020440532196394634
+fr_nitrile,0.00020316838264982582
+perinuclear region of cytoplasm,0.00020023427025292847
+regulation of blood pressure,0.00019990286504606807
+presynaptic modulation of chemical synaptic transmission,0.00019605666711023848
+phosphatidylinositol 3-kinase/protein kinase B signal transduction,0.00019233966455033138
+scaffold protein binding,0.00019124972875032796
+positive regulation of apoptotic process,0.00019000865481962309
+calcium ion transmembrane transport,0.0001896290057965295
+fr_lactam,0.00018629578475206406
+cerebral cortex GABAergic interneuron migration,0.00018512114932864069
+positive regulation of ERK1 and ERK2 cascade,0.0001844588313543543
+ATPase binding,0.00018352489682053026
+negative regulation of calcium ion transport,0.00018172471494865296
+intracellular calcium ion homeostasis,0.00018122343589228556
+MAPK cascade,0.00018056391445220803
+maternal behavior,0.00017769315559497493
+locomotory behavior,0.00017721960492732833
+Schaffer collateral - CA1 synapse,0.0001745426141170638
+regulation of inflammatory response,0.0001744503424709587
+photoreceptor outer segment,0.00017250573769570407
+presynaptic active zone membrane,0.00017043227489058353
+transcription coactivator binding,0.0001703703086354939
+grooming behavior,0.00016966985439521756
+protein domain specific binding,0.00016880447359583078
+positive regulation of smooth muscle contraction,0.00016825533376940653
+temperature homeostasis,0.00016694857142689936
+nucleolus,0.00016684131207602996
+apoptotic process,0.0001662512875751387
+fr_morpholine,0.00016137992285508368
+heart development,0.00016115655535994824
+negative regulation of protein secretion,0.0001607946782982995
+negative regulation of DNA-templated transcription,0.0001605766957622457
+steroid binding,0.00016057620506731762
+protein heterodimerization activity,0.00015997441220163983
+learning or memory,0.00015959325329055504
+translation,0.0001585103117787683
+chromosome segregation,0.00015777559622268326
+sperm flagellum,0.00015733829217311389
+endopeptidase activity,0.000157121128909901
+adenylate cyclase-activating adrenergic receptor signaling pathway,0.00015661100376751714
+sequence-specific double-stranded DNA binding,0.0001557687948212196
+fr_urea,0.00015537053045240165
+regulation of atrial cardiac muscle cell membrane repolarization,0.00015533516236415537
+membrane depolarization during cardiac muscle cell action potential,0.0001519762078349467
+Hsp90 protein binding,0.00014669752810755155
+positive regulation of protein import into nucleus,0.00014564530593964034
+regulation of vascular permeability,0.00014534654820297935
+neuron migration,0.0001448867338514307
+chromatin binding,0.00014244416160805268
+positive regulation of action potential,0.0001419857959979626
+negative regulation of insulin secretion,0.00014124969882090964
+postsynapse,0.00014119554656173792
+motor behavior,0.00013934040547411056
+cellular response to histamine,0.00013872709823774541
+neurotransmitter receptor activity,0.00013838561721443148
+caveola,0.00013825367909578418
+chromosome,0.00013623767318347147
+acetylcholine receptor signaling pathway,0.00013555394882161723
+vasoconstriction,0.00013518312479493283
+serine-type endopeptidase activity,0.00013403781376492032
+membrane depolarization during AV node cell action potential,0.00013394745097368627
+axon terminus,0.0001333957760734468
+response to cold,0.00013232390716976056
+endosome membrane,0.0001300886240393827
+nuclear receptor-mediated steroid hormone signaling pathway,0.00013004830439885713
+cellular response to lipopolysaccharide,0.00012954811917328935
+epithelial cell proliferation,0.0001294944175282037
+sodium ion transport,0.00012916271462092813
+negative regulation of dopamine secretion,0.00012839903125782694
+dopamine metabolic process,0.00012801908494683266
+angiogenesis,0.0001278384412624181
+GABA-ergic synapse,0.00012777442016759612
+fr_imide,0.00012769191626717832
+voltage-gated calcium channel activity,0.0001274368510014047
+ubiquitin protein ligase binding,0.000126922317834854
+response to oxidative stress,0.00012569568350416393
+serotonin receptor activity,0.00012479187085286827
+cilium,0.00012418653234810836
+male gonad development,0.0001241380296961396
+adult walking behavior,0.00012373477462377684
+adrenergic receptor signaling pathway,0.0001223676702081964
+behavioral response to cocaine,0.00012223698153326532
+symbiont entry into host cell,0.00012202720497200316
+cell population proliferation,0.00012185401729520565
+regulation of synaptic plasticity,0.00012036740076037024
+G protein-coupled dopamine receptor signaling pathway,0.00011992934808097955
+sarcolemma,0.00011929254857359537
+neuronal action potential,0.00011912132343064804
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,0.0001188084115879732
+positive regulation of cell migration,0.00011717315295453554
+early endosome,0.00011714471114238992
+transmembrane transporter activity,0.00011653135923811084
+EState_VSA11,0.00011478345096700746
+G protein-coupled serotonin receptor activity,0.00011249175868174697
+endoplasmic reticulum lumen,0.00011222183779667854
+perikaryon,0.00011187716510462204
+neurotransmitter transport,0.00011122715313353229
+regulation of membrane potential,0.00011040601087385142
+neurotransmitter transmembrane transporter activity,0.00011033457533414757
+ankyrin binding,0.00011012553937796113
+peptidase activity,0.00010979480387240175
+histamine receptor activity,0.00010961748655325488
+cell division,0.00010871788265981084
+regulation of cardiac muscle contraction,0.00010864365909723497
+cell differentiation,0.00010841081050006786
+dopamine binding,0.0001066178177864574
+dopamine neurotransmitter receptor activity,0.00010647024998649194
+transmembrane transporter binding,0.00010613156561337994
+lysosome,0.00010516732554831802
+TBP-class protein binding,0.00010417412079546694
+regulation of dopamine uptake involved in synaptic transmission,0.00010156690833103282
+positive regulation of cell migration involved in sprouting angiogenesis,0.0001010579934097589
+pigmentation,9.942722832569739e-05
+chloride transmembrane transport,9.778568863407628e-05
+negative regulation of gene expression,9.71139282692941e-05
+monoatomic ion transport,9.706028061064279e-05
+positive regulation of miRNA transcription,9.64421133798793e-05
+response to pain,9.57079203573025e-05
+regulation of cell population proliferation,9.504664893642749e-05
+regulation of sodium ion transport,9.448672166852315e-05
+cellular response to retinoic acid,9.253256256257977e-05
+cellular response to glucocorticoid stimulus,9.199445462013761e-05
+membrane depolarization during SA node cell action potential,9.195399254329494e-05
+cellular response to hypoxia,9.187898524087417e-05
+membrane depolarization during atrial cardiac muscle cell action potential,9.1675237008056e-05
+insulin-like growth factor receptor signaling pathway,9.143750838058649e-05
+phospholipase C-activating dopamine receptor signaling pathway,9.110974731861984e-05
+circadian rhythm,8.969203043833438e-05
+signaling receptor activity,8.934604039148773e-05
+sodium ion homeostasis,8.918568004516441e-05
+cell surface receptor signaling pathway,8.906511829816352e-05
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,8.836915629217567e-05
+regulation of locomotion involved in locomotory behavior,8.775349948276697e-05
+"positive regulation of synaptic transmission, glutamatergic",8.749623555680622e-05
+cell body,8.710808160601953e-05
+neuronal cell body membrane,8.693033936217764e-05
+intercalated disc,8.675996183086153e-05
+dopaminergic synapse,8.663618805126351e-05
+postsynaptic density membrane,8.620500141991965e-05
+gamma-aminobutyric acid signaling pathway,8.56920683903385e-05
+adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway,8.561413810658137e-05
+membrane raft,8.401120334219756e-05
+positive regulation of urine volume,8.349122776210364e-05
+cellular response to mechanical stimulus,8.256436459948219e-05
+transmembrane signaling receptor activity,8.21268098564135e-05
+adult behavior,8.176359973725097e-05
+dendritic spine,8.138956135761969e-05
+"negative regulation of synaptic transmission, dopaminergic",7.900325991477251e-05
+negative regulation of cell migration,7.866495023932622e-05
+cell migration,7.793606277540187e-05
+action potential,7.727382814771127e-05
+presynapse,7.661248831847721e-05
+lateral plasma membrane,7.507409435958127e-05
+monoamine transmembrane transporter activity,7.484764724589959e-05
+sensory perception of pain,7.479117441390012e-05
+sodium ion binding,7.427978401423186e-05
+amyloid-beta binding,7.391584316973168e-05
+associative learning,7.283588959064522e-05
+regulation of heart rate,7.282838740554651e-05
+calcium-mediated signaling,7.272224668162515e-05
+membrane depolarization,7.04787262739024e-05
+postsynaptic specialization membrane,7.045005709142266e-05
+postsynaptic density,7.034387362728801e-05
+spermatogenesis,7.030279291755798e-05
+nuclear membrane,7.024043462711153e-05
+positive regulation of neuron apoptotic process,6.885900456105955e-05
+"negative regulation of circadian sleep/wake cycle, sleep",6.868997543694514e-05
+nuclear speck,6.85478544850258e-05
+regulation of cell shape,6.836183137213143e-05
+serotonin binding,6.814718809474491e-05
+behavioral fear response,6.746120644604519e-05
+nuclear envelope,6.699624702569698e-05
+positive regulation of long-term synaptic potentiation,6.676007484171118e-05
+carboxypeptidase activity,6.536541199365648e-05
+brown fat cell differentiation,6.431062625365728e-05
+negative regulation of smooth muscle contraction,6.40914438758422e-05
+positive regulation of growth hormone secretion,6.404454898172012e-05
+intracellular signal transduction,6.385844012006361e-05
+positive regulation of dopamine uptake involved in synaptic transmission,6.264245216071516e-05
+synapse assembly,6.18317197437913e-05
+autophagy,6.135835771492093e-05
+cell adhesion,6.0765972890750395e-05
+focal adhesion,6.0191091463422035e-05
+sensory perception,5.965247886201939e-05
+G protein-coupled receptor complex,5.931864951666911e-05
+regulation of cardiac muscle cell contraction,5.92702865755248e-05
+T-tubule,5.907078773348361e-05
+"negative regulation of synaptic transmission, glutamatergic",5.805930366249527e-05
+feeding behavior,5.8000515208219864e-05
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,5.747362487761928e-05
+regulation of smooth muscle contraction,5.702164367891816e-05
+positive regulation of smooth muscle cell proliferation,5.6800638391970145e-05
+excitatory postsynaptic potential,5.617323644512141e-05
+G-protein alpha-subunit binding,5.593737009877961e-05
+positive regulation of cold-induced thermogenesis,5.5182354922415596e-05
+platelet aggregation,5.474552924160523e-05
+basolateral plasma membrane,5.4099793193099206e-05
+anchoring junction,5.386622741488233e-05
+cell wall organization,5.3696610867258404e-05
+neuroblast proliferation,5.305726869709105e-05
+microtubule cytoskeleton,5.298662429717025e-05
+positive regulation of neurogenesis,5.2343964859731266e-05
+acetylcholine binding,5.1670845840023834e-05
+positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,5.147319058201031e-05
+nuclear body,5.14222524259919e-05
+synaptic membrane,5.131145457357113e-05
+prepulse inhibition,5.097837421356248e-05
+acid secretion,5.087137047763118e-05
+glycosyltransferase activity,5.0837618107276904e-05
+amino acid transport,5.05925886875738e-05
+cellular response to steroid hormone stimulus,5.009697762116076e-05
+axonogenesis,4.9980346572047644e-05
+arachidonate secretion,4.9893619122090534e-05
+regulation of potassium ion transport,4.857569229105895e-05
+basal plasma membrane,4.788424728717253e-05
+mast cell degranulation,4.639596186653259e-05
+positive regulation of neuroblast proliferation,4.517206113153913e-05
+dopamine uptake involved in synaptic transmission,4.51384580668784e-05
+ciliary membrane,4.360909167162875e-05
+nitric-oxide synthase binding,4.3328176983966934e-05
+nervous system process involved in regulation of systemic arterial blood pressure,4.270969581152574e-05
+positive regulation of receptor internalization,4.269820306595091e-05
+external side of plasma membrane,4.245611853593079e-05
+negative regulation of cytosolic calcium ion concentration,4.1856323053772136e-05
+positive regulation of cytokinesis,4.1688187015515404e-05
+cellular response to calcium ion,4.131712416411854e-05
+auditory behavior,4.0676785213834554e-05
+dentate gyrus development,4.0251647040093296e-05
+neurotransmitter reuptake,4.012693014242611e-05
+adenylate cyclase-inhibiting dopamine receptor signaling pathway,4.003225717993232e-05
+cellular response to amyloid-beta,3.9481056783157844e-05
+G protein-coupled receptor internalization,3.9315161367572325e-05
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,3.892494892250651e-05
+"dopamine neurotransmitter receptor activity, coupled via Gi/Go",3.760900449165724e-05
+negative regulation of neuron migration,3.757547326077826e-05
+positive regulation of G protein-coupled receptor signaling pathway,3.6908188983191034e-05
+blood vessel diameter maintenance,3.689558025029986e-05
+Wnt signaling pathway,3.624695914372638e-05
+long-term memory,3.550495960684275e-05
+ovulation cycle,3.495746248483395e-05
+epidermal growth factor receptor signaling pathway,3.454622803494164e-05
+neuron apoptotic process,3.415579655043328e-05
+striatum development,3.378099644508774e-05
+extracellular ligand-gated monoatomic ion channel activity,3.259761493705886e-05
+sensory perception of smell,3.2147265327868524e-05
+cellular response to dexamethasone stimulus,3.186008501330166e-05
+negative regulation of innate immune response,3.177779111984672e-05
+virus receptor activity,3.1766708998319114e-05
+cellular response to ethanol,3.117775759154748e-05
+modulation of chemical synaptic transmission,3.082337601742556e-05
+"regulation of synaptic transmission, GABAergic",3.0731045228926176e-05
+forebrain development,3.022339908729584e-05
+positive regulation of renal sodium excretion,2.9634638866161777e-05
+regulation of secretion by cell,2.958237096095628e-05
+cell junction,2.743085708287846e-05
+startle response,2.732661859235305e-05
+ligand-gated monoatomic ion channel activity,2.7290878075826257e-05
+regulation of long-term neuronal synaptic plasticity,2.7013372057606587e-05
+clathrin-coated endocytic vesicle membrane,2.67039104071026e-05
+regulation of neurotransmitter uptake,2.5736209838147616e-05
+regulation of synapse structural plasticity,2.4714599175306126e-05
+behavioral response to ethanol,2.454233906558714e-05
+positive regulation of multicellular organism growth,2.446970607895042e-05
+regulation of dopamine secretion,2.291749102045019e-05
+positive regulation of glial cell-derived neurotrophic factor production,2.2619044898826774e-05
+negative regulation of cellular response to hypoxia,2.1622748166768194e-05
+positive regulation of epithelial cell proliferation,2.112618121271806e-05
+cytoplasmic vesicle membrane,2.0819500716793713e-05
+regulation of MAPK cascade,2.044460931779612e-05
+hyaloid vascular plexus regression,1.979392276147962e-05
+postsynaptic modulation of chemical synaptic transmission,1.43864895939418e-05
+orbitofrontal cortex development,1.4323712185419147e-05
+protein localization,1.3865428076668179e-05
+adenohypophysis development,1.3778693474457203e-05
+response to axon injury,1.3679077108190215e-05
+branching morphogenesis of a nerve,1.2632655033985097e-05
+negative regulation of synaptic transmission,1.2208820815871063e-05
+neuron development,9.239014110020155e-06
+Golgi membrane,7.680659037524656e-06
+ionotropic glutamate receptor binding,7.619683359419158e-06
+protein phosphorylation,6.914802425361688e-06
+neuron-neuron synaptic transmission,5.404726647720314e-06
+negative regulation of dopamine receptor signaling pathway,3.5670784908583656e-06
+drinking behavior,2.5171528921799334e-07
