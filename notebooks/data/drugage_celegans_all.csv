@@ -1,0 +1,1587 @@
+compound_name,species,strain,dosage,age_at_initiation,treatment_duration,avg_lifespan_change_percent,avg_lifespan_significance,max_lifespan_change_percent,max_lifespan_significance,gender,weight_change_percent,weight_change_significance,itp,pubmed_id
+2-Selenium-bridged-beta-cyclodextrin,Caenorhabditis elegans,N2,5 mM,,,8.69,S,4.76,,Unknown,,,No,101039
+2-Selenium-bridged-beta-cyclodextrin,Caenorhabditis elegans,N2,0.5 mM,,,7.24,S,4.76,,Unknown,,,No,101039
+Floxuridine,Caenorhabditis elegans,N2,50000 Î¼M,,,-18.66,S,,,Hermaphrodite,,,No,153363
+Floxuridine,Caenorhabditis elegans,N2,6000 Î¼M,,,-2.66,NS,,,Hermaphrodite,,,No,153363
+Floxuridine,Caenorhabditis elegans,N2,400 Î¼M,,,6.66,S,,,Hermaphrodite,,,No,153363
+Floxuridine,Caenorhabditis elegans,N2,400 Î¼M,,,38.86,S,,,Hermaphrodite,,,No,153363
+Vitamin E,Caenorhabditis elegans,N2,200 Âµg/ml,,,23.0,S,,,Unknown,,,No,3374177
+Vitamin E,Caenorhabditis elegans,N2,200 Âµg/ml,,,17.0,S,,,Unknown,,,No,3374177
+Vitamin E,Caenorhabditis elegans,N2,200 Âµg/ml,,,22.0,S,,,Unknown,,,No,3374177
+Vitamin E,Caenorhabditis elegans,N2,100 Âµg/ml,,,9.0,NS,,,Unknown,,,No,3374177
+Vitamin E,Caenorhabditis elegans,N2,400 Âµg/ml,,,4.0,NS,,,Unknown,,,No,3374177
+Ascorbic acid,Caenorhabditis elegans,N2,80 Âµg/ml,,,0.0,NS,,,Unknown,,,No,3374177
+LY-294002,Caenorhabditis elegans,N2,0.016 mM,,,25.0,S,,,Unknown,,,No,10638524
+LY-294002,Caenorhabditis elegans,N2,0.0016 mM,,,9.09,S,,,Unknown,,,No,10638524
+Vitamin E,Caenorhabditis elegans,N2,80 ug/ml,,,2.9,S,,,Unknown,,,No,10843344
+Tocotrienol,Caenorhabditis elegans,N2,80 Âµg/ml,,,19.8,S,,,Unknown,,,No,10843344
+Tocotrienol,Caenorhabditis elegans,N2,8 Âµg/ml,,,8.7,S,,,Unknown,,,No,10843344
+EUK-8,Caenorhabditis elegans,N2,5 mM,,,33.0,S,,,Unknown,,,No,10968795
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,,,38.0,S,,,Unknown,,,No,10968795
+EUK-8,Caenorhabditis elegans,N2,5 mM,,,29.0,S,,,Unknown,,,No,10968795
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,,,33.0,S,,,Unknown,,,No,10968795
+EUK-8,Caenorhabditis elegans,N2,10 mM,,,29.0,S,,,Unknown,,,No,10968795
+EUK-134,Caenorhabditis elegans,N2,0.5 mM,,,54.0,S,,,Unknown,,,No,10968795
+EUK-134,Caenorhabditis elegans,N2,10 mM,,,52.0,S,,,Unknown,,,No,10968795
+EUK-134,Caenorhabditis elegans,N2,0.05 mM,,,38.0,S,,,Unknown,,,No,10968795
+EUK-134,Caenorhabditis elegans,N2,5 mM,,,42.0,S,,,Unknown,,,No,10968795
+EUK-134,Caenorhabditis elegans,N2,5 mM,,,52.0,S,,,Unknown,,,No,10968795
+EUK-134,Caenorhabditis elegans,N2,0.5 mM,,,38.0,S,,,Unknown,,,No,10968795
+EUK-134,Caenorhabditis elegans,N2,0.05 mM,,,29.0,S,,,Unknown,,,No,10968795
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,,,-12.9,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,,,-33.1,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,,,3.0,NS,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,,,-0.9,NS,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,,,-5.7,NS,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,,,-6.1,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,,,-10.7,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,,,-21.1,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,,,-26.6,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,,,-26.5,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,5 mM,,,-81.0,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,5 mM,,,-83.7,S,,,Unknown,,,No,12521609
+EUK-8,Caenorhabditis elegans,N2,5 mM,,,-83.9,S,,,Unknown,,,No,12521609
+Coenzyme Q10,Caenorhabditis elegans,N2,150 Âµg/ml,,,9.0,S,,,Unknown,,,No,14706236
+Coenzyme Q10,Caenorhabditis elegans,N2,150 Âµg/ml,,,18.0,S,,,Unknown,,,No,14706236
+Vitamin E,Caenorhabditis elegans,N2,400 Âµg/ml,,,11.0,S,,,Unknown,,,No,14706236
+Coenzyme Q10,Caenorhabditis elegans,N2,50 Âµg/ml,,,6.0,S,,,Unknown,,,No,14706236
+Resveratrol,Caenorhabditis elegans,N2,100 Âµm,,,10.0,S,,,Unknown,,,No,15254550
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,,,47.0,S,57.0,,Unknown,,,No,15653505
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,,,41.0,S,23.0,,Unknown,,,No,15653505
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,,,39.0,S,33.0,,Unknown,,,No,15653505
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,,,-7.0,NS,-10.0,,Unknown,,,No,15653505
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,,,24.0,S,29.0,,Unknown,,,No,15653505
+Ethosuximide,Caenorhabditis elegans,N2,2 mg/ml,,,13.0,S,24.0,,Unknown,,,No,15653505
+Ethosuximide,Caenorhabditis elegans,N2,4 mg/ml,,,17.0,S,22.0,,Unknown,,,No,15653505
+Ethosuximide,Caenorhabditis elegans,N2,4 mg/ml,,,14.0,S,-2.0,,Unknown,,,No,15653505
+Ethosuximide,Caenorhabditis elegans,N2,4 mg/ml,,,35.0,S,37.0,,Unknown,,,No,15653505
+"3,3-diethyl-2-pyrrolidinone",Caenorhabditis elegans,N2,2 mg/ml,,,31.0,S,49.0,,Unknown,,,No,15653505
+Resveratrol,Caenorhabditis elegans,N2,0.1 mM,,,9.3,S,,,Unknown,,,No,16256736
+Resveratrol,Caenorhabditis elegans,N2,1 mM,,,17.8,S,,,Unknown,,,No,16256736
+Resveratrol,Caenorhabditis elegans,N2,0.5 mM,,,14.0,S,,,Unknown,,,No,16256736
+Dauer-inducing Pheromone,Caenorhabditis elegans,N2,10% in food,,,26.7,,,,Unknown,,,No,16377915
+Dauer-inducing Pheromone,Caenorhabditis elegans,N2,5% in food,,,13.3,,,,Unknown,,,No,16377915
+Ampicillin,Caenorhabditis elegans,fem-1(hc17),100 Âµg/ml,,,34.0,S,,,Unknown,,,No,16441844
+Vaccinium angustifolium extract,Caenorhabditis elegans,fem-1(hc17),1.5 mg/mL,,,37.0,S,,,Unknown,,,No,16441844
+Ginkgo biloba extract,Caenorhabditis elegans,N2,100 Âµg/ml,,,8.0,,,,Unknown,,,No,16872777
+Tocotrienol,Caenorhabditis elegans,N2,,,,20.0,,,,Unknown,,,No,16872777
+Tamarixetin,Caenorhabditis elegans,,,,,28.0,,,,Unknown,,,No,16872777
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,25 ÂµM,,,4.8,NS,4.8,,Unknown,,,No,17156833
+Alpha-lipoic acid,Caenorhabditis elegans,N2,24 ÂµM,,,24.2,S,14.3,,Unknown,,,No,17156833
+Vitamin E,Caenorhabditis elegans,N2,20 Âµg/mL,,,16.6,S,0.0,,Unknown,,,No,17169403
+Vitamin E,Caenorhabditis elegans,N2,200 Âµg/mL,,,20.6,S,0.0,,Unknown,,,No,17169403
+Gamma-tocopherol,Caenorhabditis elegans,fem-1(hc17),200 Âµg/ml,,,21.0,S,,,Unknown,,,No,17169403
+Gamma-tocopherol,Caenorhabditis elegans,fem-1(hc17),20 Âµg/ml,,,17.0,S,,,Unknown,,,No,17169403
+Pregnenolone,Caenorhabditis elegans,N2,60 Âµg/mL,,,20.0,S,,,Unknown,,,No,17266678
+4-dafachronic acid,Caenorhabditis elegans,N2,250 nM,,,16.6,S,28.0,,Unknown,,,No,17360327
+4-dafachronic acid,Caenorhabditis elegans,N2,250 nM,,,0.0,S,2.6,,Unknown,,,No,17360327
+Resveratrol,Caenorhabditis elegans,N2,50 ÂµM,,,50.8,S,29.2,,Unknown,,,No,17460219
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,3.4,NS,,,Unknown,,,No,17875315
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,7.5,S,,,Unknown,,,No,17875315
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,8.1,NS,,,Unknown,,,No,17875315
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,7.4,S,,,Unknown,,,No,17875315
+Glucose,Caenorhabditis elegans,N2,50 mM,,,-7.75,S,-0.9,,Unknown,,,No,17908557
+2-deoxy-D-glucose,Caenorhabditis elegans,N2,5 mM,,,12.93,S,56.49,,Unknown,,,No,17908557
+Lithium Chloride,Caenorhabditis elegans,N2,10 mM,,,36.0,S,,,Unknown,,,No,17959600
+Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,19.0,S,15.0,,Unknown,,,No,18024103
+Mianserin,Caenorhabditis elegans,N2,50 ÂµM,,,31.0,S,,,Unknown,,,No,18033297
+Hydrogen Sulphide,Caenorhabditis elegans,N2,50 ppm,,,74.0,S,,,Unknown,,,No,18077331
+FCCP,Caenorhabditis elegans,N2,50 ÂµM,,,27.8,S,21.4,,Unknown,,,No,18221415
+Myxothiazol,Caenorhabditis elegans,N2,10 ÂµM,,,32.3,S,28.6,,Unknown,,,No,18221415
+Valproic acid,Caenorhabditis elegans,N2,6 mM,,,35.0,S,42.0,,Unknown,,,No,18248662
+Platinum nanoparticles,Caenorhabditis elegans,N2,0.5 mM,,,22.0,S,,,Unknown,,,No,18400258
+Reserpine,Caenorhabditis elegans,N2,30 ÂµM,,,31.0,S,,,Unknown,,,No,18409080
+Rhodiola rosea extract,Caenorhabditis elegans,N2,10 Âµg/ml,,,15.0,S,,,Unknown,,,No,18536978
+Eleutherococcus senticosus extract,Caenorhabditis elegans,N2,250 Âµg/ml,,,16.0,S,,,Unknown,,,No,18536978
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,S,,,Unknown,,,No,18692520
+Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,10.0,S,,,Unknown,,,No,18692520
+Propyl gallate,Caenorhabditis elegans,N2,1 mM,,,12.0,S,0.0,,Unknown,,,No,18755260
+Taxifolin,Caenorhabditis elegans,N2,820 ÂµM,,,51.0,S,,,Unknown,,,No,18755260
+Trolox,Caenorhabditis elegans,N2,3 mM,,,31.0,S,,,Unknown,,,No,18755260
+Alpha-lipoic acid,Caenorhabditis elegans,N2,1 mM,,,21.0,S,0.0,,Unknown,,,No,18755260
+Ethosuximide,Caenorhabditis elegans,N2,4 mg/mL,,,21.11,S,,,Unknown,,,No,18949032
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,11.0,S,9.0,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,18.0,S,29.0,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,11.0,S,25.0,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,S,-2.0,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,9.0,S,0.0,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,S,,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,NS,-8.0,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,9.0,S,,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,8.0,S,16.0,,Unknown,,,No,19043800
+Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,8.0,NS,-3.0,,Unknown,,,No,19043800
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,,,,12.2,S,,,Unknown,,,No,19085685
+Gliotoxin,Caenorhabditis elegans,N2,500 nmol,,,0.9,NS,,,Unknown,,,No,19235201
+Gliotoxin,Caenorhabditis elegans,N2,250 nmol,,,-2.01,NS,,,Unknown,,,No,19235201
+Gliotoxin,Caenorhabditis elegans,N2,125 nmol,,,-4.02,NS,,,Unknown,,,No,19235201
+Gliotoxin,Caenorhabditis elegans,N2,63 nmol,,,-9.54,NS,,,Unknown,,,No,19235201
+Psoralea corylifolia extract,Caenorhabditis elegans,N2,10 Âµg/mL,,,,S,9.8,,Unknown,,,No,19350411
+Pine bark extract,Caenorhabditis elegans,N2,10 Âµg/mL,,,,S,5.2,,Unknown,,,No,19350411
+Nicotinamide adenine dinucleotide,Caenorhabditis elegans,N2,100 ÂµM,,,15.0,,,,Unknown,,,No,19370397
+Coenzyme Q10,Caenorhabditis elegans,clk-1 (qm30),,,,19.0,S,,,Unknown,,,No,19428456
+Carbonylcyanide-3-chlorophenylhydrazone,Caenorhabditis elegans,N2,10 ÂµM,,,60.0,S,,,Unknown,,,No,19442682
+Catechin,Caenorhabditis elegans,N2,200 Âµm,,,13.0,S,,,Unknown,,,No,19501612
+Trimethadione,Caenorhabditis elegans,N2,25 ÂµL Liposomes + 0.6mg trimethadione,,,,S,50.0,,Unknown,,,No,19580823
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,25 ÂµL Liposomes + 100 Âµg NAC,,,,S,42.9,,Unknown,,,No,19580823
+Glutathione,Caenorhabditis elegans,N2,25 ÂµL Liposomes + 360 Âµg glutathione,,,,S,50.0,,Unknown,,,No,19580823
+Ascorbic acid,Caenorhabditis elegans,N2,25 ÂµL Liposomes + 240 Âµg ascorbic acid,,,,S,50.0,,Unknown,,,No,19580823
+Juglone,Caenorhabditis elegans,N2,40 Âµm,,,29.0,S,,,Unknown,,,No,19597959
+Oxaloacetate,Caenorhabditis elegans,N2,8 mM,,,25.0,S,13.0,,Unknown,,,No,19793063
+Spermidine,Caenorhabditis elegans,N2,0.2 mM,,,15.0,S,,,Unknown,,,No,19801973
+Reishi extract,Caenorhabditis elegans,N2,100 ppm,,,35.0,S,,,Unknown,,,No,19837596
+Acetic Acid,Caenorhabditis elegans,N2,50 ppm,,,23.0,S,,,Unknown,,,No,19837596
+Sorbitol,Caenorhabditis elegans,N2,2%,,,-2.0,NS,,,Unknown,,,No,19883616
+Glycerol,Caenorhabditis elegans,N2,1%,,,-24.0,S,,,Unknown,,,No,19883616
+Sorbitol,Caenorhabditis elegans,N2,2%,,,5.0,NS,,,Unknown,,,No,19883616
+Glycerol,Caenorhabditis elegans,N2,1%,,,-23.0,S,,,Unknown,,,No,19883616
+Glycerol,Caenorhabditis elegans,N2,1%,,,-36.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,102%,,,-17.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-16.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-23.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-28.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-17.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-31.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-20.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-15.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-24.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-9.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,11.0,NS,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,0.0,NS,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-11.0,S,,,Unknown,,,No,19883616
+Glucose,Caenorhabditis elegans,N2,2%,,,-19.0,S,,,Unknown,,,No,19883616
+Metformin,Caenorhabditis elegans,N2,50 mM,,,40.0,S,0.0,,Unknown,,,No,20090912
+SQDB,Caenorhabditis elegans,N2,100 Âµg/ml,,,12.0,S,,,Unknown,,,No,20179756
+FCCP,Caenorhabditis elegans,N2,50 ÂµM,,,17.3,S,21.6,,Unknown,,,No,20346071
+Tannic acid,Caenorhabditis elegans,N2,100 ÂµM,,,18.0,S,,,Unknown,,,No,20413530
+Phaseolus vulgaris extract,Caenorhabditis elegans,N2,150 Âµg / mL,,,13.2,S,,,Unknown,,,No,20455573
+Maltose,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,20477758
+Sucrose,Caenorhabditis elegans,N2,5 mM,,,-4.0,NS,,,Unknown,,,No,20477758
+"Alpha,beta-Trehalose",Caenorhabditis elegans,N2,5 mM,,,0.0,NS,,,Unknown,,,No,20477758
+Trehalose,Caenorhabditis elegans,N2,5 mM,,,32.0,S,,,Unknown,,,No,20477758
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,100 ÂµM,,,20.0,NS,13.0,,Unknown,,,No,20513639
+Epicatechin,Caenorhabditis elegans,N2,100 ÂµM,,,15.0,NS,11.0,,Unknown,,,No,20513639
+DhHP-6,Caenorhabditis elegans,N2,200 ÂµM,,,21.0,S,,,Unknown,,,No,20528576
+Apple extract,Caenorhabditis elegans,N2,100 Âµg/ml,,,12.0,S,,,Unknown,,,No,20717869
+Procyanidins,Caenorhabditis elegans,N2,65 Âµg/ml,,,12.1,S,,,Unknown,,,No,20717869
+Dimethyl sulfoxide,Caenorhabditis elegans,N2,0.005,,,29.0,S,18.6,,Unknown,,,No,20828537
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,,,41.0,S,0.0,,Unknown,,,No,20944427
+Dapsone,Caenorhabditis elegans,N2,1 mM,,,23.05,S,,,Unknown,,,No,20974969
+Dapsone,Caenorhabditis elegans,N2,0.5 mM,,,22.11,S,,,Unknown,,,No,20974969
+Dapsone,Caenorhabditis elegans,N2,2 mM,,,42.92,S,,,Unknown,,,No,20974969
+Dapsone,Caenorhabditis elegans,N2,2 mM,,,38.22,S,,,Unknown,,,No,20974969
+Sodium pyruvate,Caenorhabditis elegans,N2,2.5 mM,,,13.9,S,,,Unknown,,,No,21040400
+Paraquat,Caenorhabditis elegans,N2,0.1 mM,,,58.0,S,48.0,,Unknown,,,No,21151885
+Dichloroacetate,Caenorhabditis elegans,N2,50 Âµg/ml,,,7.9,S,13.5,,Unknown,,,No,21153705
+25-Azacoprostane,Caenorhabditis elegans,N2,25 Î¼m,,,-34.8,S,,,Unknown,,,No,21186286
+Glaucarubinone,Caenorhabditis elegans,N2,100 nM,,,7.9,S,9.0,,Unknown,,,No,21264793
+Diallyl trisulfide,Caenorhabditis elegans,TJ1060,10 ÂµM,,,13.0,S,,,Unknown,,,No,21296648
+Triolein,Caenorhabditis elegans,N2,25 ÂµM,,,0.0,NS,,,Unknown,,,No,21308896
+Trielaidin,Caenorhabditis elegans,N2,25 Î¼M,,,-8.08,NS,,,Unknown,,,No,21308896
+Celecoxib,Caenorhabditis elegans,N2,10 ÂµM,,,19.0,S,,,Unknown,,,No,21348927
+Resveratrol,Caenorhabditis elegans,N2,100 ug/ml,,,11.0,,11.5,,Unknown,,,No,21364612
+Eicosapentaenoic acid,Caenorhabditis elegans,N2,40 Î¼M,,,-20.37,S,,,Unknown,,,No,21386131
+Palmitic acid,Caenorhabditis elegans,N2,40 Î¼M,,,-5.55,S,,,Unknown,,,No,21386131
+Thioflavin T,Caenorhabditis elegans,N2,50-100 ÂµM,,,60.0,S,78.0,,Unknown,,,No,21451522
+Rosmarinic acid,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,S,,,Unknown,,,No,21503726
+Caffeic acid,Caenorhabditis elegans,N2,300 ÂµM,,,11.0,S,,,Unknown,,,No,21503726
+Quercetin,Caenorhabditis elegans,N2,22 Âµg/mL,,,14.0,S,,,Unknown,,,No,21563825
+Q3'G,Caenorhabditis elegans,N2,21 Âµg/mL,,,12.0,S,,,Unknown,,,No,21563825
+Q3M,Caenorhabditis elegans,N2,20 Âµg/mL,,,20.0,S,,,Unknown,,,No,21563825
+Platinum nanoparticles,Caenorhabditis elegans,N2,2 ppb,,,18.2,S,,,Unknown,,,No,21737933
+Platinum nanoparticles,Caenorhabditis elegans,N2,5 ppb,,,7.1,S,,,Unknown,,,No,21737933
+Platinum nanoparticles,Caenorhabditis elegans,N2,10 ppb,,,5.0,NS,,,Unknown,,,No,21737933
+Platinum nanoparticles,Caenorhabditis elegans,N2,2 ppb,,,3.9,NS,,,Unknown,,,No,21737933
+Platinum nanoparticles,Caenorhabditis elegans,N2,50 ppb,,,1.7,NS,,,Unknown,,,No,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,,,37.4,S,,,Unknown,,,No,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,,,32.3,S,,,Unknown,,,No,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,,,15.5,S,,,Unknown,,,No,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,,,12.1,S,,,Unknown,,,No,21737933
+Ferulsinaic acid,Caenorhabditis elegans,N2,100 ÂµM,,,20.0,S,,,Unknown,,,No,21749391
+Plumbagin,Caenorhabditis elegans,N2,500 ÂµM,,,-91.0,S,,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,500 ÂµM,,,-81.0,S,,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,400 ÂµM,,,-90.0,S,,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,300 ÂµM,,,-86.0,S,,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,250 ÂµM,,,-86.0,S,,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,50 ÂµM,,,12.0,S,5.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,250 ÂµM,,,-91.0,S,,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,200 ÂµM,,,-84.0,S,,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,150 ÂµM,,,-23.0,S,,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,100 ÂµM,,,-11.0,S,-13.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,100 ÂµM,,,1.0,NS,2.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,100 ÂµM,,,-16.0,S,-15.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,50 ÂµM,,,-3.0,NS,-6.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,50 ÂµM,,,12.0,S,12.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,25 ÂµM,,,11.0,S,13.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,25 ÂµM,,,11.0,S,6.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,25 ÂµM,,,10.0,NS,2.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,10 ÂµM,,,7.0,NS,3.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,25 ÂµM,,,15.0,S,5.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,7.5 ÂµM,,,0.0,NS,0.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,500 ÂµM,,,3.0,S,12.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,10 ÂµM,,,9.0,NS,2.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,100 ÂµM,,,2.0,NS,-8.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,5 ÂµM,,,3.0,NS,3.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,1 ÂµM,,,1.0,NS,3.0,,Unknown,,,No,21765926
+Plumbagin,Caenorhabditis elegans,N2,2.5 ÂµM,,,3.0,NS,5.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,100 ÂµM,,,2.0,NS,5.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,100 ÂµM,,,9.0,NS,15.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,500 ÂµM,,,15.0,S,10.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,50 ÂµM,,,2.0,NS,1.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,500 ÂµM,,,15.0,S,14.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,1 mM,,,10.0,S,24.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,500 ÂµM,,,15.0,S,12.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,500 ÂµM,,,22.0,S,25.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,1 mM,,,12.0,S,24.0,,Unknown,,,No,21765926
+Oxoline,Caenorhabditis elegans,N2,1 mM,,,13.0,S,18.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,500 ÂµM,,,14.0,S,8.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,200 ÂµM,,,8.0,S,14.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,100 ÂµM,,,8.0,S,7.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,500 ÂµM,,,9.0,NS,4.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,S,8.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,100 ÂµM,,,10.0,S,12.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,200 ÂµM,,,19.0,S,16.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,50 ÂµM,,,2.0,NS,0.0,,Unknown,,,No,21765926
+Naphthazarin,Caenorhabditis elegans,N2,100 ÂµM,,,11.0,S,12.0,,Unknown,,,No,21765926
+Tamarixetin,Caenorhabditis elegans,N2,200 ÂµM,,,11.46,S,-2.04,,Unknown,,,No,21776484
+Isorhamnetin,Caenorhabditis elegans,N2,200 ÂµM,,,15.92,S,16.04,,Unknown,,,No,21776484
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,10.82,S,5.11,,Unknown,,,No,21776484
+Catechin,Caenorhabditis elegans,N2,800 ÂµM,,,6.5,S,,,Unknown,,,No,21805983
+Catechin,Caenorhabditis elegans,N2,400 Î¼M,,,7.55,S,,,Unknown,,,No,21805983
+Catechin,Caenorhabditis elegans,N2,300 ÂµM,,,5.85,S,,,Unknown,,,No,21805983
+Catechin,Caenorhabditis elegans,N2,200 ÂµM,,,8.87,S,,,Unknown,,,No,21805983
+Catechin,Caenorhabditis elegans,N2,100 ÂµM,,,8.39,S,,,Unknown,,,No,21805983
+Ellagic acid,Caenorhabditis elegans,N2,300 ÂµM,,,-5.14,S,,,Unknown,,,No,21805983
+Ellagic acid,Caenorhabditis elegans,N2,200 ÂµM,,,0.57,NS,,,Unknown,,,No,21805983
+Ellagic acid,Caenorhabditis elegans,N2,100 ÂµM,,,0.93,NS,,,Unknown,,,No,21805983
+Ellagic acid,Caenorhabditis elegans,N2,50 ÂµM,,,8.99,S,,,Unknown,,,No,21805983
+Ellagic acid,Caenorhabditis elegans,N2,25 ÂµM,,,3.63,NS,,,Unknown,,,No,21805983
+Gallic Acid,Caenorhabditis elegans,N2,800 ÂµM,,,2.06,NS,,,Unknown,,,No,21805983
+Gallic Acid,Caenorhabditis elegans,N2,400 Î¼M,,,5.03,S,,,Unknown,,,No,21805983
+Gallic Acid,Caenorhabditis elegans,N2,200 ÂµM,,,4.89,S,,,Unknown,,,No,21805983
+Gallic Acid,Caenorhabditis elegans,N2,100 ÂµM,,,5.34,S,,,Unknown,,,No,21805983
+Tannic acid,Caenorhabditis elegans,N2,400 Î¼M,,,-10.64,S,,,Unknown,,,No,21805983
+Tannic acid,Caenorhabditis elegans,N2,300 ÂµM,,,-0.95,NS,,,Unknown,,,No,21805983
+Tannic acid,Caenorhabditis elegans,N2,200 ÂµM,,,8.35,S,,,Unknown,,,No,21805983
+Tannic acid,Caenorhabditis elegans,N2,100 ÂµM,,,17.6,S,,,Unknown,,,No,21805983
+Tannic acid,Caenorhabditis elegans,N2,50 ÂµM,,,16.17,S,,,Unknown,,,No,21805983
+Tannic acid,Caenorhabditis elegans,N2,25 ÂµM,,,10.26,S,,,Unknown,,,No,21805983
+Gallic Acid,Caenorhabditis elegans,N2,300 ÂµM,,,10.0,S,,,Unknown,,,No,21805983
+Curcumin,Caenorhabditis elegans,N2,20 ÂµM,,,39.0,S,,,Unknown,,,No,21855561
+Royal Jelly,Caenorhabditis elegans,N2,10 Âµg/ml,,,18.0,S,44.0,,Unknown,,,No,21858156
+Astragalus extract,Caenorhabditis elegans,N2,1-2.5 mg/ml,,,23.8,S,,,Unknown,,,No,21892924
+Lonidamine,Caenorhabditis elegans,,5 ÂµM,,,8.0,S,8.0,,Unknown,,,No,21932172
+Astaxanthin,Caenorhabditis elegans,N2,1 mM,,,28.6,S,21.7,,Unknown,,,No,22013497
+Dafadine-A,Caenorhabditis elegans,N2,50 ÂµM,,,29.0,S,,,Unknown,,,No,22057127
+Ciclopirox olamine,Caenorhabditis elegans,N2,0.0001,,,41.0,S,52.0,,Unknown,,,No,22114686
+Bacitracin,Caenorhabditis elegans,N2,0.01,,,58.5,S,74.0,,Unknown,,,No,22114686
+Baicalein,Caenorhabditis elegans,N2,0.001,,,36.7,S,52.0,,Unknown,,,No,22114686
+Acetaminophen,Caenorhabditis elegans,N2,0.10%,,,48.6,S,66.0,,Unknown,,,No,22114686
+Fluoranthene,Caenorhabditis elegans,N2,5 Î¼g/mL,,,-52.82,S,,,Unknown,,,No,22132200
+Naringenin,Caenorhabditis elegans,N2,100 ÂµM,,,-1.33,NS,3.35,,Unknown,,,No,22155175
+Kaempferol,Caenorhabditis elegans,N2,100 ÂµM,,,5.63,S,6.65,,Unknown,,,No,22155175
+Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,5.79,S,18.35,,Unknown,,,No,22155175
+Myricetin,Caenorhabditis elegans,N2,100 ÂµM,,,17.99,S,21.65,,Unknown,,,No,22155175
+Reserpine,Caenorhabditis elegans,N2,60 uM,,,30.0,S,,,Unknown,,,No,22212533
+Icariin,Caenorhabditis elegans,N2,45 ÂµM,,,20.7,S,,,Unknown,,,No,22216122
+Damnacanthus officinarum root extract,Caenorhabditis elegans,N2,1200 Âµg/mL,,,30.3,S,,,Unknown,,,No,22370553
+Damnacanthus officinarum leaf extract,Caenorhabditis elegans,N2,1200 Âµg/mL,,,18.6,S,,,Unknown,,,No,22370553
+L-theanine,Caenorhabditis elegans,N2,0.1 ÂµM,,,3.6,S,4.4,,Unknown,,,No,22422488
+Deferoxamine ,Caenorhabditis elegans,N2,100 ÂµM ,,,-4.45,NS,,,Unknown,,,No,22445852
+Ferric ammonium citrate,Caenorhabditis elegans,N2,9 mM,,,0.53,NS,,,Unknown,,,No,22445852
+Ferric ammonium citrate,Caenorhabditis elegans,N2,25 mM,,,-23.16,S,,,Unknown,,,No,22445852
+Ferric ammonium citrate,Caenorhabditis elegans,N2,10 mM,,,-2.13,NS,,,Unknown,,,No,22445852
+Proline,Caenorhabditis elegans,N2,5 ÂµM,,,5.8,S,,,Unknown,,,No,22482728
+Tocotrienol,Caenorhabditis elegans,N2,86 Âµg,,,21.0,S,18.0,,Unknown,,,No,22484623
+Tocotrienol,Caenorhabditis elegans,N2,259 Âµg,,,12.0,S,11.0,,Unknown,,,No,22484623
+Tocotrienol,Caenorhabditis elegans,N2,26 Âµg,,,8.6,S,3.5,,Unknown,,,No,22484623
+Gamma-tocopherol,Caenorhabditis elegans,N2,43 Âµg,,,10.1,S,12.3,,Unknown,,,No,22484623
+Astaxanthin,Caenorhabditis elegans,N2,6 Âµg,,,20.8,S,14.6,,Unknown,,,No,22484623
+Tannic acid,Caenorhabditis elegans,N2,50 ÂµM,,,16.0,S,,,Unknown,,,No,22493606
+Tannic acid,Caenorhabditis elegans,N2,100 ÂµM,,,19.0,S,,,Unknown,,,No,22493606
+Tannic acid,Caenorhabditis elegans,N2,100 ÂµM,,,18.0,S,,,Unknown,,,No,22493606
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,S,,,Unknown,,,No,22493606
+Tannic acid,Caenorhabditis elegans,N2,25 ÂµM,,,10.0,S,,,Unknown,,,No,22493606
+Tannic acid,Caenorhabditis elegans,N2,400 ÂµM,,,-11.0,S,,,Unknown,,,No,22493606
+Tannic acid,Caenorhabditis elegans,N2,200 ÂµM,,,8.0,S,,,Unknown,,,No,22493606
+Tannic acid,Caenorhabditis elegans,N2,300 ÂµM,,,1.0,NS,,,Unknown,,,No,22493606
+Quercetin,Caenorhabditis elegans,N2,100 ÂµM,,,11.0,S,,,Unknown,,,No,22493606
+Quercetin,Caenorhabditis elegans,N2,200 ÂµM,,,9.0,S,,,Unknown,,,No,22493606
+Quercetin,Caenorhabditis elegans,N2,50 ÂµM,,,2.0,NS,,,Unknown,,,No,22493606
+Quercetin,Caenorhabditis elegans,N2,250 ÂµM,,,-7.0,S,,,Unknown,,,No,22493606
+"1,2,4-triazolo[1,5-a]pyridine",Caenorhabditis elegans,N2,500 nM,,,12.0,S,,,Unknown,,,No,22509764
+Proanthocycanidin,Caenorhabditis elegans,N2,67 Âµg/ml,,,36.6,S,,,Unknown,,,No,22509764
+HuminFeed,Caenorhabditis elegans,N2,400 ÂµM,,,12.5,S,,,Unknown,,,No,22529848
+HF-HQ,Caenorhabditis elegans,N2,400 ÂµM,,,20.0,S,,,Unknown,,,No,22529848
+Rapamycin,Caenorhabditis elegans,N2,100 ÂµM,,,19.0,S,,,Unknown,,,No,22560223
+Tyrosol,Caenorhabditis elegans,fer-15(b26),250 ÂµM,,,19.1,S,10.8,,Unknown,,,No,22824366
+Cranberry extract,Caenorhabditis elegans,N2,2 mg/mL,,,32.5,S,,,Unknown,,,No,22864793
+Aspirin,Caenorhabditis elegans,N2,1 ÂµM,,,20.9,S,,,Unknown,,,No,22866967
+Aspirin,Caenorhabditis elegans,N2,0.5 ÂµM,,,23.0,S,,,Unknown,,,No,22866967
+Salicylic acid,Caenorhabditis elegans,N2,1 ÂµM,,,13.9,S,,,Unknown,,,No,22866967
+Quinic acid,Caenorhabditis elegans,N2,0.4 mg/mL,,,-3.6,NS,,,Unknown,,,No,22950425
+Quinic acid,Caenorhabditis elegans,N2,0.2 mg/mL,,,2.2,NS,,,Unknown,,,No,22950425
+Quinic acid,Caenorhabditis elegans,N2,0.1 mg/mL,,,6.9,S,,,Unknown,,,No,22950425
+Quinic acid,Caenorhabditis elegans,N2,0.05 mg/mL,,,3.2,S,,,Unknown,,,No,22950425
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,5.2,S,,,Unknown,,,No,22950425
+4-hydroxy-E-globularinin,Caenorhabditis elegans,N2,20 ÂµM,,,18.8,S,,,Unknown,,,No,23000058
+4-hydroxy-E-globularinin,Caenorhabditis elegans,N2,2 ÂµM,,,8.1,S,,,Unknown,,,No,23000058
+4-hydroxy-E-globularinin,Caenorhabditis elegans,N2,200 ÂµM,,,6.4,S,,,Unknown,,,No,23000058
+Dimethyl formamide,Caenorhabditis elegans,N2,0.0075,,,33.0,S,54.0,,Unknown,,,No,23313473
+Baicalein,Caenorhabditis elegans,N2,100 ÂµM,,,45.0,,24.0,,Unknown,,,No,23339711
+Omega-6,Caenorhabditis elegans,N2,10 ÂµM,,,16.0,S,,,Unknown,,,No,23392608
+DhHP-6,Caenorhabditis elegans,N2,100 ÂµM,,,19.1,S,,,Unknown,,,No,23410029
+DETA NONOate,Caenorhabditis elegans,N2,1 mM,,,8.9,S,,,Unknown,,,No,23415229
+MAHMA-NONOate,Caenorhabditis elegans,N2,1 mM,,,14.1,S,,,Unknown,,,No,23415229
+Fumarate,Caenorhabditis elegans,N2,10 mM,,,16.0,S,,,Unknown,,,No,23472183
+Malate,Caenorhabditis elegans,N2,10 mM,,,14.0,S,,,Unknown,,,No,23472183
+Aspirin,Caenorhabditis elegans,N2,100 ÂµM,,,16.0,S,,,Unknown,,,No,23485446
+Ascr#2,Caenorhabditis elegans,N2,400 nM,,,14.0,S,,,Unknown,,,No,23509272
+Ascr#3,Caenorhabditis elegans,N2,400 nM,,,21.0,S,,,Unknown,,,No,23509272
+Platycladus orientalis extract,Caenorhabditis elegans,N2,500 Âµg/ml,,,26.5,S,,,Unknown,,,No,23523941
+Huperzine A,Caenorhabditis elegans,N2,300 ÂµM,,,13.8,S,,,Unknown,,,No,23523941
+Fish oil,Caenorhabditis elegans,N2,1 mg/plate,,,9.6,S,,,Unknown,,,No,23526170
+Fish oil,Caenorhabditis elegans,N2,0.5 mg/plate,,,8.9,NS,,,Unknown,,,No,23526170
+Fish oil,Caenorhabditis elegans,N2,2 mg/plate,,,-12.8,S,,,Unknown,,,No,23526170
+Arsenite,Caenorhabditis elegans,N2,100 nM,,,10.0,S,,,Unknown,,,No,23534459
+Phenformin,Caenorhabditis elegans,N2,4.5 mM,,,29.0,S,,,Unknown,,,No,23540700
+Phosphatidylinositol ether lipid analogue 24 ,Caenorhabditis elegans,N2,1 ÂµM,,,14.0,S,,,Unknown,,,No,23543623
+Phosphatidylinositol ether lipid analogue 6,Caenorhabditis elegans,N2,1 ÂµM,,,10.0,S,,,Unknown,,,No,23543623
+Pictilisib,Caenorhabditis elegans,N2,1 ÂµM,,,9.6,S,,,Unknown,,,No,23543623
+Wortmannin,Caenorhabditis elegans,N2,1 ÂµM,,,-4.1,S,,,Unknown,,,No,23543623
+Resveratrol,Caenorhabditis elegans,N2,200 ÂµM,,,0.5,NS,,,Unknown,,,No,23600385
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,-4.0,NS,,,Unknown,,,No,23600385
+Resveratrol,Caenorhabditis elegans,N2,50 ÂµM,,,-0.4,NS,,,Unknown,,,No,23600385
+Fenofibrate,Caenorhabditis elegans,N2,10 ÂµM,,,19.0,S,,,Unknown,,,No,23603800
+Bezafibrate,Caenorhabditis elegans,N2,10 ÂµM,,,13.0,S,,,Unknown,,,No,23603800
+Clofibrate,Caenorhabditis elegans,N2,10 ÂµM,,,16.0,S,,,Unknown,,,No,23603800
+Rapamycin,Caenorhabditis elegans,N2,1 nM,,,16.2,S,,,Unknown,,,No,23698443
+Rapamycin,Caenorhabditis elegans,N2,1 nM,,,20.6,S,,,Unknown,,,No,23698443
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,11.3,S,,,Unknown,,,No,23698443
+Ethidium bromide,Caenorhabditis elegans,N2,5 Âµg/ml,,,30.1,S,,,Unknown,,,No,23698443
+Doxycycline,Caenorhabditis elegans,N2,6 Âµg/ml,,,17.6,S,,,Unknown,,,No,23698443
+Doxycycline,Caenorhabditis elegans,SJ4101,30 Âµg/ml,,,25.4,S,,,Unknown,,,No,23698443
+Doxycycline,Caenorhabditis elegans,SJ4101,60 Âµg/ml,,,23.7,S,,,Unknown,,,No,23698443
+Doxycycline,Caenorhabditis elegans,SJ4101,6 Âµg/ml,,,12.1,S,,,Unknown,,,No,23698443
+Doxycycline,Caenorhabditis elegans,N2,30 Âµg/ml,,,36.48,S,,,Unknown,,,No,23698443
+Chloramphenicol,Caenorhabditis elegans,N2,100 Âµg/ml,,,15.8,S,,,Unknown,,,No,23698443
+Myricetin,Caenorhabditis elegans,N2,100 ÂµM,,,32.9,S,,,Unknown,,,No,23736695
+Protocatechuic acid,Caenorhabditis elegans,N2,100 ÂµM,,,23.0,S,25.0,,Unknown,,,No,23780797
+Protocatechuic acid,Caenorhabditis elegans,N2,200 ÂµM,,,38.9,S,40.0,,Unknown,,,No,23780797
+Apple extract,Caenorhabditis elegans,N2,10 mg/ml,,,39.0,S,25.0,,Unknown,,,No,23878618
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,,,17.5,S,10.7,,Unknown,,,No,23959012
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,,,17.3,S,13.8,,Unknown,,,No,23959012
+Sulfamethoxazole,Caenorhabditis elegans,N2,200 ÂµM,,,28.0,S,0.0,,Unknown,,,No,24034891
+Sulfamethoxazole,Caenorhabditis elegans,N2,100 ÂµM,,,34.0,S,0.0,,Unknown,,,No,24034891
+Sulfamethoxazole,Caenorhabditis elegans,N2,400 ÂµM,,,18.0,S,0.0,,Unknown,,,No,24034891
+Nicotinamide,Caenorhabditis elegans,N2,100 ÂµM,,,6.5,S,6.0,,Unknown,,,No,24077178
+1-methyl nicotinamide,Caenorhabditis elegans,N2,1 ÂµM,,,7.7,S,11.0,,Unknown,,,No,24077178
+GYY4137,Caenorhabditis elegans,N2,100 ÂµM,,,0.4,NS,,,Unknown,,,No,24093496
+Vincristine sulfate,Caenorhabditis elegans,,88 ÂµM,,,12.0,S,,,Unknown,,,No,24134630
+Vinpocetine,Caenorhabditis elegans,,33 ÂµM,,,15.0,S,,,Unknown,,,No,24134630
+Tyrphostin AG 1478,Caenorhabditis elegans,,33 ÂµM,,,11.0,S,,,Unknown,,,No,24134630
+Trequinsin hydrochloride,Caenorhabditis elegans,,88 ÂµM,,,27.0,S,,,Unknown,,,No,24134630
+Psora-4,Caenorhabditis elegans,,88 ÂµM,,,42.0,S,,,Unknown,,,No,24134630
+Thioridazine hydrochloride,Caenorhabditis elegans,,33 ÂµM,,,31.0,S,,,Unknown,,,No,24134630
+SU 4312,Caenorhabditis elegans,,88 ÂµM,,,5.0,S,,,Unknown,,,No,24134630
+Propionylpromazine hydrochloride,Caenorhabditis elegans,,33 ÂµM,,,20.0,S,,,Unknown,,,No,24134630
+Quinidine sulfate,Caenorhabditis elegans,,33 ÂµM,,,12.0,S,,,Unknown,,,No,24134630
+Nitrendipine,Caenorhabditis elegans,,88 ÂµM,,,25.0,S,,,Unknown,,,No,24134630
+Pergolide methanesulfonate,Caenorhabditis elegans,,13 ÂµM,,,37.0,S,,,Unknown,,,No,24134630
+Promethazine hydrochloride,Caenorhabditis elegans,,176 ÂµM,,,32.0,S,,,Unknown,,,No,24134630
+Nicardipine hydrochloride,Caenorhabditis elegans,,176 ÂµM,,,23.0,S,,,Unknown,,,No,24134630
+Oxatomide,Caenorhabditis elegans,,88 ÂµM,,,25.0,S,,,Unknown,,,No,24134630
+Octoclothepin maleate,Caenorhabditis elegans,,13 ÂµM,,,38.0,S,,,Unknown,,,No,24134630
+Nortriptyline hydrochloride,Caenorhabditis elegans,,88 ÂµM,,,21.0,S,,,Unknown,,,No,24134630
+Naftopidil dihydrochloride,Caenorhabditis elegans,,33 ÂµM,,,14.0,S,,,Unknown,,,No,24134630
+N-(2-[4-(4-chlorophenyl)piperazin-1-yl]ethyl)-3-methoxybenzamide,Caenorhabditis elegans,,33 ÂµM,,,35.0,S,,,Unknown,,,No,24134630
+Minocycline hydrochloride,Caenorhabditis elegans,,88 ÂµM,,,29.0,S,,,Unknown,,,No,24134630
+Methylergonovine maleate,Caenorhabditis elegans,,88 ÂµM,,,28.0,S,,,Unknown,,,No,24134630
+Mianserin,Caenorhabditis elegans,,50 ÂµM,,,32.0,S,,,Unknown,,,No,24134630
+Metergoline,Caenorhabditis elegans,,33 ÂµM,,,23.0,S,,,Unknown,,,No,24134630
+"LY-367,265",Caenorhabditis elegans,,33 ÂµM,,,34.0,S,,,Unknown,,,No,24134630
+"LY-165,163",Caenorhabditis elegans,,33 ÂµM,,,33.0,S,,,Unknown,,,No,24134630
+Loxapine succinate,Caenorhabditis elegans,,88 ÂµM,,,43.0,S,,,Unknown,,,No,24134630
+Loratadine,Caenorhabditis elegans,,33 ÂµM,,,18.0,S,,,Unknown,,,No,24134630
+LFM-A13,Caenorhabditis elegans,,88 ÂµM,,,27.0,S,,,Unknown,,,No,24134630
+Ketanserin tartrate,Caenorhabditis elegans,,176 ÂµM,,,13.0,S,,,Unknown,,,No,24134630
+Kenpaullone,Caenorhabditis elegans,,88 ÂµM,,,27.0,S,,,Unknown,,,No,24134630
+Hexahydro-sila-diphenidol,Caenorhabditis elegans,,88 ÂµM,,,15.0,S,,,Unknown,,,No,24134630
+Guanabenz acetate,Caenorhabditis elegans,,88 ÂµM,,,12.0,S,,,Unknown,,,No,24134630
+Guanfacine hydrochloride,Caenorhabditis elegans,,13 ÂµM,,,15.0,S,,,Unknown,,,No,24134630
+Eliprodil,Caenorhabditis elegans,,88 ÂµM,,,16.0,S,,,Unknown,,,No,24134630
+Doxycycline hydrochloride,Caenorhabditis elegans,,33 ÂµM,,,18.0,S,,,Unknown,,,No,24134630
+Doxazosin mesylate,Caenorhabditis elegans,,33 ÂµM,,,15.0,S,,,Unknown,,,No,24134630
+Dihydroergocristine methanesulfonate,Caenorhabditis elegans,,176 ÂµM,,,34.0,S,,,Unknown,,,No,24134630
+Demeclocycline hydrochloride,Caenorhabditis elegans,,33 ÂµM,,,16.0,S,,,Unknown,,,No,24134630
+Dihydroergotamine methanesulfonate,Caenorhabditis elegans,,88 ÂµM,,,24.0,S,,,Unknown,,,No,24134630
+DAPH,Caenorhabditis elegans,,13 ÂµM,,,15.0,S,,,Unknown,,,No,24134630
+Cyproterone acetate,Caenorhabditis elegans,,33 ÂµM,,,23.0,S,,,Unknown,,,No,24134630
+Danazol,Caenorhabditis elegans,,33 ÂµM,,,13.0,S,,,Unknown,,,No,24134630
+Cyclosporin A,Caenorhabditis elegans,,88 ÂµM,,,18.0,S,,,Unknown,,,No,24134630
+BTCP hydrochloride,Caenorhabditis elegans,,88 ÂµM,,,14.0,S,,,Unknown,,,No,24134630
+Cortexolone maleate,Caenorhabditis elegans,,33 ÂµM,,,11.0,S,,,Unknown,,,No,24134630
+Cinnarizine,Caenorhabditis elegans,,33 ÂµM,,,15.0,S,,,Unknown,,,No,24134630
+Cis-(Z)-Flupenthixol dihydrochloride,Caenorhabditis elegans,,33 ÂµM,,,30.0,S,,,Unknown,,,No,24134630
+Chlorprothixene hydrochloride,Caenorhabditis elegans,,13 ÂµM,,,33.0,S,,,Unknown,,,No,24134630
+BRL 50481,Caenorhabditis elegans,,176 ÂµM,,,18.0,S,,,Unknown,,,No,24134630
+Beta-estradiol,Caenorhabditis elegans,,33 ÂµM,,,7.0,S,,,Unknown,,,No,24134630
+BRL 15572,Caenorhabditis elegans,,33 ÂµM,,,10.0,S,,,Unknown,,,No,24134630
+Amoxapine,Caenorhabditis elegans,,88 ÂµM,,,33.0,S,,,Unknown,,,No,24134630
+Amperozide hydrochloride,Caenorhabditis elegans,,13 ÂµM,,,38.0,S,,,Unknown,,,No,24134630
+"7-cyclopentyl-5-(4-phenoxy)phenyl-7H-pyrrolo[2,3-d]pyrimidin-4-ylamine",Caenorhabditis elegans,,33 ÂµM,,,11.0,S,,,Unknown,,,No,24134630
+4-phenyl-3-furoxancarbonitrile,Caenorhabditis elegans,,88 ÂµM,,,30.0,S,,,Unknown,,,No,24134630
+AMN082,Caenorhabditis elegans,,33 ÂµM,,,8.0,S,,,Unknown,,,No,24134630
+"3,4-dichloroisocoumarin",Caenorhabditis elegans,,88 ÂµM,,,13.0,S,,,Unknown,,,No,24134630
+"(R,R)-cis-Diethyl tetrahydro-2,8-chrysenediol",Caenorhabditis elegans,,33 ÂµM,,,7.0,S,,,Unknown,,,No,24134630
+Rotenone,Caenorhabditis elegans,N2,100 nM,,,10.0,S,,,Hermaphrodite,,,No,24199155
+Piericidin A,Caenorhabditis elegans,N2,100 nM,,,5.0,S,,,Unknown,,,No,24199155
+MPTP,Caenorhabditis elegans,N2,10 nM,,,8.0,S,,,Hermaphrodite,,,No,24199155
+Chicoric acid,Caenorhabditis elegans,N2,100 ÂµM,,,21.0,S,8.0,,Unknown,,,No,24244361
+GYY4137,Caenorhabditis elegans,N2,100 ÂµM,,,20.9,S,,,Unknown,,,No,24260346
+NT219,Caenorhabditis elegans,N2,600 Î¼m,,,0.16,NS,,,Unknown,,,No,24261972
+Vitamin D3,Caenorhabditis elegans,N2,1000 Âµg/ml,,,23.0,S,,,Unknown,,,No,24304198
+Polydatin,Caenorhabditis elegans,N2,1 mM,,,30.0,S,,,Unknown,,,No,24305800
+Rapamycin,Caenorhabditis elegans,N2,100 ÂµM,,,26.0,S,34.84,,Unknown,,,No,24332851
+Korean mistletoe extract,Caenorhabditis elegans,N2,50 Âµg/ml,,,9.6,S,,,Unknown,,,No,24337961
+Lithium Chloride,Caenorhabditis elegans,JK1107,10 mM,,,0.1,,0.0,,Unknown,,,No,24398558
+Lithium Chloride,Caenorhabditis elegans,JK1107 (glp-1),10 mM,,,11.0,S,,,Unknown,,,No,24398558
+Celastrol,Caenorhabditis elegans,N2,7 Âµmol/l,,,17.4,S,,,Unknown,,,No,24416295
+Celastrol,Caenorhabditis elegans,N2,7 Âµmol/l,,,13.8,S,,,Unknown,,,No,24416295
+Sesamin,Caenorhabditis elegans,N2,6.3 Âµg,,,14.1,S,,,Unknown,,,No,24549958
+Sesamin,Caenorhabditis elegans,N2,12.5 Âµg,,,10.9,S,,,Unknown,,,No,24549958
+Sesamin,Caenorhabditis elegans,N2,25 Âµg,,,0.8,NS,,,Unknown,,,No,24549958
+Sesamin,Caenorhabditis elegans,N2,3.1 Âµg,,,10.5,S,,,Unknown,,,No,24549958
+Cranberry extract,Caenorhabditis elegans,N2,2 mg/ml,,,14.4,S,,,Unknown,,,No,24566444
+Cranberry extract,Caenorhabditis elegans,N2,2 mg/ml,,,20.0,S,,,Unknown,,,No,24566444
+Cranberry extract,Caenorhabditis elegans,N2,2 mg/ml,,,12.8,S,,,Unknown,,,No,24566444
+N-acetylglucosamine,Caenorhabditis elegans,N2,10 mM,,,50.0,S,,,Unknown,,,No,24630720
+D-glucosamine,Caenorhabditis elegans,N2,10 mM,,,11.0,S,8.0,,Unknown,,,No,24714520
+Caffeine,Caenorhabditis elegans,N2,5 mM,,,28.5,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,10 mM,,,36.7,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,5 mM,,,10.8,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,50 mM,,,-40.9,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,20 mM,,,21.6,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,7.5 mM,,,19.6,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,2.5 mM,,,17.2,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,10 mM,,,16.9,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,7.5 mM,,,8.7,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,0.5 mM,,,7.7,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,5 mM,,,-13.6,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,30 mM,,,-24.4,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,7.5 mM,,,-11.6,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,75 mM,,,-82.8,S,,,Unknown,,,No,24764514
+Caffeine,Caenorhabditis elegans,N2,100 mM,,,-89.5,S,,,Unknown,,,No,24764514
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,8 mM,,,29.4,S,,,Unknown,,,No,24828042
+Beta-caryophyllene,Caenorhabditis elegans,N2,100 ÂµM,,,14.9,S,,,Unknown,,,No,24835194
+Beta-caryophyllene,Caenorhabditis elegans,N2,50 ÂµM,,,22.2,S,,,Unknown,,,No,24835194
+Beta-caryophyllene,Caenorhabditis elegans,N2,25 ÂµM,,,11.2,S,,,Unknown,,,No,24835194
+Metformin,Caenorhabditis elegans,N2,25 mM,,,57.3,S,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,,,-4.7,NS,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,,,47.4,S,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,,,44.0,S,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,,,30.6,S,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,50 mM,,,9.4,NS,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,,,29.7,S,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,6.25 mM,,,17.0,S,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,12.5 mM,,,13.0,S,,,Unknown,,,No,24889636
+Metformin,Caenorhabditis elegans,N2,100 mM,,,6.3,NS,,,Unknown,,,No,24889636
+Fluvastatin,Caenorhabditis elegans,N2,50 ÂµM,,,13.0,S,,,Unknown,,,No,24923838
+Fluvastatin,Caenorhabditis elegans,N2,20âÎ¼M,,,14.0,S,,,Unknown,,,No,24923838
+Shi Quan Da Bu Wan,Caenorhabditis elegans,N2,6.2 g/L,,,14.5,S,,,Unknown,,,No,24952637
+Shengmai Yin,Caenorhabditis elegans,N2,48.0 g/L,,,47.3,S,,,Unknown,,,No,24952637
+Liuwei Dihuang Wan,Caenorhabditis elegans,N2,4.2 g/L,,,12.6,S,,,Unknown,,,No,24952637
+Erchen wan,Caenorhabditis elegans,N2,1.5 g/L,,,21.8,NS,,,Unknown,,,No,24952637
+Huan Shao Dan,Caenorhabditis elegans,N2,6.8 g/L,,,38.3,S,,,Unknown,,,No,24952637
+Caffeic acid phenethylester,Caenorhabditis elegans,,,,,9.0,S,17.0,,Unknown,,,No,24964141
+D-beta-hydroxybutyrate,Caenorhabditis elegans,N2,20 mM,,,26.0,S,,,Unknown,,,No,25127866
+Astragalus extract,Caenorhabditis elegans,N2,400 Âµg/ml,,,19.6,S,,,Unknown,,,No,25186652
+Astragalus extract,Caenorhabditis elegans,N2,100 Âµg/ml,,,22.8,S,,,Unknown,,,No,25186652
+Astragalus extract,Caenorhabditis elegans,N2,200 Âµg/ml,,,20.7,S,,,Unknown,,,No,25186652
+Astragalus extract,Caenorhabditis elegans,N2,600 Âµg/ml,,,30.8,S,,,Unknown,,,No,25186652
+Astragalus extract,Caenorhabditis elegans,N2,200 Âµg/ml,,,24.7,S,,,Unknown,,,No,25186652
+Astragalus extract,Caenorhabditis elegans,N2,50 Âµg/ml,,,7.0,NS,,,Unknown,,,No,25186652
+Mulberry extract,Caenorhabditis elegans,N2,25 mg/mL,,,22.5,S,,,Unknown,,,No,25323576
+Acanthopanax sessiliflorus extract,Caenorhabditis elegans,N2,500 mg/L,,,18.0,S,20.0,,Unknown,,,No,25324932
+G109,Caenorhabditis elegans,N2,30 ÂµM,,,6.25,S,-8.69,,Unknown,,,No,25437839
+D609,Caenorhabditis elegans,N2,30 ÂµM,,,25.0,S,26.08,,Unknown,,,No,25437839
+PDMP,Caenorhabditis elegans,N2,30 ÂµM,,,37.5,S,39.13,,Unknown,,,No,25437839
+D-Erythro-MAPP,Caenorhabditis elegans,N2,30 ÂµM,,,-6.25,S,-4.34,,Unknown,,,No,25437839
+C75,Caenorhabditis elegans,N2,30 ÂµM,,,-6.25,S,-4.34,,Unknown,,,No,25437839
+Myriocin,Caenorhabditis elegans,N2,30 ÂµM,,,31.25,S,26.06,,Unknown,,,No,25437839
+Royalactin,Caenorhabditis elegans,N2,1.6 Âµg/ml,,,33.9,S,,,Unknown,,,No,25456847
+Royalactin,Caenorhabditis elegans,N2,0.4 Âµg/ml,,,29.1,S,,,Unknown,,,No,25456847
+Royalactin,Caenorhabditis elegans,N2,0.04 Âµg/ml,,,26.8,S,,,Unknown,,,No,25456847
+Ibuprofen,Caenorhabditis elegans,N2,0.4 mM,,,6.96,S,,,Hermaphrodite,,,No,25521617
+Ibuprofen,Caenorhabditis elegans,N2,0.2 mM,,,7.39,NS,,,Hermaphrodite,,,No,25521617
+Ibuprofen,Caenorhabditis elegans,N2,0.1 mM,,,10.51,S,,,Hermaphrodite,,,No,25521617
+Ibuprofen,Caenorhabditis elegans,N2,0.05 mM,,,7.13,S,,,Hermaphrodite,,,No,25521617
+Ibuprofen,Caenorhabditis elegans,N2,0.025 mM,,,9.67,S,,,Hermaphrodite,,,No,25521617
+Ibuprofen,Caenorhabditis elegans,N2,0.01 mM,,,4.63,S,,,Hermaphrodite,,,No,25521617
+Edetate Calcium Disodium,Caenorhabditis elegans,N2,,,,21.4,S,,,Unknown,,,No,25554795
+N-nitrosodimethylamine,Caenorhabditis elegans,N2,50 ÂµM,,,5.5,S,,,Unknown,,,No,25556763
+Dibromoacetic acid,Caenorhabditis elegans,N2,100 ÂµM,,,14.6,S,,,Unknown,,,No,25556763
+Genistein,Caenorhabditis elegans,N2,100 ÂµM,,,27.9,S,,,Unknown,,,No,25593647
+Genistein,Caenorhabditis elegans,N2,50 ÂµM,,,10.0,S,,,Unknown,,,No,25593647
+Specioside,Caenorhabditis elegans,N2,5 ÂµM,,,8.9,S,,,Unknown,,,No,25619942
+Specioside,Caenorhabditis elegans,N2,50 ÂµM,,,11.8,S,,,Unknown,,,No,25619942
+Specioside,Caenorhabditis elegans,N2,25 ÂµM,,,15.5,S,,,Unknown,,,No,25619942
+Gluconic acid,Caenorhabditis elegans,N2,5 mM,,,17.0,S,,,Unknown,,,No,25643626
+Gluconic acid,Caenorhabditis elegans,N2,10 mM,,,16.0,S,,,Unknown,,,No,25643626
+Gluconic acid,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626
+Valine,Caenorhabditis elegans,N2,10 mM,,,-1.0,S,,,Unknown,,,No,25643626
+Xylose,Caenorhabditis elegans,N2,10 mM,,,6.0,S,,,Unknown,,,No,25643626
+Valine,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,25643626
+Valine,Caenorhabditis elegans,N2,1 mM,,,13.0,NS,,,Unknown,,,No,25643626
+Tyrosine,Caenorhabditis elegans,N2,5 mM,,,5.0,S,,,Unknown,,,No,25643626
+Tyrosine,Caenorhabditis elegans,N2,1 mM,,,10.0,S,,,Unknown,,,No,25643626
+Tryptophan,Caenorhabditis elegans,N2,10 mM,,,1.0,NS,,,Unknown,,,No,25643626
+Tyrosine,Caenorhabditis elegans,N2,10 mM,,,2.0,NS,,,Unknown,,,No,25643626
+Tryptophan,Caenorhabditis elegans,N2,1 mM,,,9.0,S,,,Unknown,,,No,25643626
+Tryptophan,Caenorhabditis elegans,N2,5 mM,,,6.0,S,,,Unknown,,,No,25643626
+Threonine,Caenorhabditis elegans,N2,1 mM,,,0.0,S,,,Unknown,,,No,25643626
+Threonine,Caenorhabditis elegans,N2,10 mM,,,8.0,S,,,Unknown,,,No,25643626
+Tryptophan,Caenorhabditis elegans,N2,1 mM,,,14.0,S,,,Unknown,,,No,25643626
+Threonine,Caenorhabditis elegans,N2,5 mM,,,3.0,NS,,,Unknown,,,No,25643626
+Taurine,Caenorhabditis elegans,N2,10 mM,,,-4.0,S,,,Unknown,,,No,25643626
+Taurine,Caenorhabditis elegans,N2,5 mM,,,6.0,S,,,Unknown,,,No,25643626
+Taurine,Caenorhabditis elegans,N2,1 mM,,,11.0,S,,,Unknown,,,No,25643626
+Succinate,Caenorhabditis elegans,N2,1 mM,,,11.0,S,,,Unknown,,,No,25643626
+Succinate,Caenorhabditis elegans,N2,5 mM,,,10.0,S,,,Unknown,,,No,25643626
+Serine,Caenorhabditis elegans,N2,10 mM,,,22.0,S,,,Unknown,,,No,25643626
+Succinate,Caenorhabditis elegans,N2,10 mM,,,4.0,NS,,,Unknown,,,No,25643626
+Serine,Caenorhabditis elegans,N2,5 mM,,,18.0,S,,,Unknown,,,No,25643626
+Serine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626
+Ribose,Caenorhabditis elegans,N2,10 mM,,,1.0,NS,,,Unknown,,,No,25643626
+Serine,Caenorhabditis elegans,N2,10 mM,,,9.0,S,,,Unknown,,,No,25643626
+Proline,Caenorhabditis elegans,N2,10 mM,,,18.0,S,,,Unknown,,,No,25643626
+Putrescine,Caenorhabditis elegans,N2,100 ÂµM,,,1.0,NS,,,Unknown,,,No,25643626
+Ribose,Caenorhabditis elegans,N2,5 mM,,,9.0,S,,,Unknown,,,No,25643626
+Ribose,Caenorhabditis elegans,N2,1 mM,,,9.0,S,,,Unknown,,,No,25643626
+Putrescine,Caenorhabditis elegans,N2,10 mM,,,-13.0,S,,,Unknown,,,No,25643626
+Putrescine,Caenorhabditis elegans,N2,1 mM,,,10.0,S,,,Unknown,,,No,25643626
+Proline,Caenorhabditis elegans,N2,5 mM,,,19.0,S,,,Unknown,,,No,25643626
+Proline,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,25643626
+Proline,Caenorhabditis elegans,N2,1 mM,,,17.0,S,,,Unknown,,,No,25643626
+Phosphoenolpyruvate,Caenorhabditis elegans,N2,5 mM,,,12.0,S,,,Unknown,,,No,25643626
+Picolinic acid,Caenorhabditis elegans,N2,1 mM,,,7.0,S,,,Unknown,,,No,25643626
+Phosphoenolpyruvate,Caenorhabditis elegans,N2,10 mM,,,8.0,S,,,Unknown,,,No,25643626
+Phosphoenolpyruvate,Caenorhabditis elegans,N2,1 mM,,,12.0,S,,,Unknown,,,No,25643626
+N-acetyl-l-histidine,Caenorhabditis elegans,N2,1 mM,,,12.0,S,,,Unknown,,,No,25643626
+Methionine,Caenorhabditis elegans,N2,10 mM,,,14.0,S,,,Unknown,,,No,25643626
+Ornithine,Caenorhabditis elegans,N2,10 mM,,,-10.0,S,,,Unknown,,,No,25643626
+Ornithine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626
+Ornithine,Caenorhabditis elegans,N2,100 ÂµM,,,3.0,NS,,,Unknown,,,No,25643626
+N-acetyl-l-histidine,Caenorhabditis elegans,N2,10 mM,,,10.0,NS,,,Unknown,,,No,25643626
+N-acetyl-l-histidine,Caenorhabditis elegans,N2,100 ÂµM,,,3.0,NS,,,Unknown,,,No,25643626
+Methionine,Caenorhabditis elegans,N2,1 mM,,,4.0,NS,,,Unknown,,,No,25643626
+Methionine,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,25643626
+Lysine,Caenorhabditis elegans,N2,1 mM,,,7.0,S,,,Unknown,,,No,25643626
+Lysine,Caenorhabditis elegans,N2,10 mM,,,6.0,S,,,Unknown,,,No,25643626
+L-theanine,Caenorhabditis elegans,N2,10 mM,,,-15.0,S,,,Unknown,,,No,25643626
+Lysine,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,25643626
+L-theanine,Caenorhabditis elegans,N2,5 mM,,,10.0,S,,,Unknown,,,No,25643626
+L-theanine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626
+L-theanine,Caenorhabditis elegans,N2,100 ÂµM,,,14.0,S,,,Unknown,,,No,25643626
+L-histidine methyl ester,Caenorhabditis elegans,N2,10 mM,,,4.0,NS,,,Unknown,,,No,25643626
+Homocysteine,Caenorhabditis elegans,N2,1 mM,,,13.0,S,,,Unknown,,,No,25643626
+L-histidine methyl ester,Caenorhabditis elegans,N2,1 mM,,,9.0,S,,,Unknown,,,No,25643626
+L-histidine methyl ester,Caenorhabditis elegans,N2,100 ÂµM,,,8.0,S,,,Unknown,,,No,25643626
+Leucine,Caenorhabditis elegans,N2,10 mM,,,7.0,S,,,Unknown,,,No,25643626
+Leucine,Caenorhabditis elegans,N2,5 mM,,,6.0,S,,,Unknown,,,No,25643626
+Isoleucine,Caenorhabditis elegans,N2,10 mM,,,3.0,S,,,Unknown,,,No,25643626
+Leucine,Caenorhabditis elegans,N2,1 mM,,,16.0,S,,,Unknown,,,No,25643626
+Isoleucine,Caenorhabditis elegans,N2,5 mM,,,3.0,NS,,,Unknown,,,No,25643626
+Isoleucine,Caenorhabditis elegans,N2,1 mM,,,3.0,NS,,,Unknown,,,No,25643626
+Inositol,Caenorhabditis elegans,N2,10 mM,,,17.0,S,,,Unknown,,,No,25643626
+Inositol,Caenorhabditis elegans,N2,1 mM,,,3.0,S,,,Unknown,,,No,25643626
+Homocysteine,Caenorhabditis elegans,N2,5 mM,,,7.0,S,,,Unknown,,,No,25643626
+Histidine,Caenorhabditis elegans,N2,10 mM,,,12.0,S,,,Unknown,,,No,25643626
+Histidine,Caenorhabditis elegans,N2,5 mM,,,9.0,S,,,Unknown,,,No,25643626
+Histidine,Caenorhabditis elegans,N2,1 mM,,,4.0,NS,,,Unknown,,,No,25643626
+Histidine,Caenorhabditis elegans,N2,5 mM,,,10.0,S,,,Unknown,,,No,25643626
+Glycine,Caenorhabditis elegans,N2,10 mM,,,-4.0,NS,,,Unknown,,,No,25643626
+Glycine,Caenorhabditis elegans,N2,1 mM,,,10.0,S,,,Unknown,,,No,25643626
+Glycine,Caenorhabditis elegans,N2,5 mM,,,3.0,NS,,,Unknown,,,No,25643626
+Glutamine,Caenorhabditis elegans,N2,5 mM,,,16.0,S,,,Unknown,,,No,25643626
+Glycerol,Caenorhabditis elegans,N2,10 mM,,,21.0,S,,,Unknown,,,No,25643626
+Glutamine,Caenorhabditis elegans,N2,10 mM,,,-6.0,S,,,Unknown,,,No,25643626
+Glutamate,Caenorhabditis elegans,N2,5 mM,,,11.0,S,,,Unknown,,,No,25643626
+Glutamine,Caenorhabditis elegans,N2,1 mM,,,15.0,S,,,Unknown,,,No,25643626
+Glutamate,Caenorhabditis elegans,N2,10 mM,,,-8.0,S,,,Unknown,,,No,25643626
+Glutamate,Caenorhabditis elegans,N2,1 mM,,,14.0,S,,,Unknown,,,No,25643626
+DL-lactate,Caenorhabditis elegans,N2,1 mM,,,3.0,NS,,,Unknown,,,No,25643626
+Galactose,Caenorhabditis elegans,N2,10 mM,,,6.0,S,,,Unknown,,,No,25643626
+DL-lactate,Caenorhabditis elegans,N2,10 mM,,,2.0,NS,,,Unknown,,,No,25643626
+Galactose,Caenorhabditis elegans,N2,1 mM,,,1.0,NS,,,Unknown,,,No,25643626
+DL-lactate,Caenorhabditis elegans,N2,5 mM,,,6.0,S,,,Unknown,,,No,25643626
+DL-isocitrate,Caenorhabditis elegans,N2,5 mM,,,13.0,S,,,Unknown,,,No,25643626
+DL-isocitrate,Caenorhabditis elegans,N2,1 mM,,,3.0,NS,,,Unknown,,,No,25643626
+DL-isocitrate,Caenorhabditis elegans,N2,10 mM,,,-28.0,S,,,Unknown,,,No,25643626
+D-glutamate,Caenorhabditis elegans,N2,5 mM,,,18.0,S,,,Unknown,,,No,25643626
+D-glutamate,Caenorhabditis elegans,N2,1 mM,,,14.0,S,,,Unknown,,,No,25643626
+D-aspartate,Caenorhabditis elegans,N2,5 mM,,,18.0,S,,,Unknown,,,No,25643626
+D-glutamate,Caenorhabditis elegans,N2,10 mM,,,-3.0,NS,,,Unknown,,,No,25643626
+D-aspartate,Caenorhabditis elegans,N2,10 mM,,,8.0,S,,,Unknown,,,No,25643626
+D-alanine,Caenorhabditis elegans,N2,5 mM,,,16.0,S,,,Unknown,,,No,25643626
+D-aspartate,Caenorhabditis elegans,N2,1 mM,,,7.0,NS,,,Unknown,,,No,25643626
+D-alanine,Caenorhabditis elegans,N2,1 mM,,,14.0,S,,,Unknown,,,No,25643626
+D-alanine,Caenorhabditis elegans,N2,10 mM,,,16.0,S,,,Unknown,,,No,25643626
+Cysteine,Caenorhabditis elegans,N2,10 mM,,,2.0,NS,,,Unknown,,,No,25643626
+Carnosine,Caenorhabditis elegans,N2,1 mM,,,11.0,S,,,Unknown,,,No,25643626
+Cysteine,Caenorhabditis elegans,N2,5 mM,,,16.0,S,,,Unknown,,,No,25643626
+Cysteine,Caenorhabditis elegans,N2,1 mM,,,9.0,S,,,Unknown,,,No,25643626
+Creatine,Caenorhabditis elegans,N2,10 mM,,,-18.0,S,,,Unknown,,,No,25643626
+Creatine,Caenorhabditis elegans,N2,1 mM,,,-4.0,S,,,Unknown,,,No,25643626
+Creatine,Caenorhabditis elegans,N2,5 mM,,,-20.0,S,,,Unknown,,,No,25643626
+Betaine,Caenorhabditis elegans,N2,1 mM,,,9.0,S,,,Unknown,,,No,25643626
+Carnosine,Caenorhabditis elegans,N2,10 ÂµM,,,1.0,NS,,,Unknown,,,No,25643626
+Carnosine,Caenorhabditis elegans,N2,100 ÂµM,,,4.0,S,,,Unknown,,,No,25643626
+Citrate,Caenorhabditis elegans,N2,10 mM,,,-2.0,NS,,,Unknown,,,No,25643626
+Caprylate,Caenorhabditis elegans,N2,5 mM,,,-5.0,S,,,Unknown,,,No,25643626
+Caprylate,Caenorhabditis elegans,N2,10 mM,,,-18.0,S,,,Unknown,,,No,25643626
+Arginine,Caenorhabditis elegans,N2,5 mM,,,11.0,S,,,Unknown,,,No,25643626
+Caprylate,Caenorhabditis elegans,N2,1 mM,,,7.0,S,,,Unknown,,,No,25643626
+Caprylate,Caenorhabditis elegans,N2,100 ÂµM,,,1.0,NS,,,Unknown,,,No,25643626
+Beta-alanine,Caenorhabditis elegans,N2,1 mM,,,13.0,S,,,Unknown,,,No,25643626
+Beta-alanine,Caenorhabditis elegans,N2,5 mM,,,5.0,NS,,,Unknown,,,No,25643626
+Asparagine,Caenorhabditis elegans,N2,5 mM,,,5.0,S,,,Unknown,,,No,25643626
+Asparagine,Caenorhabditis elegans,N2,10 mM,,,-25.0,S,,,Unknown,,,No,25643626
+Asparagine,Caenorhabditis elegans,N2,1 mM,,,1.0,NS,,,Unknown,,,No,25643626
+Arginine,Caenorhabditis elegans,N2,10 mM,,,15.0,S,,,Unknown,,,No,25643626
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,1 mM,,,15.0,S,,,Unknown,,,No,25643626
+Arginine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,5 mM,,,11.0,S,,,Unknown,,,No,25643626
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,10 mM,,,7.0,NS,,,Unknown,,,No,25643626
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,100 ÂµM,,,10.0,S,,,Unknown,,,No,25643626
+Alanine,Caenorhabditis elegans,N2,10 mM,,,11.0,S,,,Unknown,,,No,25643626
+Alanine,Caenorhabditis elegans,N2,1 mM,,,8.0,S,,,Unknown,,,No,25643626
+Alanine,Caenorhabditis elegans,N2,5 mM,,,4.0,NS,,,Unknown,,,No,25643626
+Agmatine,Caenorhabditis elegans,N2,10 mM,,,-20.0,S,,,Unknown,,,No,25643626
+Agmatine,Caenorhabditis elegans,N2,1 mM,,,16.0,S,,,Unknown,,,No,25643626
+Agmatine,Caenorhabditis elegans,N2,100 ÂµM,,,1.0,NS,,,Unknown,,,No,25643626
+Rifamycin SV,Caenorhabditis elegans,N2,50 ÂµM,,,20.9,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,30 ÂµM,,,56.1,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,50 ÂµM,,,45.4,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,50 ÂµM,,,55.8,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,20 ÂµM,,,50.8,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,10 ÂµM,,,45.3,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,100 ÂµM,,,49.2,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,200 ÂµM,,,43.4,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,50 ÂµM,,,37.9,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,1 ÂµM,,,34.8,S,,,Unknown,,,No,25720500
+Rifampicin,Caenorhabditis elegans,N2,5 ÂµM,,,42.6,S,,,Unknown,,,No,25720500
+10-hydroxy-2-decenoic Acid,Caenorhabditis elegans,N2,25 ÂµM,,,10.0,S,14.0,,Unknown,,,No,25789174
+Garlic extract,Caenorhabditis elegans,N2,50 ppm,,,21.0,S,,,Unknown,,,No,25940980
+Soybean trypsin inhibitor,Caenorhabditis elegans,N2,10 ÂµM,,,10.4,S,,,Unknown,,,No,25959406
+Buckwheat trypsin inhibitor,Caenorhabditis elegans,N2,10 ÂµM,,,23.7,S,,,Unknown,,,No,25959406
+Soybean trypsin inhibitor,Caenorhabditis elegans,N2,5 ÂµM,,,8.7,S,,,Unknown,,,No,25959406
+Buckwheat trypsin inhibitor,Caenorhabditis elegans,N2,2.5 ÂµM,,,7.5,S,,,Unknown,,,No,25959406
+Curcumin,Caenorhabditis elegans,N2,100 ÂµM,,,22.5,S,,,Unknown,,,No,25959406
+Buckwheat trypsin inhibitor,Caenorhabditis elegans,N2,5 ÂµM,,,15.6,S,,,Unknown,,,No,25959406
+Resveratrol,Caenorhabditis elegans,N2,1 ÂµM,,,6.3,NS,9.1,,Unknown,,,No,25976661
+Resveratrol,Caenorhabditis elegans,N2,50 ÂµM,,,15.4,S,14.3,,Unknown,,,No,25976661
+Resveratrol,Caenorhabditis elegans,N2,10 ÂµM,,,12.8,S,9.1,,Unknown,,,No,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,10 ÂµM,,,15.5,S,16.7,,Unknown,,,No,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,10 ÂµM,,,12.8,S,20.0,,Unknown,,,No,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,10 ÂµM,,,11.8,S,18.1,,Unknown,,,No,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,1 ÂµM,,,10.3,S,16.7,,Unknown,,,No,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,50 ÂµM,,,4.8,NS,8.3,,Unknown,,,No,25976661
+Echinacoside,Caenorhabditis elegans,N2,600 ÂµM,,,9.47,S,,,Unknown,,,No,26027643
+Echinacoside,Caenorhabditis elegans,N2,300 ÂµM,,,15.82,S,,,Unknown,,,No,26027643
+Echinacoside,Caenorhabditis elegans,N2,150 ÂµM,,,7.6,S,,,Unknown,,,No,26027643
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,5 mM,,,30.5,S,47.1,,Unknown,,,No,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,1 mM,,,28.1,S,17.6,,Unknown,,,No,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,5 mM,,,14.6,NS,19.0,,Unknown,,,No,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,2 mM,,,27.1,S,23.5,,Unknown,,,No,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,1 mM,,,6.1,NS,9.5,,Unknown,,,No,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,2 mM,,,5.2,NS,9.5,,Unknown,,,No,26039957
+Otophylloside B,Caenorhabditis elegans,N2,50 ÂµM,,,30.0,S,,,Unknown,,,No,26112394
+Lappaol C,Caenorhabditis elegans,N2,100 ÂµM,,,11.5,S,,,Unknown,,,No,26141518
+Lappaol F,Caenorhabditis elegans,N2,100 ÂµM,,,12.5,S,,,Unknown,,,No,26141518
+Matairesinol,Caenorhabditis elegans,N2,100 ÂµM,,,25.0,S,,,Unknown,,,No,26141518
+Matairesinol,Caenorhabditis elegans,N2,10 ÂµM,,,14.0,S,,,Unknown,,,No,26141518
+Lappaol C,Caenorhabditis elegans,N2,10 ÂµM,,,11.3,S,,,Unknown,,,No,26141518
+Arctiin,Caenorhabditis elegans,N2,100 ÂµM,,,15.3,S,,,Unknown,,,No,26141518
+Arctiin,Caenorhabditis elegans,N2,10 ÂµM,,,8.9,S,,,Unknown,,,No,26141518
+Arctigenin,Caenorhabditis elegans,N2,100 ÂµM,,,13.7,S,,,Unknown,,,No,26141518
+Arctigenin,Caenorhabditis elegans,N2,10 ÂµM,,,6.7,S,,,Unknown,,,No,26141518
+(Iso)lappaol A,Caenorhabditis elegans,N2,100 ÂµM,,,11.2,S,,,Unknown,,,No,26141518
+Verminoside,Caenorhabditis elegans,N2,5 ÂµM,,,9.8,S,,,Unknown,,,No,26189547
+Verminoside,Caenorhabditis elegans,N2,50 ÂµM,,,8.5,S,,,Unknown,,,No,26189547
+Verminoside,Caenorhabditis elegans,N2,25 ÂµM,,,20.8,S,,,Unknown,,,No,26189547
+(S)-2-hydroxyglutarate,Caenorhabditis elegans,,8 mM,,,31.8,S,,,Unknown,,,No,26190651
+Alpha-ketoglutarate,Caenorhabditis elegans,,8 mM,,,47.9,S,,,Unknown,,,No,26190651
+(R)-2-hydroxyglutarate,Caenorhabditis elegans,,8 mM,,,42.9,S,,,Unknown,,,No,26190651
+Panax notoginseng extract,Caenorhabditis elegans,N2,0.1 mg/ml,,,21.0,,,,Unknown,,,No,26234580
+Mianserin,Caenorhabditis elegans,N2,50 ÂµM ,,,28.3,S,46.0,,Unknown,,,No,26255886
+Fucoxanthin,Caenorhabditis elegans,N2,5 ÂµM,,,14.0,S,24.0,,Unknown,,,No,26292053
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,,,,5.8,S,,,Unknown,,,No,26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,25 ÂµM,,,39.0,S,,,Unknown,,,No,26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,5 ÂµM,,,10.1,S,,,Unknown,,,No,26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,25 ÂµM,,,17.3,S,,,Unknown,,,No,26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,50 ÂµM,,,17.0,S,,,Unknown,,,No,26433219
+Vitexin,Caenorhabditis elegans,N2,100 ÂµM,,,17.2,S,10.5,,Unknown,,,No,26535084
+Vitexin,Caenorhabditis elegans,N2,50 ÂµM,,,8.0,S,5.3,,Unknown,,,No,26535084
+Folic acid,Caenorhabditis elegans,N2,25 ÂµM,,,15.0,S,,,Unknown,,,No,26546011
+Folic acid,Caenorhabditis elegans,N2,10 ÂµM,,,17.1,S,,,Unknown,,,No,26546011
+Folic acid,Caenorhabditis elegans,N2,25 ÂµM,,,26.6,S,,,Unknown,,,No,26546011
+Folic acid,Caenorhabditis elegans,N2,50 ÂµM,,,0.2,NS,,,Unknown,,,No,26546011
+Sorbitol,Caenorhabditis elegans,N2,5%,,,27.12,S,,,Unknown,,,No,26579191
+Sorbitol,Caenorhabditis elegans,N2,12.50%,,,16.0,S,,,Unknown,,,No,26579191
+Sorbitol,Caenorhabditis elegans,N2,2.50%,,,32.7,S,,,Unknown,,,No,26579191
+Sorbitol,Caenorhabditis elegans,N2,1%,,,17.9,S,,,Unknown,,,No,26579191
+Oleanolic acid,Caenorhabditis elegans,N2,300 ÂµM,,,16.63,S,,,Unknown,,,No,26592451
+Oleanolic acid,Caenorhabditis elegans,N2,200 ÂµM,,,11.18,S,,,Unknown,,,No,26592451
+Isoleucine,Caenorhabditis elegans,N2,5 mM,,,9.5,S,6.45,,Unknown,,,No,26620638
+Leucine,Caenorhabditis elegans,N2,5 mM,,,6.84,S,7.32,,Unknown,,,No,26620638
+L-Valine,Caenorhabditis elegans,N2,5 mM,,,7.05,S,0.0,,Unknown,,,No,26620638
+Glycyrrhizae radix extract,Caenorhabditis elegans,N2,0.24 g/mL,,,18.0,S,,,Unknown,,,No,26626487
+Glycyrrhizae radix extract,Caenorhabditis elegans,N2,0.18 g/ml,,,12.5,S,,,Unknown,,,No,26626487
+Trichostatin A,Caenorhabditis elegans,N2,100 ÂµM,,,22.1,S,,,Unknown,,,No,26676933
+Allantoin,Caenorhabditis elegans,N2,250 ÂµM,,,21.9,S,,,Unknown,,,No,26676933
+LY-294002,Caenorhabditis elegans,N2,100 ÂµM,,,20.9,S,,,Unknown,,,No,26676933
+Rapamycin,Caenorhabditis elegans,N2,10 ÂµM,,,18.9,S,,,Unknown,,,No,26676933
+Geldanamycin,Caenorhabditis elegans,N2,20 ÂµM,,,2.0,NS,,,Unknown,,,No,26676933
+Dafachronic Acid,Caenorhabditis elegans,N2,0.1ÂµM,,,23.44,S,,,Unknown,,,No,26691751
+Caffeine,Caenorhabditis elegans,N2,5 mM,,,65.0,S,,,Unknown,,,No,26696878
+Caffeine,Caenorhabditis elegans,N2,5 mM,,,35.0,S,,,Unknown,,,No,26696878
+Caffeine,Caenorhabditis elegans,N2,5 mM,,,8.0,S,,,Unknown,,,No,26696878
+Caffeine,Caenorhabditis elegans,N2,15 mM,,,24.0,S,,,Unknown,,,No,26696878
+Caffeine,Caenorhabditis elegans,N2,5 mM,,,0.0,NS,,,Unknown,,,No,26696878
+Caffeine,Caenorhabditis elegans,N2,30 mM,,,-60.0,S,,,Unknown,,,No,26696878
+Caffeine,Caenorhabditis elegans,N2,45 mM,,,-92.0,S,,,Unknown,,,No,26696878
+Caffeine,Caenorhabditis elegans,N2,60 mM,,,-96.0,S,,,Unknown,,,No,26696878
+Hon Tsai Tai extract,Caenorhabditis elegans,N2,2 mg/ml,,,7.97,S,,,Unknown,,,No,26726147
+"2,4-pyridinedicarboxylic acid",Caenorhabditis elegans,N2,10 mM,,,-17.13,S,,,Unknown,,,No,26729005
+Pyruvate,Caenorhabditis elegans,N2,8 mM,,,25.17,S,,,Unknown,,,No,26729005
+Pyruvate,Caenorhabditis elegans,N2,8 mM,,,-25.35,S,,,Unknown,,,No,26729005
+4âmethylâ2âoxovalerate,Caenorhabditis elegans,N2,10 mM,,,12.44,S,,,Unknown,,,No,26729005
+Alphaâketoâbetaâmethylvalerate,Caenorhabditis elegans,N2,10 mM,,,20.77,S,,,Unknown,,,No,26729005
+Alphaâketoisovalerate,Caenorhabditis elegans,N2,10 mM,,,35.02,S,,,Unknown,,,No,26729005
+Glucose,Caenorhabditis elegans,N2,2%,,,-23.75,S,-20.97,,Unknown,,,No,26764305
+Glucose,Caenorhabditis elegans,N2,4%,,,37.5,S,7.14,,Unknown,,,No,26764305
+Glucose,Caenorhabditis elegans,N2,2%,,,31.25,S,14.29,,Unknown,,,No,26764305
+Glucose,Caenorhabditis elegans,N2,1%,,,12.5,NS,0.0,,Unknown,,,No,26764305
+Glucose,Caenorhabditis elegans,N2,4%,,,-17.65,S,-8.33,,Unknown,,,No,26764305
+Glucose,Caenorhabditis elegans,N2,2%,,,-5.88,S,12.5,,Unknown,,,No,26764305
+Glucose,Caenorhabditis elegans,N2,1%,,,-5.88,NS,12.5,,Unknown,,,No,26764305
+Glucose,Caenorhabditis elegans,N2,4%,,,-23.6,S,-17.24,,Unknown,,,No,26764305
+Glucose,Caenorhabditis elegans,N2,2%,,,0.0,NS,0.0,,Unknown,,,No,26764305
+Sorbitol,Caenorhabditis elegans,N2,500 mM,,,39.35,S,57.89,,Unknown,,,No,26854551
+Glycerol,Caenorhabditis elegans,N2,500 mM,,,33.55,S,31.58,,Unknown,,,No,26854551
+Potassium Chloride,Caenorhabditis elegans,N2,250 mM,,,23.23,S,31.58,,Unknown,,,No,26854551
+Sodium Chloride,Caenorhabditis elegans,N2,350 mM,,,40.53,S,44.44,,Unknown,,,No,26854551
+Sodium Chloride,Caenorhabditis elegans,N2,250 mM,,,40.53,S,44.44,,Unknown,,,No,26854551
+Sodium Chloride,Caenorhabditis elegans,N2,150 mM,,,19.59,S,16.67,,Unknown,,,No,26854551
+18Î±-Glycyrrhetinic acid,Caenorhabditis elegans,N2,20 Âµg/mL,,,22.0,S,,,Unknown,,,No,26886723
+18Î±-Glycyrrhetinic acid,Caenorhabditis elegans,N2,100 Âµg/ml,,,11.76,S,,,Unknown,,,No,26886723
+18Î±-Glycyrrhetinic acid,Caenorhabditis elegans,N2,10 Âµg/ml,,,6.25,NS,,,Unknown,,,No,26886723
+Captopril,Caenorhabditis elegans,N2,3.18 mM,,,23.0,S,18.0,,Unknown,,,No,26918946
+Captopril,Caenorhabditis elegans,N2,2.54 mM,,,34.0,S,16.0,,Unknown,,,No,26918946
+Angelica sinensis extract,Caenorhabditis elegans,N2,2 mg/ml,,,,,,,Unknown,,,No,26941890
+Withanolide A,Caenorhabditis elegans,N2,50 ÂµM,,,10.81,S,15.12,,Unknown,,,No,26956478
+Withanolide A,Caenorhabditis elegans,N2,25 ÂµM,,,15.79,S,24.58,,Unknown,,,No,26956478
+Withanolide A,Caenorhabditis elegans,N2,5 ÂµM,,,29.65,S,45.33,,Unknown,,,No,26956478
+Withanolide A,Caenorhabditis elegans,N2,2 ÂµM,,,4.32,S,7.59,,Unknown,,,No,26956478
+Tyrosine-Alanine Dipeptide,Caenorhabditis elegans,N2,10 mM,,,12.43,S,13.04,,Unknown,,,No,26987062
+Tyrosine-Alanine Dipeptide,Caenorhabditis elegans,N2,1 mM,,,10.37,S,13.04,,Unknown,,,No,26987062
+Chlorophyll,Caenorhabditis elegans,N2,100 Âµg/ml,,,11.18,S,,,Unknown,,,No,27077003
+Chlorophyll,Caenorhabditis elegans,N2,80 Âµg/ml,,,13.9,S,,,Unknown,,,No,27077003
+Chlorophyll,Caenorhabditis elegans,N2,40 Âµg/ml,,,25.96,S,,,Unknown,,,No,27077003
+Chlorophyll,Caenorhabditis elegans,N2,10 Âµg/ml,,,23.37,S,,,Unknown,,,No,27077003
+Chlorophyll,Caenorhabditis elegans,N2,1 Âµg/ml,,,13.54,S,,,Unknown,,,No,27077003
+TPEN,Caenorhabditis elegans,N2,200 ÂµM,,,43.0,S,,,Unknown,,,No,27078872
+Zinc Sulfate,Caenorhabditis elegans,N2,500 ÂµM,,,-14.0,S,,,Unknown,,,No,27078872
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,1 mM,,,44.44,S,,,Unknown,,,No,27090484
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,500 ÂµM,,,33.33,S,,,Unknown,,,No,27090484
+Oxyresveratrol,Caenorhabditis elegans,N2,1 mM,,,31.1,S,,,Unknown,,,No,27190265
+Oxyresveratrol,Caenorhabditis elegans,N2,500 ÂµM,,,17.8,S,,,Unknown,,,No,27190265
+Oxyresveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,7.4,S,,,Unknown,,,No,27190265
+Resveratrol,Caenorhabditis elegans,N2,1 mM,,,30.4,S,,,Unknown,,,No,27190265
+Resveratrol,Caenorhabditis elegans,N2,500 ÂµM,,,23.7,S,,,Unknown,,,No,27190265
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,22.2,S,,,Unknown,,,No,27190265
+Nitrophenyl piperazine containing compound 1,Caenorhabditis elegans,N2,500 ÂµM,,,-23.08,S,,,Unknown,,,No,27220516
+Nitrophenyl piperazine containing compound 1,Caenorhabditis elegans,N2,10 ÂµM,,,23.0,S,,,Unknown,,,No,27220516
+Nitrophenyl piperazine containing compound 1,Caenorhabditis elegans,N2,50 ÂµM,,,72.5,S,,,Unknown,,,No,27220516
+Chlorogenic Acid,Caenorhabditis elegans,N2,50 Î¼M,,,20.1,S,14.28,,Hermaphrodite,,,No,27378235
+Sesame extract,Caenorhabditis elegans,N2,12.5 Âµg/ml,,,15.59,S,3.57,,Unknown,,,No,27381188
+Sesame extract,Caenorhabditis elegans,N2,25 Âµg/ml,,,13.29,S,3.57,,Unknown,,,No,27381188
+Sesame extract,Caenorhabditis elegans,N2,50 Âµg/ml,,,5.2,S,3.57,,Unknown,,,No,27381188
+Urolithin A,Caenorhabditis elegans,N2,10 ÂµM,,,24.0,S,,,Unknown,,,No,27400265
+Urolithin A,Caenorhabditis elegans,N2,30 ÂµM,,,40.7,S,,,Unknown,,,No,27400265
+Urolithin A,Caenorhabditis elegans,N2,50 ÂµM,,,45.4,S,,,Unknown,,,No,27400265
+Urolithin D,Caenorhabditis elegans,N2,50 ÂµM,,,19.0,S,,,Unknown,,,No,27400265
+Urolithin C,Caenorhabditis elegans,N2,50 ÂµM,,,36.0,S,,,Unknown,,,No,27400265
+Urolithin B,Caenorhabditis elegans,N2,50 ÂµM,,,36.6,S,,,Unknown,,,No,27400265
+Ellagic acid,Caenorhabditis elegans,N2,50 ÂµM,,,-4.3,NS,,,Unknown,,,No,27400265
+Urolithin D,Caenorhabditis elegans,N2,50 ÂµM,,,19.0,S,,,Unknown,,,No,27400265
+Urolithin C,Caenorhabditis elegans,N2,50 ÂµM,,,36.0,S,,,Unknown,,,No,27400265
+Urolithin B,Caenorhabditis elegans,N2,50 ÂµM,,,36.6,S,,,Unknown,,,No,27400265
+Urolithin A,Caenorhabditis elegans,N2,50 ÂµM,,,37.5,S,,,Unknown,,,No,27400265
+Urolithin A,Caenorhabditis elegans,N2,30 ÂµM,,,40.7,S,,,Unknown,,,No,27400265
+Urolithin A,Caenorhabditis elegans,N2,10 ÂµM,,,24.0,S,,,Unknown,,,No,27400265
+Ribes fasciculatum extract,Caenorhabditis elegans,N2,500 Âµg/mL,,,16.3,S,19.05,,Unknown,,,No,27478096
+Ribes fasciculatum extract,Caenorhabditis elegans,N2,250 Âµg/mL,,,11.1,S,4.76,,Unknown,,,No,27478096
+Blueberry extract,Caenorhabditis elegans,N2,60 Âµg/mL,,,56.0,,,,Unknown,,,No,27486399
+Salicylamine,Caenorhabditis elegans,N2,500 ÂµM,,,56.0,S,,,Unknown,,,No,27514077
+Salicylamine,Caenorhabditis elegans,N2,100 ÂµM,,,32.0,S,,,Unknown,,,No,27514077
+Glucose,Caenorhabditis elegans,N2,111 mM,,,-46.8,S,,,Unknown,,,No,27680107
+Fructose,Caenorhabditis elegans,N2,555 mM,,,-31.79,S,,,Unknown,,,No,27680107
+Fructose,Caenorhabditis elegans,N2,100 mM,,,45.66,S,,,Unknown,,,No,27680107
+Fructose,Caenorhabditis elegans,N2,55 mM,,,21.96,S,,,Unknown,,,No,27680107
+Paraquat,Caenorhabditis elegans,N2,100 ÂµM,,,23.73,S,30.77,,Unknown,,,No,27683245
+Ascorbic acid,Caenorhabditis elegans,N2,10 mM,,,-0.76,NS,-12.9,,Unknown,,,No,27683245
+Ascorbic acid,Caenorhabditis elegans,N2,5 mM,,,-3.59,S,6.45,,Unknown,,,No,27683245
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,9 mM,,,24.49,S,64.0,,Unknown,,,No,27683245
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,6 mM,,,12.53,S,12.0,,Unknown,,,No,27683245
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,3 mM,,,9.07,S,20.0,,Unknown,,,No,27683245
+Resveratrol,Caenorhabditis elegans,N2,250 ÂµM,,,16.66,S,3.13,,Unknown,,,No,27683245
+Resveratrol,Caenorhabditis elegans,N2,50 ÂµM,,,6.24,S,18.75,,Unknown,,,No,27683245
+Ursolic  acid,Caenorhabditis elegans,N2,25 ÂµM,,,32.48,S,,,Unknown,,,No,27773812
+Glucose,Caenorhabditis elegans,N2,400 mM,,,-18.69,S,,,Unknown,,,No,27776915
+Vitamin D3,Caenorhabditis elegans,N2,250 ÂµM,,,47.95,S,,,Unknown,,,No,27783938
+Vitamin D3,Caenorhabditis elegans,N2,100 ÂµM,,,23.29,S,,,Unknown,,,No,27783938
+Vitamin D3,Caenorhabditis elegans,N2,50 ÂµM,,,28.77,S,,,Unknown,,,No,27783938
+Vitamin D3,Caenorhabditis elegans,N2,25 ÂµM,,,10.98,S,,,Unknown,,,No,27783938
+Dimethyl Sulfide,Caenorhabditis elegans,N2,5 ÂµM,,,20.14,S,,,Unknown,,,No,27790859
+Dimethyl Sulfide,Caenorhabditis elegans,N2,10 ÂµM,,,24.33,S,,,Unknown,,,No,27790859
+Dimethyl Sulfide,Caenorhabditis elegans,N2,1 ÂµM,,,8.43,S,,,Unknown,,,No,27790859
+Polyherbal phytomedicine,Caenorhabditis elegans,,0.01 Âµg/ml ,,,16.09,S,,,Unknown,,,No,27853905
+M084,Caenorhabditis elegans,N2,1 mM,,,6.92,S,,,Unknown,,,No,27854075
+M084,Caenorhabditis elegans,N2,500 ÂµM,,,19.12,S,,,Unknown,,,No,27854075
+M084,Caenorhabditis elegans,N2,50 ÂµM,,,9.11,S,,,Unknown,,,No,27854075
+"trans-2,40,5-trihydroxystilbene",Caenorhabditis elegans,N2,100 ÂµM,,,6.44,S,,,Unknown,,,No,27882602
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,0.87,S,,,Unknown,,,No,27882602
+"trans-3,5-dimethoxy-4-fluoro-4'-hydroxystilbene",Caenorhabditis elegans,N2,100 ÂµM,,,3.63,S,4.76,,Unknown,,,No,27882602
+Reserpine,Caenorhabditis elegans,N2,60 ÂµM,,,25.75,S,,,Unknown,,,No,27966489
+Metformin,Caenorhabditis elegans,N2,50 mM,,,24.46,S,,,Unknown,,,No,27984722
+7-methyl-Dehydrosilybin,Caenorhabditis elegans,N2,10 ÂµM,,,-9.0,S,,,Unknown,,,No,28039083
+"2,3-Dehydrosilybin B",Caenorhabditis elegans,N2,10 ÂµM,,,7.18,S,,,Unknown,,,No,28039083
+"2,3-Dehydrosilybin A",Caenorhabditis elegans,N2,10 ÂµM,,,12.55,S,,,Unknown,,,No,28039083
+"2,3-dehydrosilybin",Caenorhabditis elegans,N2,10 ÂµM,,,10.15,S,,,Unknown,,,No,28039083
+"2,3-dehydrosilybin",Caenorhabditis elegans,N2,5 ÂµM,,,2.16,S,,,Unknown,,,No,28039083
+Isosilybin A/B,Caenorhabditis elegans,N2,10 ÂµM,,,6.82,S,,,Unknown,,,No,28039083
+Silybin A/B,Caenorhabditis elegans,N2,10 ÂµM,,,9.04,S,,,Unknown,,,No,28039083
+Silydianin,Caenorhabditis elegans,N2,10 ÂµM,,,5.88,S,,,Unknown,,,No,28039083
+Silychristin A/B,Caenorhabditis elegans,N2,10 ÂµM,,,7.06,S,,,Unknown,,,No,28039083
+Silymarin,Caenorhabditis elegans,N2,50 ÂµM,,,13.64,S,,,Unknown,,,No,28039083
+Silymarin,Caenorhabditis elegans,N2,10 ÂµM,,,4.55,S,,,Unknown,,,No,28039083
+Paraquat,Caenorhabditis elegans,N2,100 ÂµM,,,13.53,S,,,Unknown,,,No,28054425
+Butylated hydroxyanisole,Caenorhabditis elegans,N2,25 ÂµM,,,6.38,S,,,Unknown,,,No,28054425
+Diethyl Maleate,Caenorhabditis elegans,N2,1 mM,,,-6.68,S,-6.4,,Unknown,,,No,28086197
+Diethyl Maleate,Caenorhabditis elegans,N2,100 ÂµM,,,4.64,S,2.33,,Unknown,,,No,28086197
+Menadione,Caenorhabditis elegans,N2,100 ÂµM,,,-8.72,S,-6.36,,Unknown,,,No,28086197
+Buthus martensii Karsch Polypeptide Toxin ,Caenorhabditis elegans,N2,Polypeptide DNA sequence inserted into the pGEX-4T-1 plasmid and transformed into pGEX-4T-1,,,22.5,S,29.27,,Unknown,,,No,28088444
+Piceatannol,Caenorhabditis elegans,N2,100 ÂµM,,,18.3,S,,,Unknown,,,No,28128482
+Piceatannol,Caenorhabditis elegans,N2,50 ÂµM,,,18.3,S,,,Unknown,,,No,28128482
+Sesamin,Caenorhabditis elegans,N2,5.75 Âµg,,,9.55,S,,,Unknown,,,No,28239780
+cis-vaccenic acid ,Caenorhabditis elegans,N2,800 ÂµM,,,13.06,S,,,Unknown,,,No,28379943
+Palmitoleic acid,Caenorhabditis elegans,N2,800 ÂµM,,,17.09,S,,,Unknown,,,No,28379943
+Oleic Acid,Caenorhabditis elegans,N2,800 ÂµM,,,17.29,S,,,Unknown,,,No,28379943
+Tomatidine,Caenorhabditis elegans,N2,25 ÂµM,,,7.0,S,,,Unknown,,,No,28397803
+Calycosin,Caenorhabditis elegans,N2,200 ÂµM,,,24.86,S,,,Unknown,,,No,28434978
+Calycosin,Caenorhabditis elegans,N2,400 ÂµM,,,17.8,S,,,Unknown,,,No,28434978
+Calycosin,Caenorhabditis elegans,N2,100 ÂµM,,,15.64,S,,,Unknown,,,No,28434978
+Calycosin,Caenorhabditis elegans,N2,50 ÂµM,,,6.24,S,,,Unknown,,,No,28434978
+Triptolide,Caenorhabditis elegans,N2,50 mg/L,,,20.1,S,16.0,,Unknown,,,No,28471052
+Colanic acid,Caenorhabditis elegans,N2,,,,16.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,17.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,nuo-6(qm200),,,,1.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,nuo-6(qm200),,,,-5.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,nuo-6(qm200),,,,4.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,isp-1(qm150),,,,0.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,isp-1(qm150),,,,1.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,isp-1(qm150),,,,6.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,14.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,6.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,4.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,-1.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,3.0,NS,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,10.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,11.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,12.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,13.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,24.0,S,,,Unknown,,,No,28622510
+Colanic acid,Caenorhabditis elegans,N2,,,,9.0,S,,,Unknown,,,No,28622510
+Ursolic  acid,Caenorhabditis elegans,N2,25 ÂµM,,,31.3,S,,,Unknown,,,No,28673026
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,15 mM,,,10.0,S,6.0,,Unknown,,,No,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,10 mM,,,25.0,S,10.3,,Unknown,,,No,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,5 mM,,,31.25,S,12.5,,Unknown,,,No,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,3 mM,,,19.53,S,8.15,,Unknown,,,No,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,1 mM,,,10.16,S,3.8,,Unknown,,,No,28676501
+Resveratrol,Caenorhabditis elegans,CB5586,10 Âµg/ml,,,5.0,S,,,Unknown,,,No,28727758
+Chlorophytum borivilianum  extract,Caenorhabditis elegans,CB5586,1 ng/ml,,,10.0,S,,,Unknown,,,No,28727758
+Puer tea extract,Caenorhabditis elegans,,2 mg/ml,,,,S,,,Unknown,,,No,28750751
+Puer tea extract,Caenorhabditis elegans,,0.67 mg/ml,,,,S,,,Unknown,,,No,28750751
+Puer tea extract,Caenorhabditis elegans,,0.223 mg/ml,,,,S,,,Unknown,,,No,28750751
+Black tea extract,Caenorhabditis elegans,,2 mg/ml,,,,S,,,Unknown,,,No,28750751
+Black tea extract,Caenorhabditis elegans,,0.67 mg/ml,,,,S,,,Unknown,,,No,28750751
+Black tea extract,Caenorhabditis elegans,,0.223 mg/ml,,,,S,,,Unknown,,,No,28750751
+Green tea extract,Caenorhabditis elegans,,0.25 mg/ml,,,,S,,,Unknown,,,No,28750751
+Green tea extract,Caenorhabditis elegans,,0.125 mg/ml,,,,S,,,Unknown,,,No,28750751
+Alphaâlinolenic acid,Caenorhabditis elegans,N2,5 mM,,,28.67,S,8.7,,Unknown,,,No,28772063
+Alphaâlinolenic acid,Caenorhabditis elegans,N2,2 mM,,,10.49,S,4.35,,Unknown,,,No,28772063
+Alphaâlinolenic acid,Caenorhabditis elegans,N2,10 mM,,,15.13,S,-4.34,,Unknown,,,No,28772063
+Indole,Caenorhabditis elegans,N2,100 ÂµM,,,15.91,S,12.3,,Unknown,,,No,28827958
+Emodin,Caenorhabditis elegans,N2,150 ÂµM,,,19.74,S,,,Unknown,,,No,28831863
+Emodin,Caenorhabditis elegans,N2,50 ÂµM,,,9.68,S,,,Unknown,,,No,28831863
+Aspirin,Caenorhabditis elegans,N2,100 ÂµM,,,14.24,S,,,Unknown,,,No,28910305
+Selenocysteine,Caenorhabditis elegans,N2,5 mM,,,24.34,S,10.52,,Unknown,,,No,28954009
+Selenocysteine,Caenorhabditis elegans,N2,2.5 mM,,,21.72,S,7.9,,Unknown,,,No,28954009
+Selenocysteine,Caenorhabditis elegans,N2,1 mM,,,24.16,S,7.9,,Unknown,,,No,28954009
+Diosgenin,Caenorhabditis elegans,N2,50 Âµg/mL,,,20.8,S,,,Unknown,,,No,28954389
+D-Allulose,Caenorhabditis elegans,N2,25 mM,,,7.0,S,,,Unknown,,,No,28965946
+D-Allulose,Caenorhabditis elegans,N2,10 mM,,,12.0,S,,,Unknown,,,No,28965946
+D-Allulose,Caenorhabditis elegans,N2,5 mM,,,4.0,S,,,Unknown,,,No,28965946
+2-deoxy-D-glucose,Caenorhabditis elegans,N2,5 mM,,,26.21,S,11.27,,Unknown,,,No,28992589
+Paraquat,Caenorhabditis elegans,N2,200 ÂµM,,,24.6,S,13.58,,Unknown,,,No,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,1 mM,,,-16.6,S,-13.14,,Unknown,,,No,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,800 ÂµM,,,-7.9,S,-10.85,,Unknown,,,No,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,300 ÂµM,,,7.11,S,4.0,,Unknown,,,No,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,200 ÂµM,,,16.6,S,3.14,,Unknown,,,No,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,100 ÂµM,,,13.44,S,-2.29,,Unknown,,,No,28992589
+Metformin,Caenorhabditis elegans,N2,50 mM,,,43.65,S,,,Unknown,,,No,29027899
+Shatavarin IV,Caenorhabditis elegans,N2,50 ÂµM,,,17.26,S,,,Unknown,,,No,29069955
+Echinacoside,Caenorhabditis elegans,N2,200 ÂµM,,,13.64,S,,,Unknown,,,No,29185166
+phenylethanoid glycosides,Caenorhabditis elegans,N2,500 Âµg/mL,,,15.98,S,,,Unknown,,,No,29185166
+dihydrozeatin,Caenorhabditis elegans,N2,50 ÂµM,,,0.0,NS,,,Unknown,,,No,29255944
+dihydrozeatin,Caenorhabditis elegans,N2,100 ÂµM,,,-1.0,NS,,,Unknown,,,No,29255944
+cis-zeatin,Caenorhabditis elegans,N2,100 ÂµM,,,-3.0,NS,,,Unknown,,,No,29255944
+cis-zeatin,Caenorhabditis elegans,N2,50 ÂµM,,,-2.0,NS,,,Unknown,,,No,29255944
+cis-zeatin,Caenorhabditis elegans,N2,200 ÂµM,,,-4.0,NS,,,Unknown,,,No,29255944
+trans-zeatin,Caenorhabditis elegans,N2,200 ÂµM,,,-9.0,NS,,,Unknown,,,No,29255944
+para-topolin,Caenorhabditis elegans,N2,50 ÂµM,,,5.0,NS,,,Unknown,,,No,29255944
+para-topolin,Caenorhabditis elegans,N2,100 ÂµM,,,8.0,S,,,Unknown,,,No,29255944
+ortho-topolin,Caenorhabditis elegans,N2,100 ÂµM,,,3.0,NS,,,Unknown,,,No,29255944
+N6-benzyladenine,Caenorhabditis elegans,N2,50 ÂµM,,,0.0,NS,,,Unknown,,,No,29255944
+N6-benzyladenine,Caenorhabditis elegans,N2,100 ÂµM,,,3.0,NS,,,Unknown,,,No,29255944
+N6-isopentenyladenine,Caenorhabditis elegans,N2,100 ÂµM,,,-2.0,NS,,,Unknown,,,No,29255944
+N6-isopentenyladenine,Caenorhabditis elegans,N2,200 ÂµM,,,-2.0,NS,,,Unknown,,,No,29255944
+Kinetin,Caenorhabditis elegans,N2,200 ÂµM,,,21.0,S,,,Unknown,,,No,29255944
+Metformin,Caenorhabditis elegans,N2,20 mM,,,13.79,S,,,Unknown,,,No,29263362
+Hydralazine,Caenorhabditis elegans,N2,50 ÂµM,,,14.83,S,,,Unknown,,,No,29263362
+Hydralazine,Caenorhabditis elegans,N2,100 ÂµM,,,23.29,S,,,Unknown,,,No,29263362
+Ikarugamycin,Caenorhabditis elegans,fem-1(Ëâ);dal-1(Ëâ),5 ÂµM ,,,22.25,S,,,Unknown,,,No,29273768
+Arbutin,Caenorhabditis elegans,N2,5 mM,,,11.89,S,,,Unknown,,,No,29340230
+Luteolin,Caenorhabditis elegans,N2,100 ÂµM,,,17.65,S,14.82,,Unknown,,,No,29375370
+Luteolin,Caenorhabditis elegans,N2,10 ÂµM,,,0.47,S,2.76,,Unknown,,,No,29375370
+Luteolin,Caenorhabditis elegans,N2,5 ÂµM ,,,-0.6,S,8.28,,Unknown,,,No,29375370
+Luteolin,Caenorhabditis elegans,N2,1 ÂµM,,,-1.54,S,8.28,,Unknown,,,No,29375370
+Luteolin,Caenorhabditis elegans,N2,0.5 ÂµM,,,-4.5,S,-2.03,,Unknown,,,No,29375370
+Naringin,Caenorhabditis elegans,N2,10 ÂµM,,,11.5,S,6.8,,Unknown,,,No,29375370
+Naringin,Caenorhabditis elegans,N2,5 ÂµM,,,12.57,S,4.08,,Unknown,,,No,29375370
+Naringin,Caenorhabditis elegans,N2,1 ÂµM,,,13.5,S,4.08,,Unknown,,,No,29375370
+Naringin,Caenorhabditis elegans,N2,0.5 ÂµM,,,6.95,S,-0.68,,Unknown,,,No,29375370
+S-allylmercapto-N-acetylcysteine,Caenorhabditis elegans,CF512,5 mM,,,14.24,S,18.75,,Unknown,,,No,29579097
+S-allylmercapto-N-acetylcysteine,Caenorhabditis elegans,CF512,2 mM,,,15.5,S,18.75,,Unknown,,,No,29579097
+S-allylmercapto-N-acetylcysteine,Caenorhabditis elegans,CF512,0.5mM,,,8.38,S,12.5,,Unknown,,,No,29579097
+"1,2,3-Triazolyl ester of ketorolac ",Caenorhabditis elegans,N2,50 nM,,,15.0,S,,,Unknown,,,No,29760342
+Mussel extract,Caenorhabditis elegans,N2,2 mg/ml,,,29.9,S,,,Unknown,,,No,29796528
+DNIC-1a,Caenorhabditis elegans,N2,10 ÂµM,,,11.0,S,,,Unknown,,,No,29858679
+Rapamycin,Caenorhabditis elegans,N2,100 ÂµM,,,21.3,S,,,Unknown,,,No,29874838
+Resveratrol,Caenorhabditis elegans,N2,100 ÂµM,,,13.5,S,,,Unknown,,,No,29874838
+"Methyl 3,4-dihydroxybenzoate",Caenorhabditis elegans,N2,160 mg/mL,,,19.0,S,,,Unknown,,,No,29874838
+Holothuria scabra extract,Caenorhabditis elegans,N2,0.1% DMSO,,,8.12,S,,,Unknown,,,No,29902502
+Guarana extract,Caenorhabditis elegans,N2,1000 Âµg/mL,,,36.36,S,28.57,,Unknown,,,No,29972429
+Guarana extract,Caenorhabditis elegans,N2,500 Âµg/mL,,,36.36,S,28.57,,Unknown,,,No,29972429
+Guarana extract,Caenorhabditis elegans,N2,100 Âµg/mL,,,18.18,S,21.4,,Unknown,,,No,29972429
+6-shogaol,Caenorhabditis elegans,N2,25 ÂµM,,,25.9,S,15.78,,Unknown,,,No,29978428
+Enoxacin,Caenorhabditis elegans,N2,100 Âµg/mL,,,18.0,S,,,Unknown,,,No,29986212
+Thapsigargin,Caenorhabditis elegans,N2,10 nM,,,9.6,S,,,Unknown,,,No,29988547
+"2,5-Di-tert-butylhydroquinone",Caenorhabditis elegans,N2,350 ÂµM,,,14.2,S,,,Unknown,,,No,29988547
+"2,5-Di-tert-butylhydroquinone",Caenorhabditis elegans,N2,250 ÂµM,,,15.2,S,,,Unknown,,,No,29988547
+Damaurone D,Caenorhabditis elegans,N2,15 ÂµM,,,16.7,S,,,Unknown,,,No,29992572
+Damaurone D,Caenorhabditis elegans,N2,10 ÂµM,,,12.6,S,,,Unknown,,,No,29992572
+Damaurone D,Caenorhabditis elegans,N2,5 ÂµM,,,7.49,S,,,Unknown,,,No,29992572
+Polygonum multiflorum extract,Caenorhabditis elegans,N2,1000 Âµg/mL,,,18.6,S,,,Unknown,,,No,30036983
+Polygonum multiflorum extract,Caenorhabditis elegans,N2,100 Âµg/mL,,,4.8,NS,,,Unknown,,,No,30036983
+Polygonum multiflorum extract,Caenorhabditis elegans,N2,10 Âµg/mL,,,1.5,NS,,,Unknown,,,No,30036983
+"3,7-dimethylxanthine",Caenorhabditis elegans,N2,50 Âµg/mL,,,-0.84,NS,,,Unknown,,,No,30061824
+"1,7-dimethylxanthine",Caenorhabditis elegans,N2,50 Âµg/mL,,,14.75,S,,,Unknown,,,No,30061824
+"1,3-dimemethyl Xan",Caenorhabditis elegans,N2,50 Âµg/mL,,,5.54,S,,,Unknown,,,No,30061824
+7-methylxanthine,Caenorhabditis elegans,N2,50 Âµg/mL,,,8.41,S,,,Unknown,,,No,30061824
+3-methylxanthine,Caenorhabditis elegans,N2,50 Âµg/mL,,,0.93,NS,,,Unknown,,,No,30061824
+1-methylxanthine,Caenorhabditis elegans,N2,50 Âµg/mL,,,5.05,S,,,Unknown,,,No,30061824
+Xanthine,Caenorhabditis elegans,N2,50 Âµg/mL,,,0.82,NS,,,Unknown,,,No,30061824
+Caffeine,Caenorhabditis elegans,N2,50 Âµg/mL,,,15.39,S,,,Unknown,,,No,30061824
+Sesamol,Caenorhabditis elegans,N2,100 Î¼g/ml,,,9.01,NS,,,Unknown,,,No,30118882
+Sesamolin,Caenorhabditis elegans,N2,100 Î¼g/ml,,,2.92,NS,,,Unknown,,,No,30118882
+Sesamin,Caenorhabditis elegans,N2,100 Î¼g/ml,,,16.93,S,,,Unknown,,,No,30118882
+5-octanoyl salicylic acid,Caenorhabditis elegans,N2,100 ÂµM,,,18.3,S,11.53,,Unknown,,,No,30192051
+Blueberry extract,Caenorhabditis elegans,N2,200 mg/mL,,,44.42,S,24.0,,Unknown,,,No,30238944
+Blueberry extract,Caenorhabditis elegans,N2,100 mg/mL,,,36.52,S,20.0,,Unknown,,,No,30238944
+Blueberry extract,Caenorhabditis elegans,N2,50 mg/mL,,,22.23,S,16.0,,Unknown,,,No,30238944
+Lonicera japonica extract,Caenorhabditis elegans,N2,1000 Âµg/mL,,,17.07,S,,,Unknown,,,No,30266681
+Lonicera japonica extract,Caenorhabditis elegans,N2,500 Âµg/mL,,,21.87,S,,,Unknown,,,No,30266681
+Lonicera japonica extract,Caenorhabditis elegans,N2,200 Âµg/mL,,,15.17,NS,,,Unknown,,,No,30266681
+Lonicera japonica extract,Caenorhabditis elegans,N2,100 Âµg/mL,,,12.13,NS,,,Unknown,,,No,30266681
+Lonicera japonica extract,Caenorhabditis elegans,N2,50 Âµg/mL,,,4.04,NS,,,Unknown,,,No,30266681
+Rifampicin,Caenorhabditis elegans,N2,50 ÂµM,,,32.1,S,24.95,,Unknown,,,No,30269951
+Allantoin,Caenorhabditis elegans,N2,250 ÂµM,,,21.6,S,19.7,,Unknown,,,No,30269951
+Metformin,Caenorhabditis elegans,N2,50 mM,,,21.65,S,21.13,,Unknown,,,No,30269951
+Rapamycin,Caenorhabditis elegans,N2,100 ÂµM,,,25.9,S,16.38,,Unknown,,,No,30269951
+Psora-4,Caenorhabditis elegans,N2,100 ÂµM,,,32.85,S,22.05,,Unknown,,,No,30269951
+Beta-santalol,Caenorhabditis elegans,N2,16 ÂµM,,,25.38,S,25.0,,Unknown,,,No,30319772
+Beta-santalol,Caenorhabditis elegans,N2,64 ÂµM,,,4.64,S,8.33,,Unknown,,,No,30319772
+Beta-santalol,Caenorhabditis elegans,N2,32ÂµM,,,3.78,NS,8.33,,Unknown,,,No,30319772
+Beta-santalol,Caenorhabditis elegans,N2,16 ÂµM,,,12.56,S,25.0,,Unknown,,,No,30319772
+Beta-santalol,Caenorhabditis elegans,N2,8 ÂµM,,,2.66,NS,8.33,,Unknown,,,No,30319772
+Beta-santalol,Caenorhabditis elegans,N2,4 ÂµM,,,-2.73,NS,0.0,,Unknown,,,No,30319772
+Alpha-santalol,Caenorhabditis elegans,N2,32 ÂµM,,,18.04,S,8.33,,Unknown,,,No,30319772
+Alpha-santalol,Caenorhabditis elegans,N2,64 ÂµM,,,0.94,NS,0.0,,Unknown,,,No,30319772
+Alpha-santalol,Caenorhabditis elegans,N2,32 ÂµM,,,10.31,S,8.33,,Unknown,,,No,30319772
+Alpha-santalol,Caenorhabditis elegans,N2,16 ÂµM,,,4.33,NS,0.0,,Unknown,,,No,30319772
+Alpha-santalol,Caenorhabditis elegans,N2,8 ÂµM,,,2.57,NS,-4.16,,Unknown,,,No,30319772
+Alpha-santalol,Caenorhabditis elegans,N2,4 ÂµM,,,0.63,NS,-4.16,,Unknown,,,No,30319772
+Sandalwood oil,Caenorhabditis elegans,N2,24 Âµ/mL,,,31.32,S,30.43,,Unknown,,,No,30319772
+Sandalwood oil,Caenorhabditis elegans,N2,48 Âµ/mL,,,4.22,NS,4.34,,Unknown,,,No,30319772
+Sandalwood oil,Caenorhabditis elegans,N2,24 Âµ/mL,,,26.36,S,34.78,,Unknown,,,No,30319772
+Sandalwood oil,Caenorhabditis elegans,N2,12 Âµ/mL,,,17.1,S,21.73,,Unknown,,,No,30319772
+Sandalwood oil,Caenorhabditis elegans,N2,6 Âµ/mL,,,8.59,S,8.69,,Unknown,,,No,30319772
+Sandalwood oil,Caenorhabditis elegans,N2,3 Âµ/mL,,,0.94,NS,4.34,,Unknown,,,No,30319772
+Resveratrol,Caenorhabditis elegans,N2,50 ÂµM,,,60.23,S,,,Unknown,,,No,30320257
+Selenocysteine,Caenorhabditis elegans,N2,5 mM,,,6.93,S,,,Unknown,,,No,30365103
+Selenocysteine,Caenorhabditis elegans,N2,5 mM,,,41.9,S,,,Unknown,,,No,30365103
+Argyreia boseana extract,Caenorhabditis elegans,N2,0.01 mg/mL,,,-5.4,S,,,Unknown,,,No,30448258
+Argyreia boseana extract,Caenorhabditis elegans,N2,0.1 mg/mL,,,-3.8,NS,,,Unknown,,,No,30448258
+Argyreia boseana extract,Caenorhabditis elegans,N2,1 mg/mL,,,4.25,S,,,Unknown,,,No,30448258
+Ganoderma lucidum extract,Caenorhabditis elegans,N2,7.5 mg/mL,,,35.83,S,11.76,,Unknown,,,No,30476533
+Minocycline,Caenorhabditis elegans,N2,200 ÂµM,,,30.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,100 ÂµM,,,48.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,50 ÂµM,,,33.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,200 ÂµM,,,14.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,100 ÂµM,,,30.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,200 ÂµM,,,10.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,100 ÂµM,,,51.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,50 ÂµM,,,43.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,200 ÂµM,,,12.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,100 ÂµM,,,33.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,50 ÂµM,,,6.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,200 ÂµM,,,43.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,100 ÂµM,,,36.0,S,,,Unknown,,,No,30479271
+Minocycline,Caenorhabditis elegans,N2,50 ÂµM,,,5.0,NS,,,Unknown,,,No,30479271
+Agrimonia procera extract,Caenorhabditis elegans,N2,200 Âµg/mL,,,7.5,S,,,Unknown,,,No,30558122
+Agrimonia procera extract,Caenorhabditis elegans,N2,100 Âµg/mL,,,12.7,S,,,Unknown,,,No,30558122
+Agrimonia procera extract,Caenorhabditis elegans,N2,50 Âµg/mL,,,8.1,S,,,Unknown,,,No,30558122
+Paxilline,Caenorhabditis elegans,N2,10 nM,,,26.62,S,,,Unknown,,,No,30613772
+Isoprenol,Caenorhabditis elegans,N2,1 mM,,,19.23,S,22.6,,Unknown,,,No,30624146
+Isoprenol,Caenorhabditis elegans,N2,0.5 mM,,,25.26,S,28.0,,Unknown,,,No,30624146
+Isoprenol,Caenorhabditis elegans,N2,0.1 mM,,,7.81,S,4.0,,Unknown,,,No,30624146
+Tanespimycin,Caenorhabditis elegans,N2,100 ÂµM,,,23.52,S,,,Unknown,,,No,30625143
+Tanespimycin,Caenorhabditis elegans,N2,100 ÂµM,,,23.52,S,,,Unknown,,,No,30625143
+CGP37157,Caenorhabditis elegans,N2,50 ÂµM,,,14.9,S,,,Unknown,,,No,30705628
+CGP37157,Caenorhabditis elegans,N2,100 ÂµM,,,10.9,S,,,Unknown,,,No,30705628
+CGP37157,Caenorhabditis elegans,N2,50 ÂµM,,,14.9,S,,,Unknown,,,No,30705628
+Carnosic acid,Caenorhabditis elegans,N2,180 ÂµM,,,16.0,S,21.65,,Unknown,,,No,30758000
+"4,4â²-dimethoxychalcone",Caenorhabditis elegans,N2,41.6 ÂµM,,,18.55,S,,,Unknown,,,No,30783116
+Glycine,Caenorhabditis elegans,N2,5 ÂµM,,,7.85,S,,,Unknown,,,No,30845140
+Serine,Caenorhabditis elegans,N2,5 mM,,,24.26,S,,,Unknown,,,No,30845140
+Chicoric acid,Caenorhabditis elegans,N2,50 ÂµM,,,15.78,S,,,Unknown,,,No,30845140
+Chicoric acid,Caenorhabditis elegans,N2,25 ÂµM,,,21.05,S,,,Unknown,,,No,30845140
+Glycine,Caenorhabditis elegans,N2,500 ÂµM,,,19.54,S,,,Unknown,,,No,30845140
+Glycine,Caenorhabditis elegans,N2,50 ÂµM,,,17.6,S,,,Unknown,,,No,30845140
+KT135,Caenorhabditis elegans,N2,50 ÂµM,,,10.0,NS,,,Unknown,,,No,30911178
+ABC52,Caenorhabditis elegans,N2,50 ÂµM,,,14.0,S,,,Unknown,,,No,30911178
+KLH46,Caenorhabditis elegans,N2,50 ÂµM,,,-43.0,S,,,Unknown,,,No,30911178
+AA39-3,Caenorhabditis elegans,N2,50 ÂµM,,,-37.0,S,,,Unknown,,,No,30911178
+KT117,Caenorhabditis elegans,N2,50 ÂµM,,,-31.0,S,,,Unknown,,,No,30911178
+KT109,Caenorhabditis elegans,N2,50 ÂµM,,,-24.0,S,,,Unknown,,,No,30911178
+JJH248,Caenorhabditis elegans,N2,50 ÂµM,,,-21.0,S,,,Unknown,,,No,30911178
+Darapladib,Caenorhabditis elegans,N2,50 ÂµM,,,-20.0,S,,,Unknown,,,No,30911178
+KT186,Caenorhabditis elegans,N2,50 ÂµM,,,-16.0,S,,,Unknown,,,No,30911178
+JJH254,Caenorhabditis elegans,N2,25 ÂµM,,,-16.0,NS,,,Unknown,,,No,30911178
+ABL127,Caenorhabditis elegans,N2,50 ÂµM,,,-13.0,S,,,Unknown,,,No,30911178
+AA26-9,Caenorhabditis elegans,N2,50 ÂµM,,,-12.0,S,,,Unknown,,,No,30911178
+PF-04457845,Caenorhabditis elegans,N2,50 ÂµM,,,-11.0,NS,,,Unknown,,,No,30911178
+ABC84,Caenorhabditis elegans,N2,50 ÂµM,,,-10.0,S,,,Unknown,,,No,30911178
+AA74-1,Caenorhabditis elegans,N2,50 ÂµM,,,-8.0,NS,,,Unknown,,,No,30911178
+JJH250,Caenorhabditis elegans,N2,25 ÂµM,,,-8.0,NS,,,Unknown,,,No,30911178
+KC03,Caenorhabditis elegans,N2,25 ÂµM,,,-7.0,NS,,,Unknown,,,No,30911178
+JJH331,Caenorhabditis elegans,N2,50 ÂµM,,,-6.0,NS,,,Unknown,,,No,30911178
+JW480,Caenorhabditis elegans,N2,50 ÂµM,,,-4.0,NS,,,Unknown,,,No,30911178
+JJH322,Caenorhabditis elegans,N2,50 ÂµM,,,1.0,NS,,,Unknown,,,No,30911178
+KLH45b,Caenorhabditis elegans,N2,50 ÂµM,,,2.0,NS,,,Unknown,,,No,30911178
+KT203,Caenorhabditis elegans,N2,50 ÂµM,,,5.0,NS,,,Unknown,,,No,30911178
+KT167,Caenorhabditis elegans,N2,50 ÂµM,,,17.0,S,,,Unknown,,,No,30911178
+ABC23,Caenorhabditis elegans,N2,50 ÂµM,,,35.0,S,,,Unknown,,,No,30911178
+ABC99,Caenorhabditis elegans,N2,25 ÂµM,,,-46.0,S,,,Unknown,,,No,30911178
+DH376,Caenorhabditis elegans,N2,50 ÂµM,,,-50.0,S,,,Unknown,,,No,30911178
+KT116,Caenorhabditis elegans,N2,50 ÂµM,,,-34.0,S,,,Unknown,,,No,30911178
+AA26-8,Caenorhabditis elegans,N2,50 ÂµM,,,-36.0,S,,,Unknown,,,No,30911178
+AA39-2,Caenorhabditis elegans,N2,50 ÂµM,,,-33.0,S,,,Unknown,,,No,30911178
+ABC32,Caenorhabditis elegans,N2,50 ÂµM,,,-23.0,S,,,Unknown,,,No,30911178
+KT138,Caenorhabditis elegans,N2,50 ÂµM,,,-22.0,S,,,Unknown,,,No,30911178
+ABC90,Caenorhabditis elegans,N2,50 ÂµM,,,-22.0,S,,,Unknown,,,No,30911178
+ABC45,Caenorhabditis elegans,N2,50 ÂµM,,,-20.0,S,,,Unknown,,,No,30911178
+ABC16,Caenorhabditis elegans,N2,50 ÂµM,,,-17.0,NS,,,Unknown,,,No,30911178
+JJH221,Caenorhabditis elegans,N2,50 ÂµM,,,-18.0,S,,,Unknown,,,No,30911178
+AA26-3,Caenorhabditis elegans,N2,50 ÂµM,,,-15.0,S,,,Unknown,,,No,30911178
+JMN21,Caenorhabditis elegans,N2,50 ÂµM,,,-14.0,NS,,,Unknown,,,No,30911178
+AA26-7,Caenorhabditis elegans,N2,50 ÂµM,,,-13.0,NS,,,Unknown,,,No,30911178
+ABL303,Caenorhabditis elegans,N2,5 ÂµM,,,-12.0,S,,,Unknown,,,No,30911178
+JW1038,Caenorhabditis elegans,N2,50 ÂµM,,,-11.0,NS,,,Unknown,,,No,30911178
+KLH40-1,Caenorhabditis elegans,N2,50 ÂµM,,,-11.0,NS,,,Unknown,,,No,30911178
+Palmostatin B,Caenorhabditis elegans,N2,50 ÂµM,,,-10.0,NS,,,Unknown,,,No,30911178
+KT195,Caenorhabditis elegans,N2,50 ÂµM,,,-9.0,S,,,Unknown,,,No,30911178
+JW651,Caenorhabditis elegans,N2,50 ÂµM,,,-9.0,NS,,,Unknown,,,No,30911178
+KC07,Caenorhabditis elegans,N2,50 ÂµM,,,-8.0,NS,,,Unknown,,,No,30911178
+JJH253,Caenorhabditis elegans,N2,50 ÂµM,,,-7.0,NS,,,Unknown,,,No,30911178
+ABC37,Caenorhabditis elegans,N2,50 ÂµM,,,-7.0,NS,,,Unknown,,,No,30911178
+KC02,Caenorhabditis elegans,N2,50 ÂµM,,,-6.0,NS,,,Unknown,,,No,30911178
+JW1036,Caenorhabditis elegans,N2,50 ÂµM,,,-4.0,NS,,,Unknown,,,No,30911178
+KML29,Caenorhabditis elegans,N2,50 ÂµM,,,-5.0,NS,,,Unknown,,,No,30911178
+MJN202,Caenorhabditis elegans,N2,50 ÂµM,,,-3.0,NS,,,Unknown,,,No,30911178
+ABC91,Caenorhabditis elegans,N2,50 ÂµM,,,-3.0,NS,,,Unknown,,,No,30911178
+ABC36,Caenorhabditis elegans,N2,50 ÂµM,,,0.0,NS,,,Unknown,,,No,30911178
+Palmostatin M,Caenorhabditis elegans,N2,25 ÂµM,,,1.0,NS,,,Unknown,,,No,30911178
+MJN200,Caenorhabditis elegans,N2,50 ÂµM,,,1.0,NS,,,Unknown,,,No,30911178
+URB597,Caenorhabditis elegans,N2,50 ÂµM,,,2.0,NS,,,Unknown,,,No,30911178
+ABC44,Caenorhabditis elegans,N2,50 ÂµM,,,2.0,NS,,,Unknown,,,No,30911178
+BIA 10-2474,Caenorhabditis elegans,N2,50 ÂµM,,,3.0,NS,,,Unknown,,,No,30911178
+ABC101,Caenorhabditis elegans,N2,25 ÂµM,,,5.0,NS,,,Unknown,,,No,30911178
+ABC35,Caenorhabditis elegans,N2,50 ÂµM,,,6.0,NS,,,Unknown,,,No,30911178
+JW1039,Caenorhabditis elegans,N2,50 ÂµM,,,6.0,NS,,,Unknown,,,No,30911178
+KT170,Caenorhabditis elegans,N2,50 ÂµM,,,10.0,NS,,,Unknown,,,No,30911178
+ABC5,Caenorhabditis elegans,N2,25 ÂµM,,,11.0,NS,,,Unknown,,,No,30911178
+ABC92,Caenorhabditis elegans,N2,25 ÂµM,,,11.0,NS,,,Unknown,,,No,30911178
+KT172,Caenorhabditis elegans,N2,50 ÂµM,,,13.0,S,,,Unknown,,,No,30911178
+ABC53,Caenorhabditis elegans,N2,50 ÂµM,,,15.0,S,,,Unknown,,,No,30911178
+JT271-3,Caenorhabditis elegans,N2,50 ÂµM,,,15.0,NS,,,Unknown,,,No,30911178
+KT120,Caenorhabditis elegans,N2,50 ÂµM,,,17.0,S,,,Unknown,,,No,30911178
+ABC30,Caenorhabditis elegans,N2,50 ÂµM,,,18.0,NS,,,Unknown,,,No,30911178
+KC01,Caenorhabditis elegans,N2,50 ÂµM,,,18.0,NS,,,Unknown,,,No,30911178
+ABC26,Caenorhabditis elegans,N2,50 ÂµM,,,22.0,S,,,Unknown,,,No,30911178
+BIA 10-2639,Caenorhabditis elegans,N2,50 ÂµM,,,22.0,S,,,Unknown,,,No,30911178
+KT140,Caenorhabditis elegans,N2,50 ÂµM,,,26.0,S,,,Unknown,,,No,30911178
+ABC63,Caenorhabditis elegans,N2,50 ÂµM,,,28.0,S,,,Unknown,,,No,30911178
+ABC28,Caenorhabditis elegans,N2,50 ÂµM,,,29.0,S,,,Unknown,,,No,30911178
+Rapamycin,Caenorhabditis elegans,N2,50 ÂµM,,,14.14,S,,,Unknown,,,No,30970250
+Valproic acid,Caenorhabditis elegans,N2,50 ÂµM,,,13.24,S,,,Unknown,,,No,30970250
+Felbinac,Caenorhabditis elegans,N2,50 ÂµM,,,10.49,S,,,Unknown,,,No,30970250
+Tanespimycin,Caenorhabditis elegans,N2,25 ÂµM,,,54.16,S,,,Unknown,,,No,30970250
+Monorden,Caenorhabditis elegans,N2,50 ÂµM,,,24.55,S,,,Unknown,,,No,30970250
+Metamizole,Caenorhabditis elegans,N2,10 ÂµM,,,18.3,S,23.2,,Unknown,,,No,31089188
+Anisomycin,Caenorhabditis elegans,N2,10 ÂµM,,,-4.7,NS,-3.2,,Unknown,,,No,31089188
+Alsterpaullone,Caenorhabditis elegans,N2,10 ÂµM,,,12.55,S,11.55,,Unknown,,,No,31089188
+Metamizole,Caenorhabditis elegans,N2,1 ÂµM,,,18.3,S,19.0,,Unknown,,,No,31089188
+Azacytidine,Caenorhabditis elegans,N2,1 ÂµM,,,25.8,S,19.4,,Unknown,,,No,31089188
+Anisomycin,Caenorhabditis elegans,N2,1 ÂµM,,,21.96,S,23.13,,Unknown,,,No,31089188
+Rosmarinic acid,Caenorhabditis elegans,N2,180 Î¼M,,,63.23,S,40.29,,Unknown,,,No,31206890
+Rosmarinic acid,Caenorhabditis elegans,N2,120 Î¼M,,,49.28,S,31.57,,Unknown,,,No,31206890
+Rosmarinic acid,Caenorhabditis elegans,N2,60 Î¼M,,,40.04,S,16.82,,Unknown,,,No,31206890
+Uracil,Caenorhabditis elegans,N2,0.5 mM,,,0.0,NS,,,Unknown,,,No,31232697
+Cytidine,Caenorhabditis elegans,N2,0.5 mM,,,9.83,S,,,Unknown,,,No,31232697
+Thymine,Caenorhabditis elegans,N2,10 mM,,,6.03,S,,,Unknown,,,No,31232697
+Thymidine,Caenorhabditis elegans,N2,0.5 mM,,,0.0,NS,,,Unknown,,,No,31232697
+Orotate,Caenorhabditis elegans,N2,0.5 mM,,,14.8,S,,,Unknown,,,No,31232697
+Thymine,Caenorhabditis elegans,N2,0.1 mM,,,0.0,NS,,,Unknown,,,No,31232697
+Thymine,Caenorhabditis elegans,N2,2 mM,,,18.3,S,,,Unknown,,,No,31232697
+Thymine,Caenorhabditis elegans,N2,0.5 mM,,,15.23,S,,,Unknown,,,No,31232697
+Carnosol,Caenorhabditis elegans,N2,180 Î¼M,,,19.02,S,25.81,,Unknown,,,No,31341531
+Phosphatidylcholine,Caenorhabditis elegans,N2,10 mg/L,,,17.76,S,,,Unknown,,,No,31379987
+Phosphatidylcholine,Caenorhabditis elegans,N2,100 mg/L,,,15.0,S,,,Unknown,,,No,31379987
+Caffeine,Caenorhabditis elegans,N2,1 mM,,,16.42,S,,,Unknown,,,No,31432005
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,100 ÂµM,,,12.85,S,,,Unknown,,,No,31432005
+Theobromine,Caenorhabditis elegans,N2,1 mM,,,-0.85,NS,,,Unknown,,,No,31432005
+Theophylline,Caenorhabditis elegans,N2,1 mM,,,16.78,S,,,Unknown,,,No,31432005
+Theophylline,Caenorhabditis elegans,N2,5 mM,,,25.59,S,,,Unknown,,,No,31432005
+Caffeine,Caenorhabditis elegans,N2,5 mM,,,31.9,S,,,Unknown,,,No,31432005
+Metformin,Caenorhabditis elegans,N2,100 mM,,,24.2,S,,,Unknown,,,No,31474368
+Metformin,Caenorhabditis elegans,N2,50 mM,,,36.9,S,,,Unknown,,,No,31474368
+Metformin,Caenorhabditis elegans,N2,25 mM,,,32.73,S,,,Unknown,,,No,31474368
+Metformin,Caenorhabditis elegans,N2,12.5 mM,,,26.52,S,,,Unknown,,,No,31474368
+Metformin,Caenorhabditis elegans,N2,6.25 mM,,,1.65,NS,,,Unknown,,,No,31474368
+Agmatine,Caenorhabditis elegans,N2,25 mM,,,5.32,NS,,,Unknown,,,No,31474368
+Nordihydroguaiaretic acid,Caenorhabditis elegans,N2,100 ÂµM,,,21.4,S,,,Unknown,,,No,31602311
+Hydralazine,Caenorhabditis elegans,N2,100 ÂµM,,,20.0,S,,,Unknown,,,No,31659167
+Betula utilis extract,Caenorhabditis elegans,N2,100â¯Î¼g/ml,,,25.72,S,,,Unknown,,,No,31669661
+Betula utilis extract,Caenorhabditis elegans,N2,10â¯Î¼g/ml,,,21.79,S,,,Unknown,,,No,31669661
+Betula utilis extract,Caenorhabditis elegans,N2,50â¯Î¼g/ml,,,35.99,S,,,Unknown,,,No,31669661
+Hypotaurine,Caenorhabditis elegans,N2,10 mM,,,18.27,S,,,Unknown,,,No,31799533
+Alpha-ketoglutarate,Caenorhabditis elegans,MY16,8 mM,,,56.25,S,,,Unknown,,,No,31820364
+Thioflavin T,Caenorhabditis elegans,N2,50 Î¼M,,,27.78,S,,,Unknown,,,No,31820364
+Thioflavin T,Caenorhabditis elegans,MY16,50 Î¼M,,,75.0,S,,,Unknown,,,No,31820364
+Resveratrol,Caenorhabditis elegans,N2,100 Î¼M,,,5.36,S,,,Unknown,,,No,31820364
+Resveratrol,Caenorhabditis elegans,N2,100 Î¼M,,,11.76,S,,,Unknown,,,No,31820364
+Resveratrol,Caenorhabditis elegans,MY16,100 Î¼M,,,20.0,S,,,Unknown,,,No,31820364
+Resveratrol,Caenorhabditis elegans,JU775,100 Î¼M,,,41.18,S,,,Unknown,,,No,31820364
+Propyl gallate,Caenorhabditis elegans,N2,200 Î¼M,,,4.17,S,,,Unknown,,,No,31820364
+Propyl gallate,Caenorhabditis elegans,JU775,200 Î¼M,,,35.29,S,,,Unknown,,,No,31820364
+Propyl gallate,Caenorhabditis elegans,MY16,200 Î¼M,,,12.14,S,,,Unknown,,,No,31820364
+Propyl gallate,Caenorhabditis elegans,N2,200 Î¼M,,,11.76,S,,,Unknown,,,No,31820364
+NP1,Caenorhabditis elegans,N2,50 Î¼M,,,23.53,S,,,Unknown,,,No,31820364
+NP1,Caenorhabditis elegans,MY16,50 Î¼M,,,12.14,S,,,Unknown,,,No,31820364
+NP1,Caenorhabditis elegans,JU775,50 Î¼M,,,34.4,S,,,Unknown,,,No,31820364
+NP1,Caenorhabditis elegans,JU775,50 Î¼M,,,23.53,S,,,Unknown,,,No,31820364
+O13,Caenorhabditis elegans,N2,60 Î¼M,,,32.5,S,,,Unknown,,,No,31879284
+Gr-4D,Caenorhabditis elegans,N2,60 Î¼M,,,50.5,S,,,Unknown,,,No,31879284
+Phosphatidylserine,Caenorhabditis elegans,N2,100 Î¼g/L,,,7.02,S,13.63,,Unknown,,,No,31915963
+Nobiletin,Caenorhabditis elegans,N2,12.5 ÂµM,,,21.0,S,17.64,,Unknown,,,No,31948007
+Nobiletin,Caenorhabditis elegans,N2,3.13 ÂµM,,,8.7,S,13.72,,Unknown,,,No,31948007
+Coix seed oil,Caenorhabditis elegans,N2,10 mg/mL,,,11.94,NS,,,Unknown,,,No,31960183
+Coix seed oil,Caenorhabditis elegans,N2,0.5 mg/mL,,,20.33,NS,,,Unknown,,,No,31960183
+Coix seed oil,Caenorhabditis elegans,N2,5 mg/mL,,,8.89,NS,,,Unknown,,,No,31960183
+Simvastatin,Caenorhabditis elegans,N2,50 ÂµM,,,13.2,S,,,Unknown,,,No,32010481
+Simvastatin,Caenorhabditis elegans,N2,100 ÂµM,,,12.9,S,,,Unknown,,,No,32010481
+Simvastatin,Caenorhabditis elegans,N2,25 ÂµM,,,2.5,NS,,,Unknown,,,No,32010481
+Lovastin,Caenorhabditis elegans,N2,100 ÂµM,,,24.54,S,,,Unknown,,,No,32010481
+Lovastin,Caenorhabditis elegans,N2,50 ÂµM,,,13.14,S,,,Unknown,,,No,32010481
+Lovastin,Caenorhabditis elegans,N2,25 ÂµM,,,12.96,S,,,Unknown,,,No,32010481
+Imatinib mesylate,Caenorhabditis elegans,N2,1000 ÂµM,,,-58.91,S,,,Unknown,,,No,32010883
+Uric acid,Caenorhabditis elegans,N2,100mM,,,-9.94,S,,,Unknown,,,No,32074508
+Uric acid,Caenorhabditis elegans,N2,2mM,,,13.9,S,,,Unknown,,,No,32074508
+Verapamil,Caenorhabditis elegans,N2,100 Î¼M,,,18.65,S,,,Unknown,,,No,32208362
+Raspberry extract,Caenorhabditis elegans,,80 mg/mL,,,29.7,S,,,Unknown,,,No,32285078
+Raspberry extract,Caenorhabditis elegans,,40 mg/mL,,,22.9,S,,,Unknown,,,No,32285078
+Raspberry extract,Caenorhabditis elegans,,20 mg/mL,,,13.6,S,,,Unknown,,,No,32285078
+Tectochrysin,Caenorhabditis elegans,N2,200âÂµM,,,21.0,S,,,Unknown,,,No,32506187
+Catechin,Caenorhabditis elegans,N2,50âÂµM,,,3.33,NS,,,Unknown,,,No,32530444
+Catechin,Caenorhabditis elegans,N2,200âÂµM,,,41.94,S,,,Unknown,,,No,32530444
+FW1256,Caenorhabditis elegans,N2,500 ÂµM,,,33.8,S,,,Unknown,,,No,32566245
+FW1256,Caenorhabditis elegans,N2,250 ÂµM,,,41.01,S,,,Unknown,,,No,32566245
+FW1256,Caenorhabditis elegans,N2,150 ÂµM,,,16.94,S,,,Unknown,,,No,32566245
+FW1256,Caenorhabditis elegans,N2,10 ÂµM,,,0.55,NS,,,Unknown,,,No,32566245
+FW1251,Caenorhabditis elegans,N2,250 ÂµM,,,8.94,S,,,Unknown,,,No,32566245
+FW1251,Caenorhabditis elegans,N2,50 ÂµM,,,11.17,S,,,Unknown,,,No,32566245
+Mifepristone,Caenorhabditis elegans,N2,400 Î¼g/mL,,,15.0,S,,,Unknown,,,No,32648907
+Mifepristone,Caenorhabditis elegans,N2,400 Î¼g/mL,,,-9.0,NS,,,Unknown,,,No,32648907
+"5â²-Hydroxy-6, 7, 8, 3â², 4â²-pentamethoxyflavone",Caenorhabditis elegans,N2,25âÂµM,,,17.18,S,,,Unknown,,,No,32677024
+"5â²-Hydroxy-6, 7, 8, 3â², 4â²-pentamethoxyflavone",Caenorhabditis elegans,N2,100âÂµM,,,8.91,S,,,Unknown,,,No,32677024
+"5â²-Hydroxy-6, 7, 8, 3â², 4â²-pentamethoxyflavone",Caenorhabditis elegans,N2,50âÂµM,,,29.48,S,,,Unknown,,,No,32677024
+"5â²-Hydroxy-6, 7, 8, 3â², 4â²-pentamethoxyflavone",Caenorhabditis elegans,N2,12.5âÂµM,,,16.05,S,,,Unknown,,,No,32677024
+"5â²-Hydroxy-6, 7, 8, 3â², 4â²-pentamethoxyflavone",Caenorhabditis elegans,N2,6.25âÂµM,,,13.84,S,,,Unknown,,,No,32677024
+Prenol,Caenorhabditis elegans,N2,0.25 mM,,,22.96,S,17.46,,Unknown,,,No,32725551
+Prenol,Caenorhabditis elegans,N2,0.1 mM,,,18.22,S,11.2,,Unknown,,,No,32725551
+Prenol,Caenorhabditis elegans,N2,0.5 mM,,,2.87,NS,9.11,,Unknown,,,No,32725551
+Secoisolariciresinol Diglucoside,Caenorhabditis elegans,N2,200âÂµM,,,16.36,S,,,Unknown,,,No,32733632
+Secoisolariciresinol Diglucoside,Caenorhabditis elegans,N2,500âÂµM,,,22.0,S,,,Unknown,,,No,32733632
+Secoisolariciresinol Diglucoside,Caenorhabditis elegans,N2,50âÂµM,,,13.3,S,,,Unknown,,,No,32733632
+Astragaloside IV,Caenorhabditis elegans,N2,2.5âÂµM,,,13.89,S,13.62,,Unknown,,,No,32741299
+Astragaloside IV,Caenorhabditis elegans,N2,10âÂµM,,,0.69,NS,3.89,,Unknown,,,No,32741299
+Astragaloside IV,Caenorhabditis elegans,N2,5âÂµM,,,27.78,S,16.73,,Unknown,,,No,32741299
+Naringin,Caenorhabditis elegans,N2,50âÂµM,,,23.0,S,,,Unknown,,,No,32832002
+Arecoline,Caenorhabditis elegans,N2,0.1 mM,,,10.4,S,,,Unknown,,,No,32854519
+Arecoline,Caenorhabditis elegans,N2,0.2 mM,,,12.85,S,,,Unknown,,,No,32854519
+Arecoline,Caenorhabditis elegans,N2,0.2 mM,,,5.7,NS,,,Unknown,,,No,32854519
+Arecoline,Caenorhabditis elegans,N2,0.2 mM,,,16.35,S,,,Unknown,,,No,32854519
+Arecoline,Caenorhabditis elegans,N2,0.2 mM,,,-15.95,NS,,,Unknown,,,No,32854519
+Arecoline,Caenorhabditis elegans,N2,0.2 mM,,,-63.5,S,,,Unknown,,,No,32854519
+Inositol,Caenorhabditis elegans,N2,1 mM,,,-4.0,NS,-1.0,,Unknown,,,No,32901024
+Inositol,Caenorhabditis elegans,N2,30 mM,,,4.0,NS,,,Unknown,,,No,32901024
+Inositol,Caenorhabditis elegans,N2,100 mM,,,11.0,S,10.0,,Unknown,,,No,32901024
+Inositol,Caenorhabditis elegans,N2,400 mM,,,25.0,S,31.0,,Unknown,,,No,32901024
+Inositol,Caenorhabditis elegans,N2,500 mM,,,31.0,S,36.0,,Unknown,,,No,32901024
+Inositol,Caenorhabditis elegans,N2,600 mM,,,26.0,S,20.0,,Unknown,,,No,32901024
+IP6,Caenorhabditis elegans,N2,10 mM,,,10.0,S,12.0,,Unknown,,,No,32901024
+IP6,Caenorhabditis elegans,N2,50 mM,,,11.0,S,13.0,,Unknown,,,No,32901024
+IP6,Caenorhabditis elegans,N2,3 mM,,,3.0,S,2.0,,Unknown,,,No,32901024
+Berberine,Caenorhabditis elegans,N2,100âÂµM,,,19.32,S,,,Unknown,,,No,32941928
+Berberine,Caenorhabditis elegans,N2,20âÂµM,,,3.1,NS,,,Unknown,,,No,32941928
+Berberine,Caenorhabditis elegans,N2,4âÂµM,,,17.36,S,,,Unknown,,,No,32941928
+Sappanone A,Caenorhabditis elegans,N2,50âÂµM,,,20.13,S,,,Unknown,,,No,32941928
+Sappanone A,Caenorhabditis elegans,N2,10âÂµM,,,7.66,NS,,,Unknown,,,No,32941928
+Sappanone A,Caenorhabditis elegans,N2,2âÂµM,,,11.54,S,,,Unknown,,,No,32941928
+Tetracycline HCL,Caenorhabditis elegans,N2,100âÂµM,,,13.7,S,,,Unknown,,,No,33008901
+Cannabidiol,Caenorhabditis elegans,N2,10âÂµM,,,1.25,NS,,,Unknown,,,No,33008901
+Cannabidiol,Caenorhabditis elegans,N2,100âÂµM,,,0.69,NS,,,Unknown,,,No,33008901
+Berberine,Caenorhabditis elegans,N2,10âÂµM,,,-4.42,S,,,Unknown,,,No,33008901
+Berberine,Caenorhabditis elegans,N2,100âÂµM,,,-13.56,S,,,Unknown,,,No,33008901
+Cardamonin,Caenorhabditis elegans,N2,100âÂµM,,,-10.9,S,,,Unknown,,,No,33008901
+Ethoxzolamide,Caenorhabditis elegans,N2,10âÂµM,,,-3.09,NS,,,Unknown,,,No,33008901
+Ethoxzolamide,Caenorhabditis elegans,N2,100âÂµM,,,-2.16,NS,,,Unknown,,,No,33008901
+D-xylitol,Caenorhabditis elegans,N2,100âÂµM,,,2.07,NS,,,Unknown,,,No,33008901
+D-xylitol,Caenorhabditis elegans,N2,10âÂµM,,,-4.59,NS,,,Unknown,,,No,33008901
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,10âÂµM,,,1.42,NS,,,Unknown,,,No,33008901
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,100âÂµM,,,-1.7,NS,,,Unknown,,,No,33008901
+SR27897,Caenorhabditis elegans,N2,10âÂµM,,,0.43,NS,,,Unknown,,,No,33008901
+SR27897,Caenorhabditis elegans,N2,100âÂµM,,,-9.03,S,,,Unknown,,,No,33008901
+Wortmannin,Caenorhabditis elegans,N2,10âÂµM,,,-3.6,NS,,,Unknown,,,No,33008901
+Wortmannin,Caenorhabditis elegans,N2,100âÂµM,,,12.78,S,,,Unknown,,,No,33008901
+MG624,Caenorhabditis elegans,N2,10âÂµM,,,-5.67,S,,,Unknown,,,No,33008901
+NSC666076,Caenorhabditis elegans,N2,10âÂµM,,,-2.76,NS,,,Unknown,,,No,33008901
+NSC666076,Caenorhabditis elegans,N2,100âÂµM,,,2.19,NS,,,Unknown,,,No,33008901
+Nordihydroguaiaretic acid,Caenorhabditis elegans,N2,10âÂµM,,,-21.33,S,,,Unknown,,,No,33008901
+Nordihydroguaiaretic acid,Caenorhabditis elegans,N2,100âÂµM,,,-16.08,S,,,Unknown,,,No,33008901
+Thiostrepton,Caenorhabditis elegans,N2,100âÂµM,,,3.75,NS,,,Unknown,,,No,33008901
+"Mebhydroline 1,5-napthalenedisulfonate",Caenorhabditis elegans,N2,100âÂµM,,,1.65,NS,,,Unknown,,,No,33008901
+Flunarizine hydrochloride II,Caenorhabditis elegans,N2,100âÂµM,,,4.13,NS,,,Unknown,,,No,33008901
+Vortioxetine,Caenorhabditis elegans,N2,10âÂµM,,,-8.5,NS,,,Unknown,,,No,33008901
+Methylbenzethonium Cl,Caenorhabditis elegans,N2,10âÂµM,,,-5.76,NS,,,Unknown,,,No,33008901
+Formonoetin,Caenorhabditis elegans,N2,10âÂµM,,,0.74,NS,,,Unknown,,,No,33008901
+3-Methoxycatechol II,Caenorhabditis elegans,N2,10âÂµM,,,8.2,S,,,Unknown,,,No,33008901
+Sulindac Sulfide,Caenorhabditis elegans,N2,100âÂµM,,,3.0,NS,,,Unknown,,,No,33008901
+Ritodrine hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,-3.83,NS,,,Unknown,,,No,33008901
+Ononetin,Caenorhabditis elegans,N2,100âÂµM,,,-22.11,S,,,Unknown,,,No,33008901
+Mycophenolic acid,Caenorhabditis elegans,N2,100âÂµM,,,0.82,NS,,,Unknown,,,No,33008901
+Levosulpiride,Caenorhabditis elegans,N2,100âÂµM,,,4.71,NS,,,Unknown,,,No,33008901
+Geldanamycin,Caenorhabditis elegans,N2,100âÂµM,,,0.84,NS,,,Unknown,,,No,33008901
+Fluvoxamine,Caenorhabditis elegans,N2,100âÂµM,,,-5.47,S,,,Unknown,,,No,33008901
+Doxazosin mesylate,Caenorhabditis elegans,N2,100âÂµM,,,2.96,NS,,,Unknown,,,No,33008901
+Bupivacaine Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,7.43,S,,,Unknown,,,No,33008901
+3-Morpholinosydnonimine hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,-2.55,NS,,,Unknown,,,No,33008901
+Tetraethylammonium chloride,Caenorhabditis elegans,N2,10âÂµM,,,0.68,NS,,,Unknown,,,No,33008901
+Rizatriptan Benzoate,Caenorhabditis elegans,N2,10âÂµM,,,-1.6,NS,,,Unknown,,,No,33008901
+Oxcarbazepine,Caenorhabditis elegans,N2,10âÂµM,,,-2.29,NS,,,Unknown,,,No,33008901
+Nafadotride,Caenorhabditis elegans,N2,10âÂµM,,,2.36,NS,,,Unknown,,,No,33008901
+Bupivacaine Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.62,NS,,,Unknown,,,No,33008901
+3-Morpholinosydnonimine hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.9,NS,,,Unknown,,,No,33008901
+Triflupromazine hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,-38.53,S,,,Unknown,,,No,33008901
+Tetracycline HCL,Caenorhabditis elegans,N2,100âÂµM,,,9.18,S,,,Unknown,,,No,33008901
+Nocodazole,Caenorhabditis elegans,N2,100âÂµM,,,-10.66,S,,,Unknown,,,No,33008901
+Hydroxyprogesterone caproate,Caenorhabditis elegans,N2,100âÂµM,,,-0.4,NS,,,Unknown,,,No,33008901
+Diphyenyleneiodonium chloride,Caenorhabditis elegans,N2,100âÂµM,,,-50.11,NS,,,Unknown,,,No,33008901
+Flunarizine hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,6.56,NS,,,Unknown,,,No,33008901
+Dihydrorotenon,Caenorhabditis elegans,N2,100âÂµM,,,13.02,S,,,Unknown,,,No,33008901
+Carvedilol,Caenorhabditis elegans,N2,100âÂµM,,,1.03,NS,,,Unknown,,,No,33008901
+Antalarmin,Caenorhabditis elegans,N2,100âÂµM,,,3.79,NS,,,Unknown,,,No,33008901
+4'-Demethylpipodophyllotoxin,Caenorhabditis elegans,N2,100âÂµM,,,13.24,S,,,Unknown,,,No,33008901
+3230-2939,Caenorhabditis elegans,N2,100âÂµM,,,-16.41,S,,,Unknown,,,No,33008901
+Tetracycline HCL,Caenorhabditis elegans,N2,10âÂµM,,,10.45,S,,,Unknown,,,No,33008901
+Hydroxyprogesterone caproate,Caenorhabditis elegans,N2,10âÂµM,,,-2.18,NS,,,Unknown,,,No,33008901
+Chlorhexidine,Caenorhabditis elegans,N2,10âÂµM,,,-0.73,NS,,,Unknown,,,No,33008901
+Alln,Caenorhabditis elegans,N2,10âÂµM,,,-0.13,NS,,,Unknown,,,No,33008901
+Supercinnamaldehyde,Caenorhabditis elegans,N2,100âÂµM,,,-4.07,NS,,,Unknown,,,No,33008901
+Palmatine,Caenorhabditis elegans,N2,100âÂµM,,,-9.4,S,,,Unknown,,,No,33008901
+Gramicidin,Caenorhabditis elegans,N2,100âÂµM,,,-3.69,S,,,Unknown,,,No,33008901
+Curcumin,Caenorhabditis elegans,N2,100âÂµM,,,-4.89,S,,,Unknown,,,No,33008901
+Benzalkonium chloride,Caenorhabditis elegans,N2,100âÂµM,,,-25.92,S,,,Unknown,,,No,33008901
+Tryptophen,Caenorhabditis elegans,N2,10âÂµM,,,0.83,NS,,,Unknown,,,No,33008901
+Pinaverium bromide,Caenorhabditis elegans,N2,10âÂµM,,,-1.79,NS,,,Unknown,,,No,33008901
+Dequalinium chloride,Caenorhabditis elegans,N2,10âÂµM,,,-3.8,NS,,,Unknown,,,No,33008901
+Butaclamol hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,-0.41,NS,,,Unknown,,,No,33008901
+SKF83959 hydrobromide,Caenorhabditis elegans,N2,100âÂµM,,,-0.23,NS,,,Unknown,,,No,33008901
+Geri-BP002A,Caenorhabditis elegans,N2,100âÂµM,,,6.4,S,,,Unknown,,,No,33008901
+Alln II,Caenorhabditis elegans,N2,100âÂµM,,,-0.87,S,,,Unknown,,,No,33008901
+Sodium Nitroprusside,Caenorhabditis elegans,N2,10âÂµM,,,-3.03,NS,,,Unknown,,,No,33008901
+SKF83959 hydrobromide,Caenorhabditis elegans,N2,10âÂµM,,,-6.19,NS,,,Unknown,,,No,33008901
+I-BET,Caenorhabditis elegans,N2,10âÂµM,,,4.92,NS,,,Unknown,,,No,33008901
+Geri-BP002A,Caenorhabditis elegans,N2,10âÂµM,,,8.15,S,,,Unknown,,,No,33008901
+Carbidopa,Caenorhabditis elegans,N2,10âÂµM,,,-8.07,NS,,,Unknown,,,No,33008901
+Tiapride Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,-6.63,S,,,Unknown,,,No,33008901
+Phenoxybenzamine Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,4.0,NS,,,Unknown,,,No,33008901
+NSC 45923 (8-Methyoxypsoralen),Caenorhabditis elegans,N2,100âÂµM,,,-4.56,S,,,Unknown,,,No,33008901
+Lorglumide Sodium,Caenorhabditis elegans,N2,100âÂµM,,,-3.92,S,,,Unknown,,,No,33008901
+DTT,Caenorhabditis elegans,N2,100âÂµM,,,2.56,NS,,,Unknown,,,No,33008901
+Choline Chloride,Caenorhabditis elegans,N2,100âÂµM,,,-1.3,NS,,,Unknown,,,No,33008901
+Cefazolin sodium,Caenorhabditis elegans,N2,100âÂµM,,,-18.63,S,,,Unknown,,,No,33008901
+"3,4'-Dihydroxyflavone",Caenorhabditis elegans,N2,100âÂµM,,,0.2,NS,,,Unknown,,,No,33008901
+Tiapride Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,-4.75,NS,,,Unknown,,,No,33008901
+Tetramethylpyrazine,Caenorhabditis elegans,N2,10âÂµM,,,-3.82,S,,,Unknown,,,No,33008901
+Scopolamine N-butylbromide,Caenorhabditis elegans,N2,10âÂµM,,,-4.63,NS,,,Unknown,,,No,33008901
+Salsalate,Caenorhabditis elegans,N2,10âÂµM,,,-6.17,S,,,Unknown,,,No,33008901
+Perphenazine,Caenorhabditis elegans,N2,10âÂµM,,,-1.52,NS,,,Unknown,,,No,33008901
+Phenoxybenzamine Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,-4.85,NS,,,Unknown,,,No,33008901
+NSC 11926 (Aristolochic acid I),Caenorhabditis elegans,N2,10âÂµM,,,-43.86,S,,,Unknown,,,No,33008901
+NSC 45923 (8-Methyoxypsoralen),Caenorhabditis elegans,N2,10âÂµM,,,-3.78,NS,,,Unknown,,,No,33008901
+Lorglumide Sodium,Caenorhabditis elegans,N2,10âÂµM,,,1.2,NS,,,Unknown,,,No,33008901
+Lomefloxacin Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.63,NS,,,Unknown,,,No,33008901
+Kanamycin A sulfate,Caenorhabditis elegans,N2,10âÂµM,,,5.1,S,,,Unknown,,,No,33008901
+JS-K,Caenorhabditis elegans,N2,10âÂµM,,,0.8,NS,,,Unknown,,,No,33008901
+Itraconazole,Caenorhabditis elegans,N2,10âÂµM,,,-3.08,NS,,,Unknown,,,No,33008901
+Eserine hemisulfate salt,Caenorhabditis elegans,N2,10âÂµM,,,3.4,NS,,,Unknown,,,No,33008901
+Eserine,Caenorhabditis elegans,N2,10âÂµM,,,-2.57,NS,,,Unknown,,,No,33008901
+DTT,Caenorhabditis elegans,N2,10âÂµM,,,2.39,NS,,,Unknown,,,No,33008901
+Cinoxacin,Caenorhabditis elegans,N2,10âÂµM,,,-11.99,S,,,Unknown,,,No,33008901
+Choline Chloride,Caenorhabditis elegans,N2,10âÂµM,,,-1.74,NS,,,Unknown,,,No,33008901
+Amikacin hydrate,Caenorhabditis elegans,N2,10âÂµM,,,-1.28,NS,,,Unknown,,,No,33008901
+Vincristine sulfate,Caenorhabditis elegans,N2,100âÂµM,,,-3.18,NS,,,Unknown,,,No,33008901
+Pirenperone,Caenorhabditis elegans,N2,100âÂµM,,,2.24,NS,,,Unknown,,,No,33008901
+Triflupromazine hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,-22.64,S,,,Unknown,,,No,33008901
+NSC170984 (Pimozide),Caenorhabditis elegans,N2,10âÂµM,,,-4.34,S,,,Unknown,,,No,33008901
+Diphyenyleneiodonium chloride,Caenorhabditis elegans,N2,10âÂµM,,,-53.34,S,,,Unknown,,,No,33008901
+3230-2939,Caenorhabditis elegans,N2,10âÂµM,,,-4.62,S,,,Unknown,,,No,33008901
+Podofilox,Caenorhabditis elegans,N2,100âÂµM,,,-5.45,S,,,Unknown,,,No,33008901
+Cannabidiol,Caenorhabditis elegans,N2,100âÂµM,,,6.4,S,,,Unknown,,,No,33008901
+3-methoxycatechol,Caenorhabditis elegans,N2,100âÂµM,,,1.3,NS,,,Unknown,,,No,33008901
+Rotenone,Caenorhabditis elegans,N2,10âÂµM,,,-0.68,NS,,,Unknown,,,No,33008901
+Nisoldipine,Caenorhabditis elegans,N2,10âÂµM,,,-1.99,NS,,,Unknown,,,No,33008901
+Gedunin,Caenorhabditis elegans,N2,10âÂµM,,,2.24,NS,,,Unknown,,,No,33008901
+Clofilium Tosylate,Caenorhabditis elegans,N2,10âÂµM,,,0.14,NS,,,Unknown,,,No,33008901
+Astemizole,Caenorhabditis elegans,N2,10âÂµM,,,-6.0,S,,,Unknown,,,No,33008901
+4112-3315,Caenorhabditis elegans,N2,10âÂµM,,,1.73,NS,,,Unknown,,,No,33008901
+Vortioxetine,Caenorhabditis elegans,N2,100âÂµM,,,-2.26,NS,,,Unknown,,,No,33008901
+Sodium Nitroprusside,Caenorhabditis elegans,N2,100âÂµM,,,-10.95,S,,,Unknown,,,No,33008901
+Methylbenzethonium Cl,Caenorhabditis elegans,N2,100âÂµM,,,-7.73,NS,,,Unknown,,,No,33008901
+Promazine Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,-1.03,NS,,,Unknown,,,No,33008901
+I-BET,Caenorhabditis elegans,N2,100âÂµM,,,-14.31,S,,,Unknown,,,No,33008901
+Furosemide,Caenorhabditis elegans,N2,100âÂµM,,,-7.35,S,,,Unknown,,,No,33008901
+Formonoetin,Caenorhabditis elegans,N2,100âÂµM,,,6.06,S,,,Unknown,,,No,33008901
+Carbidopa,Caenorhabditis elegans,N2,100âÂµM,,,-2.48,NS,,,Unknown,,,No,33008901
+AEG 3482,Caenorhabditis elegans,N2,100âÂµM,,,3.39,NS,,,Unknown,,,No,33008901
+3-Methoxycatechol II,Caenorhabditis elegans,N2,100âÂµM,,,0.53,NS,,,Unknown,,,No,33008901
+Thiostrepton,Caenorhabditis elegans,N2,10âÂµM,,,-7.42,S,,,Unknown,,,No,33008901
+Tetracaine HCl,Caenorhabditis elegans,N2,10âÂµM,,,4.81,NS,,,Unknown,,,No,33008901
+Promazine Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,2.56,NS,,,Unknown,,,No,33008901
+"Mebhydroline 1,5-napthalenedisulfonate",Caenorhabditis elegans,N2,10âÂµM,,,3.01,NS,,,Unknown,,,No,33008901
+IMS2186,Caenorhabditis elegans,N2,10âÂµM,,,-5.2,S,,,Unknown,,,No,33008901
+Furosemide,Caenorhabditis elegans,N2,10âÂµM,,,-6.88,S,,,Unknown,,,No,33008901
+Ethotoin,Caenorhabditis elegans,N2,10âÂµM,,,-0.87,NS,,,Unknown,,,No,33008901
+Flunarizine hydrochloride II,Caenorhabditis elegans,N2,10âÂµM,,,8.38,S,,,Unknown,,,No,33008901
+Alln II,Caenorhabditis elegans,N2,10âÂµM,,,0.84,NS,,,Unknown,,,No,33008901
+AEG 3482,Caenorhabditis elegans,N2,10âÂµM,,,1.88,NS,,,Unknown,,,No,33008901
+Viramune,Caenorhabditis elegans,N2,100âÂµM,,,-5.46,S,,,Unknown,,,No,33008901
+Tetramethylpyrazine,Caenorhabditis elegans,N2,100âÂµM,,,5.65,NS,,,Unknown,,,No,33008901
+Tetraethylammonium chloride,Caenorhabditis elegans,N2,100âÂµM,,,6.58,NS,,,Unknown,,,No,33008901
+Salsalate,Caenorhabditis elegans,N2,100âÂµM,,,-4.62,S,,,Unknown,,,No,33008901
+Rizatriptan Benzoate,Caenorhabditis elegans,N2,100âÂµM,,,-11.71,S,,,Unknown,,,No,33008901
+Propantheline Bromide,Caenorhabditis elegans,N2,100âÂµM,,,-9.53,S,,,Unknown,,,No,33008901
+Perphenazine,Caenorhabditis elegans,N2,100âÂµM,,,-16.16,S,,,Unknown,,,No,33008901
+Oxcarbazepine,Caenorhabditis elegans,N2,100âÂµM,,,-17.92,S,,,Unknown,,,No,33008901
+NSC 11926 (Aristolochic acid I),Caenorhabditis elegans,N2,100âÂµM,,,-47.65,S,,,Unknown,,,No,33008901
+Nafadotride,Caenorhabditis elegans,N2,100âÂµM,,,-6.23,NS,,,Unknown,,,No,33008901
+Memantine Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,9.2,NS,,,Unknown,,,No,33008901
+Lomefloxacin Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,1.44,NS,,,Unknown,,,No,33008901
+Limonin,Caenorhabditis elegans,N2,100âÂµM,,,-0.79,NS,,,Unknown,,,No,33008901
+Kanamycin A sulfate,Caenorhabditis elegans,N2,100âÂµM,,,-3.91,S,,,Unknown,,,No,33008901
+JS-K,Caenorhabditis elegans,N2,100âÂµM,,,-2.97,S,,,Unknown,,,No,33008901
+Itraconazole,Caenorhabditis elegans,N2,100âÂµM,,,1.75,NS,,,Unknown,,,No,33008901
+Eserine hemisulfate salt,Caenorhabditis elegans,N2,100âÂµM,,,1.02,NS,,,Unknown,,,No,33008901
+Eserine,Caenorhabditis elegans,N2,100âÂµM,,,4.2,NS,,,Unknown,,,No,33008901
+Dofetilide,Caenorhabditis elegans,N2,100âÂµM,,,4.73,S,,,Unknown,,,No,33008901
+Cryptotanshinone,Caenorhabditis elegans,N2,100âÂµM,,,-4.46,S,,,Unknown,,,No,33008901
+Cinoxacin,Caenorhabditis elegans,N2,100âÂµM,,,-4.95,NS,,,Unknown,,,No,33008901
+Auraptene,Caenorhabditis elegans,N2,100âÂµM,,,-0.17,NS,,,Unknown,,,No,33008901
+Amlexanox,Caenorhabditis elegans,N2,100âÂµM,,,5.39,NS,,,Unknown,,,No,33008901
+Amikacin hydrate,Caenorhabditis elegans,N2,100âÂµM,,,10.03,S,,,Unknown,,,No,33008901
+Zomepirac sodium,Caenorhabditis elegans,N2,10âÂµM,,,4.59,NS,,,Unknown,,,No,33008901
+ZD7114 hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.57,NS,,,Unknown,,,No,33008901
+Viramune,Caenorhabditis elegans,N2,10âÂµM,,,0.62,NS,,,Unknown,,,No,33008901
+Sulindac Sulfide,Caenorhabditis elegans,N2,10âÂµM,,,1.71,NS,,,Unknown,,,No,33008901
+Sulfacetamide,Caenorhabditis elegans,N2,10âÂµM,,,-5.09,NS,,,Unknown,,,No,33008901
+Ritodrine hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,-4.95,S,,,Unknown,,,No,33008901
+R(+)-SCH-23390 hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,-1.47,NS,,,Unknown,,,No,33008901
+Propantheline Bromide,Caenorhabditis elegans,N2,10âÂµM,,,-4.06,NS,,,Unknown,,,No,33008901
+Ononetin,Caenorhabditis elegans,N2,10âÂµM,,,2.69,NS,,,Unknown,,,No,33008901
+O6-benzylguanine,Caenorhabditis elegans,N2,10âÂµM,,,-1.35,NS,,,Unknown,,,No,33008901
+Milnacipran Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,-4.24,NS,,,Unknown,,,No,33008901
+Mycophenolic acid,Caenorhabditis elegans,N2,10âÂµM,,,0.24,NS,,,Unknown,,,No,33008901
+Memantine Hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.28,NS,,,Unknown,,,No,33008901
+Levosulpiride,Caenorhabditis elegans,N2,10âÂµM,,,-2.36,NS,,,Unknown,,,No,33008901
+Limonin,Caenorhabditis elegans,N2,10âÂµM,,,-3.41,NS,,,Unknown,,,No,33008901
+Lamotrigine,Caenorhabditis elegans,N2,10âÂµM,,,4.46,NS,,,Unknown,,,No,33008901
+Fluvoxamine,Caenorhabditis elegans,N2,10âÂµM,,,-9.64,S,,,Unknown,,,No,33008901
+Geldanamycin,Caenorhabditis elegans,N2,10âÂµM,,,3.51,S,,,Unknown,,,No,33008901
+Cryptotanshinone,Caenorhabditis elegans,N2,10âÂµM,,,-8.22,S,,,Unknown,,,No,33008901
+Doxazosin mesylate,Caenorhabditis elegans,N2,10âÂµM,,,6.96,S,,,Unknown,,,No,33008901
+Dofetilide,Caenorhabditis elegans,N2,10âÂµM,,,-0.72,NS,,,Unknown,,,No,33008901
+Cefazolin sodium,Caenorhabditis elegans,N2,10âÂµM,,,-4.27,S,,,Unknown,,,No,33008901
+Amlexanox,Caenorhabditis elegans,N2,10âÂµM,,,-2.21,NS,,,Unknown,,,No,33008901
+Auraptene,Caenorhabditis elegans,N2,10âÂµM,,,-2.52,NS,,,Unknown,,,No,33008901
+"3,4'-Dihydroxyflavone",Caenorhabditis elegans,N2,10âÂµM,,,0.33,NS,,,Unknown,,,No,33008901
+Ziprasidone hydrochloride monohydrate,Caenorhabditis elegans,N2,100âÂµM,,,-7.97,S,,,Unknown,,,No,33008901
+SKF95282 dimaleate,Caenorhabditis elegans,N2,100âÂµM,,,13.16,S,,,Unknown,,,No,33008901
+PNU-74654,Caenorhabditis elegans,N2,100âÂµM,,,2.46,NS,,,Unknown,,,No,33008901
+NSC170984 (Pimozide),Caenorhabditis elegans,N2,100âÂµM,,,17.73,S,,,Unknown,,,No,33008901
+Genistein,Caenorhabditis elegans,N2,100âÂµM,,,-0.72,NS,,,Unknown,,,No,33008901
+Gedunin,Caenorhabditis elegans,N2,100âÂµM,,,1.97,NS,,,Unknown,,,No,33008901
+Fluspirilene,Caenorhabditis elegans,N2,100âÂµM,,,4.3,NS,,,Unknown,,,No,33008901
+Chlorhexidine,Caenorhabditis elegans,N2,100âÂµM,,,-25.33,S,,,Unknown,,,No,33008901
+Cetylpyridinium chloride,Caenorhabditis elegans,N2,100âÂµM,,,10.22,S,,,Unknown,,,No,33008901
+Ceoxide beads,Caenorhabditis elegans,N2,100âÂµM,,,-0.76,S,,,Unknown,,,No,33008901
+Alln,Caenorhabditis elegans,N2,100âÂµM,,,0.97,NS,,,Unknown,,,No,33008901
+6526-0645,Caenorhabditis elegans,N2,100âÂµM,,,5.33,S,,,Unknown,,,No,33008901
+"5,7,4Trimethoxyfavone",Caenorhabditis elegans,N2,100âÂµM,,,-0.35,NS,,,Unknown,,,No,33008901
+Ziprasidone hydrochloride monohydrate,Caenorhabditis elegans,N2,10âÂµM,,,-20.7,S,,,Unknown,,,No,33008901
+Vincristine sulfate,Caenorhabditis elegans,N2,10âÂµM,,,-4.32,S,,,Unknown,,,No,33008901
+SKF95282 dimaleate,Caenorhabditis elegans,N2,10âÂµM,,,7.14,S,,,Unknown,,,No,33008901
+PNU-74654,Caenorhabditis elegans,N2,10âÂµM,,,-0.92,NS,,,Unknown,,,No,33008901
+Epimedium extract,Caenorhabditis elegans,N2,10âÂµM,,,-3.38,NS,,,Unknown,,,No,33008901
+Gedunin,Caenorhabditis elegans,N2,10âÂµM,,,6.82,S,,,Unknown,,,No,33008901
+Fluspirilene,Caenorhabditis elegans,N2,10âÂµM,,,-3.73,S,,,Unknown,,,No,33008901
+Flunarizine hydrochloride,Caenorhabditis elegans,N2,10âÂµM,,,0.63,NS,,,Unknown,,,No,33008901
+Cetylpyridinium chloride,Caenorhabditis elegans,N2,10âÂµM,,,7.0,S,,,Unknown,,,No,33008901
+Ceoxide beads,Caenorhabditis elegans,N2,10âÂµM,,,-1.42,NS,,,Unknown,,,No,33008901
+Carvedilol,Caenorhabditis elegans,N2,10âÂµM,,,0.54,NS,,,Unknown,,,No,33008901
+"5,7,4Trimethoxyfavone",Caenorhabditis elegans,N2,10âÂµM,,,0.21,NS,,,Unknown,,,No,33008901
+6526-0645,Caenorhabditis elegans,N2,10âÂµM,,,1.69,S,,,Unknown,,,No,33008901
+4'-Demethylpipodophyllotoxin,Caenorhabditis elegans,N2,10âÂµM,,,7.8,S,,,Unknown,,,No,33008901
+Rotenone,Caenorhabditis elegans,N2,100âÂµM,,,-23.57,S,,,Unknown,,,No,33008901
+Rotenone II,Caenorhabditis elegans,N2,100âÂµM,,,-20.03,S,,,Unknown,,,No,33008901
+Pterostilbene,Caenorhabditis elegans,N2,100âÂµM,,,-33.99,S,,,Unknown,,,No,33008901
+Phenelzine sulfate,Caenorhabditis elegans,N2,100âÂµM,,,-0.84,NS,,,Unknown,,,No,33008901
+Nisoldipine,Caenorhabditis elegans,N2,100âÂµM,,,-10.2,S,,,Unknown,,,No,33008901
+Nicolsamide,Caenorhabditis elegans,N2,100âÂµM,,,0.1,NS,,,Unknown,,,No,33008901
+Licochalcone A,Caenorhabditis elegans,N2,100âÂµM,,,-20.92,S,,,Unknown,,,No,33008901
+Gedunin,Caenorhabditis elegans,N2,100âÂµM,,,0.92,NS,,,Unknown,,,No,33008901
+Ethopropazine Hydrochloride,Caenorhabditis elegans,N2,100âÂµM,,,-3.6,S,,,Unknown,,,No,33008901
+Deguelin,Caenorhabditis elegans,N2,100âÂµM,,,-2.23,S,,,Unknown,,,No,33008901
+Clofilium Tosylate,Caenorhabditis elegans,N2,100âÂµM,,,-7.66,S,,,Unknown,,,No,33008901
+Antimycin A,Caenorhabditis elegans,N2,100âÂµM,,,-47.24,S,,,Unknown,,,No,33008901
+Astemizole,Caenorhabditis elegans,N2,100âÂµM,,,-10.21,S,,,Unknown,,,No,33008901
+4112-3315,Caenorhabditis elegans,N2,100âÂµM,,,3.25,NS,,,Unknown,,,No,33008901
+Supercinnamaldehyde,Caenorhabditis elegans,N2,10âÂµM,,,-10.22,NS,,,Unknown,,,No,33008901
+Rotenone II,Caenorhabditis elegans,N2,10âÂµM,,,-46.76,S,,,Unknown,,,No,33008901
+Podofilox,Caenorhabditis elegans,N2,10âÂµM,,,2.13,NS,,,Unknown,,,No,33008901
+Phenelzine sulfate,Caenorhabditis elegans,N2,10âÂµM,,,-3.17,NS,,,Unknown,,,No,33008901
+Palmatine,Caenorhabditis elegans,N2,10âÂµM,,,-1.15,NS,,,Unknown,,,No,33008901
+Licochalcone A,Caenorhabditis elegans,N2,10âÂµM,,,-0.18,NS,,,Unknown,,,No,33008901
+Gramicidin,Caenorhabditis elegans,N2,10âÂµM,,,-3.93,NS,,,Unknown,,,No,33008901
+Deguelin,Caenorhabditis elegans,N2,10âÂµM,,,-5.84,NS,,,Unknown,,,No,33008901
+Curcumin,Caenorhabditis elegans,N2,10âÂµM,,,-7.11,S,,,Unknown,,,No,33008901
+Cannabidiol,Caenorhabditis elegans,N2,10âÂµM,,,-2.67,S,,,Unknown,,,No,33008901
+Benzalkonium chloride,Caenorhabditis elegans,N2,10âÂµM,,,-9.09,S,,,Unknown,,,No,33008901
+Antimycin A,Caenorhabditis elegans,N2,10âÂµM,,,-63.91,S,,,Unknown,,,No,33008901
+3-methoxycatechol,Caenorhabditis elegans,N2,10âÂµM,,,-0.24,NS,,,Unknown,,,No,33008901
+16(17)-epoxy-21-acetoxy-5-pregnenolone,Caenorhabditis elegans,N2,10âÂµM,,,-17.54,S,,,Unknown,,,No,33008901
+Astaxanthin,Caenorhabditis elegans,N2,120âÂµM,,,13.36,S,,,Unknown,,,No,33115330
+Astaxanthin,Caenorhabditis elegans,N2,60âÂµM,,,9.71,S,,,Unknown,,,No,33115330
+Hispidol,Caenorhabditis elegans,N2,25âÂµM,,,25.29,S,,,Unknown,,,No,33179346
+Hispidol,Caenorhabditis elegans,N2,50âÂµM,,,31.32,S,,,Unknown,,,No,33179346
+Metolazone,Caenorhabditis elegans,N2,30 ÂµM,,,29.46,S,,,Unknown,,,No,33216250
+Metolazone,Caenorhabditis elegans,N2,3 ÂµM,,,20.81,S,,,Unknown,,,No,33216250
+Metolazone,Caenorhabditis elegans,N2,10 ÂµM,,,36.46,S,,,Unknown,,,No,33216250
+AZD2281,Caenorhabditis elegans,N2,0.1 ÂµM,,,28.94,S,,,Unknown,,,No,33216250
+L-Carnitine,Caenorhabditis elegans,N2,10 Î¼M,,,10.0,S,,,Unknown,,,No,33290254
+STX64,Caenorhabditis elegans,N2,1 Î¼g/ml,,,14.0,S,12.31,,Unknown,,,No,33397961
+Caffeic acid,Caenorhabditis elegans,N2,300 Î¼M,,,17.72,S,,,Unknown,,,No,33432954
+Caffeic acid,Caenorhabditis elegans,N2,700 Î¼M,,,11.3,S,,,Unknown,,,No,33432954
+Caffeic acid,Caenorhabditis elegans,N2,500 Î¼M,,,15.57,S,,,Unknown,,,No,33432954
+Caffeic acid,Caenorhabditis elegans,N2,100 Î¼M,,,8.25,NS,,,Unknown,,,No,33432954
+Sulforaphane,Caenorhabditis elegans,N2,400 Î¼M,,,15.46,S,,,Unknown,,,No,33471780
+Sulforaphane,Caenorhabditis elegans,N2,100 Î¼M,,,18.2,S,,,Unknown,,,No,33471780
+Sulforaphane,Caenorhabditis elegans,N2,200 Î¼M,,,13.31,S,,,Unknown,,,No,33471780
+Rebaudioside A,Caenorhabditis elegans,N2,0.0083 mM,,,17.65,S,15.58,,Unknown,,,No,33567712
+Propafenone hydrochloride,Caenorhabditis elegans,N2,20âÂµM,,,-14.5,S,,,Unknown,,,No,33723245
+ISRIB,Caenorhabditis elegans,N2,20âÂµM,,,-3.0,NS,,,Unknown,,,No,33723245
+Estradiol valerate,Caenorhabditis elegans,N2,20âÂµM,,,18.5,S,,,Unknown,,,No,33723245
+"2,5-Di-tert-butylhydroquinone",Caenorhabditis elegans,N2,250 ÂµM,,,18.8,S,,,Unknown,,,No,33766744
+Thapsigargin,Caenorhabditis elegans,N2,10 nM,,,7.5,S,,,Unknown,,,No,33766744
+Caffeic acid,Caenorhabditis elegans,N2,200 ÂµM,,,15.85,S,11.52,,Unknown,,,No,33802064
+6-Hydroxyflavone,Caenorhabditis elegans,N2,10 ÂµM,,,2.36,NS,,,Unknown,,,No,33809299
+"7,8-Dihydroxyflavone",Caenorhabditis elegans,N2,50 ÂµM,,,-2.16,NS,,,Unknown,,,No,33809299
+Scutellarein,Caenorhabditis elegans,N2,10 ÂµM,,,-5.42,NS,,,Unknown,,,No,33809299
+Scutellarein,Caenorhabditis elegans,N2,100 ÂµM,,,-6.79,NS,,,Unknown,,,No,33809299
+Chrysin,Caenorhabditis elegans,N2,25 ÂµM,,,1.77,NS,,,Unknown,,,No,33809299
+Baicalein,Caenorhabditis elegans,N2,25 ÂµM,,,18.49,S,,,Unknown,,,No,33809299
+6-Hydroxyflavone,Caenorhabditis elegans,N2,25 ÂµM,,,0.57,NS,,,Unknown,,,No,33809299
+"6,7-Dihydroxyflavone",Caenorhabditis elegans,N2,100 ÂµM,,,0.41,NS,,,Unknown,,,No,33809299
+"6,7-Dihydroxyflavone",Caenorhabditis elegans,N2,50 ÂµM,,,-1.29,NS,,,Unknown,,,No,33809299
+"7,8-Dihydroxyflavone",Caenorhabditis elegans,N2,100 ÂµM,,,-4.68,S,,,Unknown,,,No,33809299
+"7,8-Dihydroxyflavone",Caenorhabditis elegans,N2,25 ÂµM,,,-1.3,NS,,,Unknown,,,No,33809299
+"7,8-Dihydroxyflavone",Caenorhabditis elegans,N2,10 ÂµM,,,4.97,S,,,Unknown,,,No,33809299
+Scutellarein,Caenorhabditis elegans,N2,50 ÂµM,,,-7.13,S,,,Unknown,,,No,33809299
+Chrysin,Caenorhabditis elegans,N2,100 ÂµM,,,-1.91,NS,,,Unknown,,,No,33809299
+Chrysin,Caenorhabditis elegans,N2,50 ÂµM,,,3.0,NS,,,Unknown,,,No,33809299
+Chrysin,Caenorhabditis elegans,N2,10 ÂµM,,,8.46,S,,,Unknown,,,No,33809299
+Baicalein,Caenorhabditis elegans,N2,100 ÂµM,,,4.4,S,,,Unknown,,,No,33809299
+Baicalein,Caenorhabditis elegans,N2,50 ÂµM,,,2.72,NS,,,Unknown,,,No,33809299
+Baicalein,Caenorhabditis elegans,N2,10 ÂµM,,,16.54,S,,,Unknown,,,No,33809299
+Triiodothyronine,Caenorhabditis elegans,N2,50 ÂµM,,,14.29,S,,,Unknown,,,No,33851304
+Ferulic Acid,Caenorhabditis elegans,N2,900 Î¼M,,,4.46,S,,,Unknown,,,No,33924155
+Ferulic Acid,Caenorhabditis elegans,N2,700 Î¼M,,,6.06,S,,,Unknown,,,No,33924155
+Ferulic Acid,Caenorhabditis elegans,N2,300 Î¼M,,,-3.58,NS,,,Unknown,,,No,33924155
+Ferulic Acid,Caenorhabditis elegans,N2,100 Î¼M,,,4.75,S,,,Unknown,,,No,33924155
+Trilobatin,Caenorhabditis elegans,N2,125 Î¼M,,,22.1,S,,,Unknown,,,No,33935768
+Trilobatin,Caenorhabditis elegans,N2,62.5 Î¼M,,,11.7,S,,,Unknown,,,No,33935768
+Trilobatin,Caenorhabditis elegans,N2,250 Î¼M,,,7.7,S,,,Unknown,,,No,33935768
+Zearalenone,Caenorhabditis elegans,N2,1.25 Î¼M,,,-4.76,NS,,,Unknown,,,No,33940230
+Zearalenone,Caenorhabditis elegans,N2,50 Î¼M,,,-19.05,S,,,Unknown,,,No,33940230
+HF,Caenorhabditis elegans,N2,1 mg/L,,,12.7,S,20.0,,Unknown,,,No,33974957
+Phosphatidylethanolamine,Caenorhabditis elegans,N2,1 mg/L,,,12.7,S,20.0,,Unknown,,,No,33974957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,5 mM,,,-10.7,S,,,Unknown,,,No,34267196
+Diamide,Caenorhabditis elegans,N2,5 mM,,,-24.88,S,,,Unknown,,,No,34267196
+Diamide,Caenorhabditis elegans,N2,2.5 mM,,,1.74,NS,,,Unknown,,,No,34267196
+Acivicin,Caenorhabditis elegans,N2,75 Î¼M,,,1.46,NS,,,Unknown,,,No,34267196
+N-acetyl serine,Caenorhabditis elegans,N2,5 mM,,,-1.34,NS,,,Unknown,,,No,34267196
+Glutathione,Caenorhabditis elegans,N2,5 mM,,,-13.9,S,,,Unknown,,,No,34267196
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,15 mM,,,-27.2,S,,,Unknown,,,No,34267196
