@@ -1,0 +1,560 @@
+feature,status,importance,ranking
+MaxAbsEStateIndex,rejected,,30
+MaxEStateIndex,rejected,,35
+MinAbsEStateIndex,rejected,,11
+MinEStateIndex,rejected,,2
+qed,confirmed,,1
+SPS,rejected,,2
+MolWt,confirmed,,1
+HeavyAtomMolWt,confirmed,,1
+ExactMolWt,rejected,,15
+NumValenceElectrons,rejected,,53
+MaxPartialCharge,confirmed,,1
+MinPartialCharge,rejected,,2
+MaxAbsPartialCharge,rejected,,13
+MinAbsPartialCharge,confirmed,,1
+FpDensityMorgan1,rejected,,23
+FpDensityMorgan2,rejected,,56
+FpDensityMorgan3,rejected,,64
+BCUT2D_MWHI,confirmed,,1
+BCUT2D_MWLOW,rejected,,14
+BCUT2D_CHGHI,rejected,,46
+BCUT2D_CHGLO,confirmed,,1
+BCUT2D_LOGPHI,rejected,,4
+BCUT2D_LOGPLOW,rejected,,11
+BCUT2D_MRHI,rejected,,2
+BCUT2D_MRLOW,rejected,,8
+AvgIpc,rejected,,16
+BalabanJ,confirmed,,1
+BertzCT,rejected,,37
+Chi0,rejected,,44
+Chi0n,rejected,,27
+Chi0v,confirmed,,1
+Chi1,rejected,,39
+Chi1n,rejected,,32
+Chi1v,confirmed,,1
+Chi2n,rejected,,18
+Chi2v,rejected,,5
+Chi3n,rejected,,34
+Chi3v,rejected,,28
+Chi4n,rejected,,36
+Chi4v,rejected,,30
+HallKierAlpha,rejected,,18
+Ipc,rejected,,59
+Kappa1,confirmed,,1
+Kappa2,confirmed,,1
+Kappa3,confirmed,,1
+LabuteASA,confirmed,,1
+PEOE_VSA1,rejected,,70
+PEOE_VSA10,rejected,,81
+PEOE_VSA11,rejected,,85
+PEOE_VSA12,rejected,,105
+PEOE_VSA13,rejected,,119
+PEOE_VSA14,rejected,,72
+PEOE_VSA2,rejected,,69
+PEOE_VSA3,rejected,,83
+PEOE_VSA4,rejected,,100
+PEOE_VSA5,rejected,,97
+PEOE_VSA6,rejected,,59
+PEOE_VSA7,rejected,,41
+PEOE_VSA8,rejected,,54
+PEOE_VSA9,rejected,,47
+SMR_VSA1,rejected,,38
+SMR_VSA10,confirmed,,1
+SMR_VSA2,rejected,,178
+SMR_VSA3,confirmed,,1
+SMR_VSA4,rejected,,90
+SMR_VSA5,rejected,,22
+SMR_VSA6,rejected,,20
+SMR_VSA7,rejected,,41
+SMR_VSA9,rejected,,57
+SlogP_VSA1,rejected,,71
+SlogP_VSA10,rejected,,11
+SlogP_VSA11,rejected,,61
+SlogP_VSA12,rejected,,82
+SlogP_VSA2,rejected,,30
+SlogP_VSA3,rejected,,76
+SlogP_VSA4,rejected,,89
+SlogP_VSA5,confirmed,,1
+SlogP_VSA6,rejected,,62
+SlogP_VSA7,rejected,,168
+SlogP_VSA8,rejected,,94
+TPSA,rejected,,26
+EState_VSA1,rejected,,77
+EState_VSA10,rejected,,87
+EState_VSA11,rejected,,348
+EState_VSA2,rejected,,26
+EState_VSA3,rejected,,55
+EState_VSA4,rejected,,78
+EState_VSA5,rejected,,63
+EState_VSA6,rejected,,88
+EState_VSA7,rejected,,66
+EState_VSA8,confirmed,,1
+EState_VSA9,rejected,,85
+VSA_EState1,rejected,,53
+VSA_EState10,rejected,,87
+VSA_EState2,rejected,,59
+VSA_EState3,rejected,,9
+VSA_EState4,rejected,,66
+VSA_EState5,rejected,,51
+VSA_EState6,rejected,,8
+VSA_EState7,rejected,,41
+VSA_EState8,confirmed,,1
+VSA_EState9,rejected,,80
+FractionCSP3,rejected,,43
+HeavyAtomCount,rejected,,51
+NHOHCount,rejected,,103
+NOCount,rejected,,79
+NumAliphaticCarbocycles,rejected,,143
+NumAliphaticHeterocycles,rejected,,126
+NumAliphaticRings,rejected,,124
+NumAmideBonds,rejected,,105
+NumAromaticCarbocycles,rejected,,119
+NumAromaticHeterocycles,rejected,,144
+NumAromaticRings,rejected,,111
+NumAtomStereoCenters,rejected,,94
+NumBridgeheadAtoms,rejected,,182
+NumHAcceptors,rejected,,91
+NumHDonors,rejected,,107
+NumHeteroatoms,rejected,,45
+NumHeterocycles,rejected,,115
+NumRotatableBonds,rejected,,68
+NumSaturatedCarbocycles,rejected,,156
+NumSaturatedHeterocycles,rejected,,135
+NumSaturatedRings,rejected,,128
+NumSpiroAtoms,rejected,,319
+NumUnspecifiedAtomStereoCenters,rejected,,132
+Phi,confirmed,,1
+RingCount,rejected,,103
+MolLogP,rejected,,33
+MolMR,rejected,,24
+fr_Al_COO,rejected,,156
+fr_Al_OH,rejected,,127
+fr_Al_OH_noTert,rejected,,134
+fr_ArN,rejected,,161
+fr_Ar_COO,rejected,,203
+fr_Ar_N,rejected,,122
+fr_Ar_NH,rejected,,195
+fr_Ar_OH,rejected,,74
+fr_COO,rejected,,137
+fr_COO2,rejected,,134
+fr_C_O,rejected,,120
+fr_C_O_noCOO,rejected,,121
+fr_Imine,rejected,,197
+fr_NH0,rejected,,6
+fr_NH1,rejected,,67
+fr_NH2,rejected,,137
+fr_Ndealkylation1,rejected,,117
+fr_Ndealkylation2,rejected,,166
+fr_Nhpyrrole,rejected,,173
+fr_alkyl_halide,rejected,,138
+fr_allylic_oxid,rejected,,115
+fr_amide,rejected,,99
+fr_aniline,rejected,,101
+fr_aryl_methyl,rejected,,140
+fr_benzene,rejected,,115
+fr_bicyclic,rejected,,92
+fr_ester,rejected,,153
+fr_ether,rejected,,108
+fr_halogen,rejected,,48
+fr_imidazole,rejected,,222
+fr_imide,rejected,,315
+fr_ketone,rejected,,152
+fr_ketone_Topliss,rejected,,163
+fr_lactam,rejected,,233
+fr_lactone,rejected,,169
+fr_methoxy,rejected,,140
+fr_morpholine,rejected,,290
+fr_nitrile,rejected,,273
+fr_para_hydroxylation,rejected,,131
+fr_phenol,rejected,,73
+fr_phenol_noOrthoHbond,rejected,,76
+fr_piperdine,rejected,,149
+fr_piperzine,rejected,,162
+fr_priamide,rejected,,187
+fr_pyridine,rejected,,159
+fr_quatN,rejected,,174
+fr_sulfide,rejected,,220
+fr_sulfonamd,rejected,,182
+fr_unbrch_alkane,rejected,,154
+fr_urea,rejected,,252
+ATP binding,rejected,,165
+ATPase binding,rejected,,393
+DNA binding,rejected,,129
+G protein-coupled dopamine receptor signaling pathway,rejected,,424
+G protein-coupled receptor activity,rejected,,113
+G protein-coupled receptor complex,rejected,,287
+G protein-coupled receptor internalization,rejected,,421
+G protein-coupled receptor signaling pathway,rejected,,99
+"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",rejected,,203
+G protein-coupled serotonin receptor activity,rejected,,377
+G-protein alpha-subunit binding,rejected,,516
+GABA-ergic synapse,rejected,,246
+Golgi apparatus,rejected,,147
+Golgi membrane,rejected,,518
+Hsp90 protein binding,rejected,,370
+MAPK cascade,rejected,,307
+RNA binding,rejected,,193
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,rejected,,214
+RNA polymerase II transcription regulatory region sequence-specific DNA binding,rejected,,341
+Schaffer collateral - CA1 synapse,rejected,,218
+T-tubule,rejected,,404
+TBP-class protein binding,rejected,,251
+Wnt signaling pathway,rejected,,522
+Z disc,rejected,,304
+acetylcholine binding,rejected,,448
+acetylcholine receptor signaling pathway,rejected,,413
+acid secretion,rejected,,474
+action potential,rejected,,507
+adenohypophysis development,rejected,,492
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,rejected,,221
+adenylate cyclase-activating adrenergic receptor signaling pathway,rejected,,207
+adenylate cyclase-inhibiting G protein-coupled acetylcholine receptor signaling pathway,rejected,,392
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,rejected,,415
+adenylate cyclase-inhibiting dopamine receptor signaling pathway,rejected,,419
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,rejected,,207
+adrenergic receptor signaling pathway,rejected,,353
+adult behavior,rejected,,451
+adult walking behavior,rejected,,375
+amino acid transport,rejected,,425
+amyloid-beta binding,rejected,,429
+anchoring junction,rejected,,451
+angiogenesis,rejected,,348
+ankyrin binding,rejected,,345
+apical plasma membrane,rejected,,151
+apoptotic process,rejected,,253
+arachidonate secretion,rejected,,402
+associative learning,rejected,,471
+auditory behavior,rejected,,471
+autophagy,rejected,,424
+axon,rejected,,170
+axon terminus,rejected,,241
+axonogenesis,rejected,,467
+basal plasma membrane,rejected,,475
+basolateral plasma membrane,rejected,,316
+behavioral fear response,rejected,,375
+behavioral response to cocaine,rejected,,335
+behavioral response to ethanol,rejected,,533
+blood vessel diameter maintenance,rejected,,419
+branching morphogenesis of a nerve,rejected,,529
+brown fat cell differentiation,rejected,,311
+calcium ion transmembrane transport,rejected,,302
+calcium-mediated signaling,rejected,,464
+calmodulin binding,rejected,,285
+carboxypeptidase activity,rejected,,461
+cardiac muscle cell action potential involved in contraction,rejected,,224
+caveola,rejected,,250
+cell adhesion,rejected,,524
+cell body,rejected,,313
+cell differentiation,rejected,,404
+cell division,rejected,,343
+cell junction,rejected,,531
+cell migration,rejected,,481
+cell population proliferation,rejected,,302
+cell projection,rejected,,167
+cell surface,rejected,,130
+cell surface receptor signaling pathway,rejected,,447
+cell wall organization,rejected,,442
+cell-cell signaling,rejected,,248
+cellular response to amyloid-beta,rejected,,432
+cellular response to calcium ion,rejected,,444
+cellular response to dexamethasone stimulus,rejected,,468
+cellular response to ethanol,rejected,,488
+cellular response to glucocorticoid stimulus,rejected,,399
+cellular response to histamine,rejected,,385
+cellular response to hypoxia,rejected,,308
+cellular response to lipopolysaccharide,rejected,,267
+cellular response to mechanical stimulus,rejected,,453
+cellular response to retinoic acid,rejected,,487
+cellular response to steroid hormone stimulus,rejected,,269
+centrosome,rejected,,199
+cerebral cortex GABAergic interneuron migration,rejected,,408
+chemical synaptic transmission,rejected,,160
+chloride transmembrane transport,rejected,,382
+chromatin,rejected,,175
+chromatin binding,rejected,,326
+chromosome,rejected,,332
+chromosome segregation,rejected,,279
+ciliary membrane,rejected,,406
+cilium,rejected,,363
+circadian rhythm,rejected,,284
+clathrin-coated endocytic vesicle membrane,rejected,,517
+cytoplasm,rejected,,20
+cytoplasmic vesicle membrane,rejected,,497
+cytoskeleton,rejected,,311
+cytosol,rejected,,22
+dendrite,rejected,,125
+dendritic spine,rejected,,361
+dentate gyrus development,rejected,,338
+dopamine binding,rejected,,471
+dopamine metabolic process,rejected,,354
+dopamine neurotransmitter receptor activity,rejected,,389
+"dopamine neurotransmitter receptor activity, coupled via Gi/Go",rejected,,415
+dopamine uptake involved in synaptic transmission,rejected,,466
+dopaminergic synapse,rejected,,340
+drinking behavior,rejected,,523
+early endosome,rejected,,322
+endonuclease activity,rejected,,225
+endopeptidase activity,rejected,,334
+endoplasmic reticulum,rejected,,105
+endoplasmic reticulum lumen,rejected,,411
+endoplasmic reticulum membrane,rejected,,196
+endosome,rejected,,147
+endosome membrane,rejected,,401
+enzyme binding,rejected,,171
+epidermal growth factor receptor signaling pathway,rejected,,513
+epithelial cell proliferation,rejected,,336
+estrogen response element binding,rejected,,211
+excitatory postsynaptic potential,rejected,,454
+external side of plasma membrane,rejected,,437
+extracellular exosome,rejected,,123
+extracellular ligand-gated monoatomic ion channel activity,rejected,,491
+extracellular region,rejected,,185
+extracellular space,rejected,,214
+fear response,rejected,,224
+feeding behavior,rejected,,485
+focal adhesion,rejected,,504
+forebrain development,rejected,,494
+gamma-aminobutyric acid signaling pathway,rejected,,365
+glutamatergic synapse,rejected,,239
+glycosyltransferase activity,rejected,,430
+grooming behavior,rejected,,334
+heart development,rejected,,243
+histamine receptor activity,rejected,,330
+hyaloid vascular plexus regression,rejected,,510
+hydrolase activity,rejected,,261
+identical protein binding,rejected,,110
+insulin-like growth factor receptor signaling pathway,rejected,,396
+intercalated disc,rejected,,384
+intracellular calcium ion homeostasis,rejected,,320
+intracellular signal transduction,rejected,,477
+ionotropic glutamate receptor binding,rejected,,529
+lateral plasma membrane,rejected,,483
+learning,rejected,,255
+learning or memory,rejected,,368
+ligand-gated monoatomic ion channel activity,rejected,,519
+ligand-gated monoatomic ion channel activity involved in regulation of presynaptic membrane potential,rejected,,484
+locomotory behavior,rejected,,272
+long-term memory,rejected,,512
+lysosome,rejected,,291
+male gonad development,rejected,,434
+mast cell degranulation,rejected,,432
+maternal behavior,rejected,,352
+membrane,confirmed,,1
+membrane depolarization,rejected,,355
+membrane depolarization during AV node cell action potential,rejected,,277
+membrane depolarization during SA node cell action potential,rejected,,350
+membrane depolarization during atrial cardiac muscle cell action potential,rejected,,363
+membrane depolarization during cardiac muscle cell action potential,rejected,,324
+membrane raft,rejected,,280
+memory,rejected,,205
+metal ion binding,rejected,,49
+microtubule cytoskeleton,rejected,,476
+mitochondrion,rejected,,142
+modulation of chemical synaptic transmission,rejected,,473
+monoamine transmembrane transporter activity,rejected,,421
+monoatomic ion channel complex,rejected,,210
+monoatomic ion transmembrane transport,rejected,,182
+monoatomic ion transport,rejected,,348
+motor behavior,rejected,,266
+negative regulation of DNA-templated transcription,rejected,,232
+negative regulation of apoptotic process,rejected,,237
+negative regulation of blood pressure,rejected,,208
+negative regulation of calcium ion transport,rejected,,324
+negative regulation of cell migration,rejected,,434
+negative regulation of cell population proliferation,rejected,,198
+negative regulation of cellular response to hypoxia,rejected,,494
+"negative regulation of circadian sleep/wake cycle, sleep",rejected,,387
+negative regulation of cytosolic calcium ion concentration,rejected,,483
+negative regulation of dopamine receptor signaling pathway,rejected,,494
+negative regulation of dopamine secretion,rejected,,342
+negative regulation of epithelial cell proliferation,rejected,,302
+negative regulation of gene expression,rejected,,260
+negative regulation of innate immune response,rejected,,510
+negative regulation of insulin secretion,rejected,,386
+negative regulation of neuron migration,rejected,,499
+negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,rejected,,191
+negative regulation of protein secretion,rejected,,412
+negative regulation of smooth muscle contraction,rejected,,318
+negative regulation of synaptic transmission,rejected,,530
+"negative regulation of synaptic transmission, dopaminergic",rejected,,345
+"negative regulation of synaptic transmission, glutamatergic",rejected,,479
+negative regulation of transcription by RNA polymerase II,rejected,,190
+negative regulation of translation,rejected,,263
+nervous system development,rejected,,230
+nervous system process involved in regulation of systemic arterial blood pressure,rejected,,471
+neuroblast proliferation,rejected,,445
+neuron apoptotic process,rejected,,507
+neuron development,rejected,,427
+neuron migration,rejected,,345
+neuron projection,rejected,,151
+neuron-neuron synaptic transmission,rejected,,458
+neuronal action potential,rejected,,329
+neuronal cell body,rejected,,186
+neuronal cell body membrane,rejected,,228
+neurotransmitter receptor activity,rejected,,306
+neurotransmitter reuptake,rejected,,497
+neurotransmitter transmembrane transporter activity,rejected,,265
+neurotransmitter transport,rejected,,210
+nitric-oxide synthase binding,rejected,,457
+non-motile cilium,rejected,,331
+norepinephrine binding,rejected,,260
+nuclear body,rejected,,479
+nuclear envelope,rejected,,365
+nuclear membrane,rejected,,487
+nuclear receptor activity,rejected,,185
+nuclear receptor-mediated steroid hormone signaling pathway,rejected,,214
+nuclear speck,rejected,,281
+nucleolus,rejected,,244
+nucleoplasm,rejected,,95
+nucleus,rejected,,112
+orbitofrontal cortex development,rejected,,532
+ovulation cycle,rejected,,515
+oxidoreductase activity,rejected,,164
+peptidase activity,rejected,,376
+perikaryon,rejected,,394
+perinuclear region of cytoplasm,rejected,,247
+phosphatidylinositol 3-kinase/protein kinase B signal transduction,rejected,,289
+phospholipase C-activating G protein-coupled receptor signaling pathway,rejected,,201
+phospholipase C-activating dopamine receptor signaling pathway,rejected,,409
+photoreceptor outer segment,rejected,,287
+pigmentation,rejected,,405
+plasma membrane,confirmed,,1
+platelet aggregation,rejected,,438
+positive regulation of DNA-templated transcription,rejected,,237
+positive regulation of ERK1 and ERK2 cascade,rejected,,305
+positive regulation of G protein-coupled receptor signaling pathway,rejected,,489
+positive regulation of MAP kinase activity,rejected,,235
+positive regulation of MAPK cascade,rejected,,240
+positive regulation of action potential,rejected,,328
+positive regulation of apoptotic process,rejected,,275
+positive regulation of cell migration,rejected,,314
+positive regulation of cell migration involved in sprouting angiogenesis,rejected,,456
+positive regulation of cell population proliferation,rejected,,189
+positive regulation of cold-induced thermogenesis,rejected,,271
+positive regulation of cytokinesis,rejected,,442
+positive regulation of cytosolic calcium ion concentration,rejected,,230
+positive regulation of dopamine uptake involved in synaptic transmission,rejected,,501
+positive regulation of epithelial cell proliferation,rejected,,502
+positive regulation of gene expression,rejected,,205
+positive regulation of glial cell-derived neurotrophic factor production,rejected,,463
+positive regulation of growth hormone secretion,rejected,,504
+positive regulation of long-term synaptic potentiation,rejected,,396
+positive regulation of miRNA transcription,rejected,,292
+positive regulation of multicellular organism growth,rejected,,501
+positive regulation of neuroblast proliferation,rejected,,422
+positive regulation of neurogenesis,rejected,,463
+positive regulation of neuron apoptotic process,rejected,,427
+positive regulation of nitric oxide biosynthetic process,rejected,,322
+positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,rejected,,520
+positive regulation of protein import into nucleus,rejected,,295
+positive regulation of receptor internalization,rejected,,534
+positive regulation of renal sodium excretion,rejected,,449
+positive regulation of smooth muscle cell proliferation,rejected,,392
+positive regulation of smooth muscle contraction,rejected,,275
+"positive regulation of synaptic transmission, glutamatergic",rejected,,298
+positive regulation of transcription by RNA polymerase II,rejected,,149
+positive regulation of urine volume,rejected,,444
+positive regulation of vasoconstriction,rejected,,218
+postsynapse,rejected,,358
+postsynaptic density,rejected,,302
+postsynaptic density membrane,rejected,,299
+postsynaptic membrane,rejected,,156
+postsynaptic modulation of chemical synaptic transmission,rejected,,508
+postsynaptic specialization membrane,rejected,,439
+prepulse inhibition,rejected,,313
+presynapse,rejected,,379
+presynaptic active zone membrane,rejected,,293
+presynaptic membrane,rejected,,159
+presynaptic modulation of chemical synaptic transmission,rejected,,337
+protein binding,confirmed,,1
+protein domain specific binding,rejected,,296
+protein heterodimerization activity,rejected,,226
+protein homodimerization activity,rejected,,172
+protein kinase binding,rejected,,179
+protein localization,rejected,,527
+protein phosphorylation,rejected,,521
+protein-containing complex,rejected,,145
+proteolysis,rejected,,188
+receptor complex,rejected,,177
+regulation of MAPK cascade,rejected,,535
+regulation of atrial cardiac muscle cell membrane repolarization,rejected,,358
+regulation of blood pressure,rejected,,268
+regulation of cardiac muscle cell contraction,rejected,,512
+regulation of cardiac muscle contraction,rejected,,282
+regulation of cell population proliferation,rejected,,288
+regulation of cell shape,rejected,,465
+regulation of dopamine secretion,rejected,,526
+regulation of dopamine uptake involved in synaptic transmission,rejected,,417
+regulation of heart rate,rejected,,446
+regulation of heart rate by cardiac conduction,rejected,,262
+regulation of inflammatory response,rejected,,371
+regulation of locomotion involved in locomotory behavior,rejected,,436
+regulation of long-term neuronal synaptic plasticity,rejected,,480
+regulation of membrane potential,rejected,,401
+regulation of neurotransmitter uptake,rejected,,440
+regulation of postsynaptic membrane potential,rejected,,182
+regulation of potassium ion transport,rejected,,491
+regulation of presynaptic membrane potential,rejected,,270
+regulation of secretion by cell,rejected,,504
+regulation of smooth muscle contraction,rejected,,379
+regulation of sodium ion transport,rejected,,456
+regulation of synapse structural plasticity,rejected,,526
+regulation of synaptic plasticity,rejected,,372
+"regulation of synaptic transmission, GABAergic",rejected,,381
+regulation of vascular permeability,rejected,,367
+regulation of vasoconstriction,rejected,,297
+release of sequestered calcium ion into cytosol,rejected,,231
+response to antibiotic,rejected,,238
+response to axon injury,rejected,,498
+response to cold,rejected,,339
+response to hypoxia,rejected,,256
+response to oxidative stress,rejected,,366
+response to pain,rejected,,436
+response to toxic substance,rejected,,177
+rhythmic process,rejected,,228
+sarcolemma,rejected,,326
+scaffold protein binding,rejected,,264
+sensory perception,rejected,,410
+sensory perception of pain,rejected,,379
+sensory perception of smell,rejected,,461
+sequence-specific DNA binding,rejected,,193
+sequence-specific double-stranded DNA binding,rejected,,194
+serine-type endopeptidase activity,rejected,,389
+serotonin binding,rejected,,389
+serotonin receptor activity,rejected,,398
+signal transduction,rejected,,96
+signaling receptor activity,rejected,,254
+signaling receptor binding,rejected,,234
+sodium ion binding,rejected,,427
+sodium ion homeostasis,rejected,,451
+sodium ion transmembrane transport,rejected,,250
+sodium ion transport,rejected,,328
+sperm flagellum,rejected,,278
+spermatogenesis,rejected,,373
+startle response,rejected,,417
+steroid binding,rejected,,200
+steroid hormone receptor signaling pathway,rejected,,212
+striatum development,rejected,,407
+symbiont entry into host cell,rejected,,356
+synapse,rejected,,110
+synapse assembly,rejected,,359
+synaptic membrane,rejected,,370
+"synaptic transmission, glutamatergic",rejected,,220
+synaptic vesicle membrane,rejected,,216
+temperature homeostasis,rejected,,283
+transcription coactivator binding,rejected,,246
+transferase activity,rejected,,277
+translation,rejected,,294
+transmembrane signaling receptor activity,rejected,,317
+transmembrane transport,rejected,,258
+transmembrane transporter activity,rejected,,360
+transmembrane transporter binding,rejected,,384
+transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential,rejected,,309
+ubiquitin protein ligase binding,rejected,,397
+vasoconstriction,rejected,,459
+vasodilation,rejected,,257
+virus receptor activity,rejected,,515
+visual learning,rejected,,243
+voltage-gated calcium channel activity,rejected,,352
+zinc ion binding,rejected,,142
