@@ -1,0 +1,26 @@
+# requirements.txt
+# Lifespan Extension Predictor — exact package versions
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# RDKit is best installed via conda:
+#   conda install -c conda-forge rdkit
+# or via pip:
+#   pip install rdkit
+
+# Core scientific stack
+numpy==2.4.2
+pandas==3.0.1
+scikit-learn==1.8.0
+
+# HTTP requests (ChEMBL API)
+requests==2.32.5
+
+# Cheminformatics — install via conda (recommended) or pip
+# conda install -c conda-forge rdkit
+rdkit==2024.9.6
+
+# Feature selection (used during model training, not required for inference)
+# pip install boruta
+boruta==0.3
