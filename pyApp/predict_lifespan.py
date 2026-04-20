@@ -117,7 +117,7 @@ from rdkit.ML.Descriptors.MoleculeDescriptors import MolecularDescriptorCalculat
 from sklearn.ensemble import RandomForestClassifier
 
 # ── Config ────────────────────────────────────────────────────────────────────
-# DATA_DIR is set from --data argument at runtime
+DATA_DIR   = Path(r"C:\Users\flori\Documents\GitHub\Ora-Biomedical-Student-Machine-Learning-Project\notebooks\data")
 SLEEP      = 0.2
 RANDOM_STATE = 42
 
@@ -133,7 +133,6 @@ def load_model():
     a final Random Forest on the full labeled dataset.
     Returns: (rf_model, confirmed_chem_features, confirmed_go_features)
     """
-    global DATA_DIR
     print("Loading training data...")
     chem   = pd.read_csv(DATA_DIR / "chemical_descriptors.csv")
     go     = pd.read_csv(DATA_DIR / "go_term_features.csv")
@@ -348,20 +347,7 @@ def main():
         default="predictions.csv",
         help="Output CSV file path (default: predictions.csv)."
     )
-    parser.add_argument(
-        "--data", "-d",
-        default="data",
-        help="Path to data directory containing model files (default: data/)."
-    )
     args = parser.parse_args()
-
-    global DATA_DIR
-    DATA_DIR = Path(args.data)
-    if not DATA_DIR.exists():
-        print(f"ERROR: Data directory '{DATA_DIR}' not found.")
-        print("  Pass the correct path with --data, e.g.:")
-        print("    python predict_lifespan.py --input file.csv --data ../notebooks/data")
-        sys.exit(1)
 
     predict(Path(args.input), Path(args.output))
 
